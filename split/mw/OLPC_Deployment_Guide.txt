@@ -1,0 +1,29 @@
+= ONE LAPTOP PER CHILD DEPLOYMENT GUIDE 2011 by OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc. =
+
+__NOTOC__
+
+== [[One Laptop per Child]] ==
+
+== [[OLPC Learning Strategy]] ==
+
+== [[Introduction to Deployment Guide]] ==
+
+== [[Project Implementation]] ==
+
+== [[OLPC Support Strategy]] ==
+
+== [[Planning Phase]] ==
+
+== [[Feasibility study]] ==
+
+== [[Purchase Agreements and Ordering Process]] ==
+
+== [[Deployment Phase]] ==
+
+== [[Post Deployment Phase]] ==
+
+== [[Summary of Recommended Tasks]] ==
+
+== [[Related websites]] ==
+
+

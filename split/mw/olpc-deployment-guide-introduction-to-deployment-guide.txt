@@ -1,0 +1,28 @@
+= Introduction to Deployment Guide by OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc. =
+
+__NOTOC__
+
+This document provides guidelines for program directors (government
+officials, foundations, private funders, etc.)  conducting One Laptop per
+Child deployments on a large scale to schools, cities, regions, or country
+wide.
+
+This guide outlines key considerations to be taken into account throughout
+the different stages of a deployment.  It captures the knowledge and
+expertise gained from deploying over 2 million laptops across more than 30
+countries around the world.  Therefore, this document can be adapted for
+each new deployment according to each country’s unique cultural, economical
+and socio -- political context and in accordance with its particular
+strengths and capabilities.
+
+== Deployment Phases Overview ==
+
+A deployment can be divided in three main phases: Planning Phase,
+Deployment Phase, and Post- Deployment Phase.  This document is meant to
+guide project managers through the roadmap towards a successful deployment,
+by describing essential steps, and decisions to consider, and by suggesting
+an action timeline.
+
+[[Image:1_deploy_phases_overview.jpg]]
+
+

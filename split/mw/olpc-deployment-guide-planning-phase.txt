@@ -1,0 +1,81 @@
+= Planning Phase by OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc. =
+
+__NOTOC__
+
+The planning phase initiates with the idea of starting a project with One
+Laptop Per Child and concludes once an order is placed with the
+manufacturer.  OLPC provides assistance to sponsors in making the decisions
+necessary during this phase, and in defining actions required in accordance
+with the objectives of the program.  During the planning phase, sponsors
+can get a better understanding of the elements involved in various stages
+of deployment, including human, technical, and financial aspects.  The
+elements included in the planning phase are: consideration of possible
+financing approaches, a feasibility study, and a purchasing agreement
+followed by an order for laptops.
+
+[[Image:7_planning_phases.jpg]]
+
+== Financing Approaches ==
+
+In considering a deployment with OLPC, project sponsors typically take one
+of following three approaches:
+
+=== Geographic Focus ===
+
+With the geographic approach, a project sponsor selects a particular region
+that is of interest to them.  Such region can be a country, state, city or
+community.  A multi-city approach is not recommended as it leads to less
+efficient use of infrastructure and administration, reducing the number of
+children reached.  With the region selected, a project sponsor should be
+able to determine the number of students, teachers and schools in that
+region.  The number of schools with electricity and Internet connectivity
+should also be determined.  With these five pieces of information, a
+sponsor can use the feasibility model in the appendix to determine the
+annual budget for the project and decide whether a phased approach is
+necessary given possible budget constraints.
+
+=== Budget Constraints ===
+
+Many project sponsors come to OLPC with a country selected and a fixed
+budget to support a project.  Within 2-4 hours working with OLPC, a sponsor
+can determine the number of students that can be benefited by the project.
+For this process to work efficiently, the following information is
+required:
+
+* Average number of students per school
+* Average number of teachers per school
+* % of schools with electrification
+* % of schools with Internet connectivity
+
+=== Political or social objectives ===
+
+Some sponsors view an OLPC project as a means of achieving political or
+social change.  For example, the government of Uruguay undertook their
+project CEIBAL as a way of fostering social inclusion.  This approach does
+not present a challenge for OLPC; in fact, it often leads to the
+development of a project strategy far quicker than either of the other two
+approaches.  With the use of the feasibility model and the four pieces of
+information outlined in the Fixed Budget approach, any politically- or
+socially- oriented project can be translated into a budget and the number
+of laptops to be deployed.
+
+== Key Assumptions ==
+
+It is important for a sponsor to understand certain key assumptions about
+the costs involved in carrying out a project:
+
+* It is recommended that full-time staff with no other responsibilities manage a deployment. Ideally, a new company/foundation or government agency is formed to undertake the responsibility.  While such an approach may add to the cost, OLPC believes that the cost is more than offset by the improved effectiveness of management.  This approach also leads to a healthy separation of day-to-day management from politics in government-sponsored projects.
+* Pedagogical staff is the key to a successful deployment, both initially and thereafter.  Consequently, the staffing budget provides for each school to be visited at least once a month after initial training to reinforce training and improve teacher skills.  Significant expenses are also incurred through network and connectivity management at the school level and through maintenance of the portals that serve students, parents, teachers and the community.
+* It is recommended that a project has a call center to provide help desk and technical support to students, teachers and parents.  These centers also manage the repair process for inoperable units.  A budget for spare parts based on historical statistics is included in the model.  Necessity of repairs may vary depending on the student usage of the laptops.
+* The cost of electricity and connectivity is highly dependent on the country of the deployment and service availability.  The model is designed to provide for solutions in any environment from no available services for electricity and connectivity to a full complement of services similar to the U.S.  and any alternative in between.  A detailed survey by school conducted by trained professionals improves the accuracy of the model greatly.  The most likely factor to be overlooked is the increase in electricity consumption at schools after the computers are delivered to the children.
+* A significant additional cost for the computers may be import duties and taxes.  OLPC does not offer legal and tax advice and does not participate in schemes aimed at reducing or avoiding taxes and duties.  Determination of applicable expenses for such items is the responsibility of the sponsor.  OLPC does provide estimated costs for freight and insurance and typically quotes the laptop price as CIF.  Given that OLPC has much greater experience arranging ocean freight from China (through DHL) than most project sponsors, It is recommended that the sponsor allow OLPC to do it.  OLPC does not markup freight and insurance.
+
+== Financial Assumptions ==
+
+The following table offers a breakdown of the costs associated with
+executing a project.  The first group of assumptions refers to
+non-recurring costs such as hardware, shipping, and electrical setup (if
+necessary).  The second group includes recurring costs such as monthly
+operating costs and salaries for employees.
+
+[[Image:8_financial_assumptions.jpg]]

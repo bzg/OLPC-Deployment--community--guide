@@ -1,0 +1,64 @@
+= OLPC Support Strategy by OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc. =
+
+__NOTOC__
+
+One Laptop Per Child provides assistance throughout the different stages of
+a deployment, focusing on three major types of support: Operational,
+Educational, and Technical.
+
+OLPC believes building local capacity in both educational and technical
+fields is the key to self-sustained deployments and to the fostering of
+local project ownership.  OLPC strategy entails pre-deployment training
+of core team and ongoing remote post-deployment support (via email,
+phone, or chats) dependent on the needs of the project.
+
+OLPC provides free support to projects of any size.  For projects with
+orders larger than 25,000 units, OLPC sends Educational and Technical
+Support staff to the country of deployment for one week of comprehensive
+technical and educational training.  This also applies to smaller orders
+(5,000+ units) that have the potential for significant growth in a short
+period of time.  For projects exceeding 50,000 units, the initial training
+can be extended to two weeks with 2 additional week-long training sessions
+within a 12 month period.
+
+Follow-up visits to a country are on per request basis; additional
+educational training can be provided 2- 3 times per year after the initial
+training.  In-country training costs (excluding facilities and supplies)
+are covered by OLPC, although sponsors typically provide suitable lodging
+for OLPC staff.  In certain particularly challenging environments can OLPC
+provide full-time in-country staff, including project managers, technical
+directors and learning directors.  The costs of this level of OLPC service
+are negotiated at the time of the request.
+
+== OLPC Operations Support ==
+
+OLPC offers direct support to funders and project managers during the
+planning phase of deployment when strategic decisions related to financing,
+legal agreements, and ordering processes need to be taken.  OLPC offers
+ongoing support to the logistics department of core team in regards to
+supply-chain management.
+
+== OLPC Educational Development Support ==
+
+Once a project is officially established, OLPC facilitates workshops for
+core teams to develop an understanding of the XO as a learning tool.  OLPC
+provides guidance in the process of defining a support structure for
+schools or learning centers.  OLPC provides ongoing support throughout the
+different teacher training phases of a deployment and for educational
+content development.
+
+== OLPC Technical Development Support ==
+
+OLPC also focuses on building local capacity in technical aspects such as:
+setting local infrastructure and connectivity; and all other
+responsibilities regarding software, hardware, maintenance and repairs of
+machines.
+
+== Volunteers and Internship Programs ==
+
+Another support strategy from OLPC entails Volunteer and Internship
+programs.  During the months of June, July and August, OLPC launches
+internship programs for students of recognized universities in different
+countries.  The objective of the programs is for interns to work closely
+with the core team and to provide support in different areas of the
+projects depending on their backgrounds and areas of study.
