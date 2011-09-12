@@ -94,7 +94,7 @@ guide project managers through the roadmap towards a successful deployment,
 by describing essential steps, and decisions to consider, and by suggesting
 an action timeline.
 
-FIXME: fig 1
+[[Image:1_deploy_phases_overview.jpg]]
 
 == Project Implementation ==
 
@@ -120,7 +120,7 @@ of project implementation.  The elements of the pyramid are meant to be in
 a constant cycle where the top always gives feedback to the rest of the
 domains.
 
-FIXME: fig 2
+[[Image:2_project_implementation.jpg]]
 
 === Core Team ===
 
@@ -139,7 +139,7 @@ and/or educational fields.  The project manager should take on the
 selection of the core team members he will manage.  The following
 organizational chart for the Core Team is recommended:
 
-FIXME: fig 3
+[[Image:3_core_team.jpg]]
 
 For large deployments (>50,000 units) we consider a vital requirement to
 comply with all members mentioned in the organizational chart.  Local
@@ -153,7 +153,11 @@ manager.
 The following chart provides additional information on the responsibilities
 and required skills of the Core Team members:
 
-FIXME: fig 4
+[[Image:4_core_team_skills_1.jpg]]
+
+[[Image:5_core_team_skills_2.jpg]]
+
+[[Image:6_core_team_skills_3.jpg]]
 
 == OLPC Support Strategy ==
 
@@ -231,7 +235,7 @@ elements included in the planning phase are: consideration of possible
 financing approaches, a feasibility study, and a purchasing agreement
 followed by an order for laptops.
 
-FIXME: fig 5
+[[Image:7_planning_phases.jpg]]
 
 === Financing Approaches ===
 
@@ -296,7 +300,7 @@ non-recurring costs such as hardware, shipping, and electrical setup (if
 necessary).  The second group includes recurring costs such as monthly
 operating costs and salaries for employees.
 
-FIXME: fig 6
+[[Image:8_financial_assumptions.jpg]]
 
 == Feasibility study ==
 
@@ -337,7 +341,7 @@ in school, whether or not they are charging their batteries while they are
 working, and how many hours per day the school server and connectivity are
 operational.)
 
-FIXME: fig 7
+[[Image:9_feasibility_study.jpg]]
 
 The total energy required to operate 100 laptops and a school server over
 an eight hour period is approximately 570 Watts times 8 hours, or 4560
@@ -559,7 +563,7 @@ their destination or distribution site; etc.  This information will assist
 OLPC in working with core team to establish an orderly and efficient XO
 delivery schedule.
 
-FIXME: fig 8
+[[Image:10_xo_order_process.jpg]]
 
 == Deployment Phase ==
 
@@ -585,7 +589,7 @@ Once laptops arrive in a country, the steps to follow include setting up
 logistics, training the core team with OLPC, setting up school
 infrastructure, preparing schools and community, and rolling out laptops.
 
-FIXME: fig 9
+[[Image:11_deploy_phases.jpg]]
 
 === Setting Logistics ===
 
@@ -770,7 +774,7 @@ workshop can include:
 The following agenda is a sample of the topics usually covered during a 1
 week workshop with Core Team:
 
-FIXME: fig 9
+[[Image:12_training.jpg]]
 
 The workshop is a hands-on experience that will not only enable
 participants to become familiar with technical and pedagogical aspects of
@@ -791,7 +795,7 @@ deployments to attend.
 
 The following are examples of advanced workshop for Core Team:
 
-FIXME: fig 10
+[[Image:13_workshop_core_team.jpg]]
 
 ==== Content Development ====
 
@@ -872,7 +876,7 @@ the multicast traffic
 
 Recommended minimum specifications for a school server are as follows:
 
-FIXME: fig 11
+[[Image:14_xs_specs.jpg]]
 
 The amount of power required for school servers depends on the
 specifications of machines used.  This needs to be taken into consideration
@@ -950,7 +954,7 @@ the progress of each school and teacher.
 The following agenda is a sample of the topics the core team can be covered
 during an initial teacher training:
 
-FIXME: fig 12
+[[Image:15_initial_teacher_training.jpg]]
 
 Deploying laptops to every child in an entire region or country cannot be
 managed by the core team alone.  It must be led by the core team, and
@@ -1019,7 +1023,7 @@ Post deployment should focus on three key areas:
 # Extracurricular Environments
 # Maintenance and Repairs
 
-FIXME: fig 13
+[[Image:16_post_deploy.jpg]]
 
 Community support is also a key success factor for a project.  Many
 projects establish web portals for students, parents and teachers where
@@ -1178,8 +1182,4 @@ be trained by technical team to do this themselves.
 
 The Sugar Labs Wiki, provider of the Sugar software environment and
 activities that run on the XO laptops.
-
-
-
-
 
