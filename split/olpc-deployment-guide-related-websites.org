@@ -1,0 +1,23 @@
+#+TITLE: Related websites
+#+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
+#+DATE: 2011-09-12
+
+- Official OLPC website: http://laptop.org
+
+- The OLPC Wiki: http://wiki.laptop.org
+
+- http://wiki.laptop.org/go/Deployment_Guide : The wiki version of
+  deployment guide might contain additional information to start up
+  deployments, and provide a place for you to share your lessons learned.
+
+- http://en.flossmanuals.net/Sugar : The Sugar Manual on floss manuals,
+  searchable as a website or downloadable as a PDF.
+
+- http://forum.laptop.org : Official OLPC community support forum.
+
+- Frequently Asked Questions: http://wiki.laptop.org/go/Support_FAQ
+
+- http://wiki.sugarlabs.org
+
+The Sugar Labs Wiki, provider of the Sugar software environment and
+activities that run on the XO laptops.

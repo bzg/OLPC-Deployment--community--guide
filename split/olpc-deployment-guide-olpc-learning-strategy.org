@@ -1,0 +1,57 @@
+#+TITLE: OLPC Learning Strategy
+#+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
+#+DATE: 2011-09-12
+
+“It’s an education project, not a laptop project”
+
+OLPC’s principles are based on the learning theory of Constructionism,
+which refers to the concept of “learning by doing”.  Seymour Papert, a
+mathematician, computer scientist, and educator; developed the theory of
+Constructionism built upon the work of renown Swiss psychologist of Jean
+Piaget on Constructivism learning theories.
+
+Papert explained that learning is most effective when the learner is
+engaged in the construction of a meaningful product, and that technology
+can become the tool for building knowledge.  He made the first and most
+important efforts to provide children with control of new technologies.
+Based on his research he suggests all children should learn to program the
+computer, because this allows them to develop unique skills that empower
+learners to learn about the way they learn.
+
+OLPC’s philosophy is inspired by Papert and other progressive educators who
+share his ideas about learning.  We believe the laptop is the agency to
+engage children in constructing knowledge based upon their personal
+interests.  The laptop provides children with tools for sharing and
+critiquing these constructions which will lead them to become better
+learners and teachers.  Therefore, OLPC does not focus on computer
+literacy, as that is a by-product of the fluency children will gain
+through use of the laptop for learning.
+
+OLPC learning strategy focuses on building:
+
+- Developing Digital Fluency.  This refers to computer programming skills
+  and to the ability to build things of significance with technological
+  tools.  “A technologically fluent person should be able to go from the
+  germ of an intuitive idea to the implementation of a technological
+  project (Papert & Resnick, 1995)”.
+
+- Reflecting about learning, learning to learn and thinking about
+  self-learning strategies.
+
+- Building learning and innovation skills in alignment to with the 21st
+  Century Skills:
+
+  - Creativity and Innovation
+  - Critical Thinking and Problem Solving
+  - Communication and Collaboration
+
+*Software : The Sugar Learning Platform*
+
+In accordance with the learning theory of Constructionism and OLPC’s
+principle of Open Software, Sugar provides the appropriate platform to
+achieve OLPC’s learning strategies and mission.  With Sugar’s Activities,
+children engage in exploring knowledge, in expressing themselves through
+different media and in computer programming skills.  Sugar promotes
+collaborative learning through Activities that encourage critical thinking,
+collaboration, and reflection.
+

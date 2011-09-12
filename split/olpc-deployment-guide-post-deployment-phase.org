@@ -1,0 +1,139 @@
+#+TITLE: Post Deployment Phase
+#+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
+#+DATE: 2011-09-12
+
+There is a tremendous tendency to think that the work is done once the
+laptops reach the children, but the laptop arrival really marks the
+commencement of the most critical phase in a deployment and its positive
+impact on the children.
+
+Post deployment should focus on three key areas:
+
+1. Continued Teacher Training and Support
+2. Extracurricular Environments
+3. Maintenance and Repairs
+
+FIXME: fig 13
+
+Community support is also a key success factor for a project.  Many
+projects establish web portals for students, parents and teachers where
+they can share information and see the progress of the students.  Many
+projects also sponsor contests using the laptops which can be supported by
+private sector sponsors.  An additional resource is the websites and
+portals of other OLPC projects around the world where additional ideas for
+community support are available.
+
+Every project should have an ongoing public relations program to build
+community support, develop pride in the project and its results and
+possibly as a means to attract additional funding.  Many projects have
+international public relations programs that attract academic interest in
+the local project and prompt visits from multi-lateral institutions
+interested in education and social projects.  Through its public relations
+program Project Ceibal in Uruguay has garnered worldwide attention as one
+of the leading educational laboratories in the world.
+
+*Evaluation Studies*
+
+Many projects benchmark their students and then periodically evaluate the
+student progress every six or twelve months.  The UN uses six month
+evaluations and large federal projects typically evaluate students every
+year.  The advantage of benchmarking is that it provides objective,
+transparent feedback on the success of the project and many multi-lateral
+financial institutions require it.  OLPC leaves evaluation to the sponsor’s
+decision, but OLPC can provide resources to implement an evaluation
+program.
+
+* Continued Teacher Training and Support
+
+Teachers are a key part to any successful deployment.  As the teachers see
+the increased student enthusiasm for learning as a result of the laptops,
+the teachers naturally become more demanding for their own additional
+training; help to integrate Sugar into the curriculum and hands on
+assistance to develop lesson plans using the laptops.  Every project should
+be designed to provide a minimum of once a month additional training to
+every teacher in the project.  It should also be noted that the teacher
+trainers will need periodic additional training from OLPC to reinforce the
+OLPC pedagogy and expand their skill levels.
+
+After initial teacher training has occurred, the local learning team must
+provide other support mechanisms for teachers in order to aid the process
+of integrating laptops to their daily teaching routine.  In-class
+assistance, support for lesson plan development, are examples of strategies
+to be offered on a school level.  Regular meetings with teachers can
+provide direct feedback for educational team to plan for additional
+learning workshops, which should be based on teachers and students needs.
+These meetings also provide an opportunity for teachers to share their
+experiences, learn different strategies, plan interdisciplinary projects,
+and create strong school ties.
+
+Content Development is another area that core team needs to constantly work
+on.  It is important for teachers to have access to updated and innovative
+resources.  Examples of this content can include: Lesson plans, Guides,
+Case studies, assessment guides, online resources, and blogs.
+
+* Extracurricular Environments
+
+Extracurricular programs where children can use the XO laptops outside of
+school settings are essential for meaningful learning experiences.  When
+children are highly engaged in using the XO for activities they are
+interested in, not for contents limited to school curriculum, we allow them
+to fully explore their interests while appropriating new technological
+skills.  It allows children to use self expression and creativity and
+consequently become fluent with the technology, while increasing their
+motivation, self empowerment, and impacting their lives in an extraordinary
+way.
+
+We recommend designing and organizing After-school/ Weekend programs, clubs
+or camps with specific topics or activities at different schools or
+communities.  These programs can involve teachers, students from different
+levels, as well as local partners and can provide an excellent experience
+where learners (teachers and students) create, collaborate and share
+projects and ideas.
+
+Integrating the family through activities that allow parents to work with
+their children in specific projects related to their interests is another
+enriching experience for students and families.  The objective is not only
+to enable parents to share knowledge and experience with their children,
+but also to understand the value of the computer and how it fits into the
+learning process.  This is also important for the viability and
+sustainability of the project.
+
+* Maintenance and Repairs
+
+The actual repair of the laptops may be handled in many ways.  There are
+three popular methods:
+
+1. The students repair their own laptops and parts are delivered to the
+   schools bi-monthly based on an order.
+   
+2. The laptops are repaired by third party repair facilities located
+   throughout the project area; this approach creates local jobs.
+   
+3. The laptops are repaired by technicians who visit the schools on a
+   bi-monthly basis and make the repairs.
+
+The choice of a repair procedure depends on the educational, political and
+economic objectives of the project sponsor.  Another issue with respect to
+repairs is who pays for the parts and labor involved in repairing the
+laptop.  Some projects offer the first repair for free and subsequent
+repairs are paid by the child’s parents.  Other projects offer all repairs
+for free because the families lack the money to pay even a small cost.  The
+policy with respect to repairs and payment should be explained at the
+initial community event where the project is introduced to school
+administrators and parents.  Laptops are shipped with an overstock of 1% of
+the order.  These “extra” laptops should be used as replacements for
+failures in the field.  Thus the “broken” laptops are a ready supply of
+spare parts for other components, such as the display, the wifi antennae,
+and the motherboard.
+
+Most repairs, including replacement of the motherboard can be done in the
+field with just a screwdriver.  The children can make these repairs
+themselves and are encouraged to do so by OLPC.  Regional distribution of
+spare parts is something to consider, as well as the authorization of
+regional repair centers.
+
+While commercial-grade support could be arranged, it is discouraged by OLPC
+both because it tends to raise costs and it adds a level of external
+dependency that is unnecessary.  If you feel the need to invest in support,
+we encourage you to make that investment locally, the local community can
+be trained by technical team to do this themselves.

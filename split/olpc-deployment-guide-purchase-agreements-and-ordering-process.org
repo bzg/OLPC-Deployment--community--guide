@@ -1,0 +1,225 @@
+#+TITLE: Purchase Agreements and Ordering Process
+#+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
+#+DATE: 2011-09-12
+
+This section describes the customary process prior to ordering laptops
+which includes certain decisions about the technical features of the XO and
+the related contractual agreements.
+
+* Selecting your XO
+
+The XO can be manufactured in various forms to best fit the local context
+of the deployment.
+
+** Keyboards
+
+XO laptops can be manufactured with a variety of language for keyboards.
+In order for an XO keyboard to be available, a high-resolution image of the
+layout must be accessible and existing XO software must support the
+keyboard image.OLPC software releases are designed to support the
+International XO keyboard option.
+
+** AC Adapters
+
+There are two types of adaptors available brick or wall mount.  The XO AC
+adapter has an input of 100- 240 volts and is available in 3 options:
+
+- 2 flat prong (US)
+- 2 round prong (EU)
+- 3 flat prong (UK)
+
+** Memory
+
+The XO uses solid state memory instead of a hard disk.  This is primarily
+to improve its robustness but also to improve performance and reduce power
+consumption.  The default memory type is 1GB of RAM and 4GB of Flash.
+Depending on the budget and usage requirements, selection of faster or
+bigger solid state memory for the XO can improve performance and storage
+capacity.
+
+** Content and Custom Image
+
+OLPC has developed a mechanism whereby the collection of “activities” and
+content “bundles” loaded onto the laptop can be readily pre-configured.  It
+is also reasonably easy to reconfigure the XO in the field.  It is the
+responsibility of the core team to determine which activities beyond the
+default set distributed by OLPC should be included on the laptop.
+Everything provided on the XO, including texts, dictionaries,
+documentation, etc., can be localized.  Electronic books—in formats such as
+PDF, DOC, HTML—and other media can be pre-loaded onto the laptop as a
+content bundle.  Please ask OLPC for suggestions as to potentially useful
+materials and pre-loaded content preparation.
+
+In addition, a deployment may choose to deploy computers with a custom
+image.  A custom image is a selection of XO activities designed by a local
+deployment team.  The option to load a custom image onto the XO at the time
+of manufacturing depends on the level of skill and commitment from the
+project’s technical and learning advisors.  There is also a minimum order
+requirement for loading a custom image at the time of manufacturing.  A
+custom image requires testing and maintenance.  OLPC provides projects with
+the guidelines for this process; however, no technical support can be
+provided for custom images as they are designed by core teams.  Sponsors
+interested in XO custom images should consult with OLPC technical
+personnel, who will assess the project’s suitability for this option.  If a
+decision is reached to load a custom image at the time of manufacturing,
+the final image must be presented to OLCP no later than 4 weeks prior to
+the scheduled XO production.
+
+Once the XO is physically customized for a particular country, it is ready
+to be used.  However, due to the different curricula and language
+variations of each country, it may be useful to select specific activities
+to install on the XO as part of a “custom build” and also to review the
+content available in the local language to determine if any work is
+necessary to create translations or provide new content that is more
+culturally relevant.  This could include the following:
+
+- Pre-loading specific Sugar Activities to support specific curricula
+  needs;
+
+- Pre-loading specific activity content such as e-books;
+
+- Browser bookmarks to country specific education websites;
+
+- Maps;
+
+- Providing language translations for Sugar and Activities loaded on the
+  laptop (so that system messages, menus and buttons are in the local
+  language);
+
+- Providing language translations for Activity content (so that content
+  within activities is in the local language, e.g.  e-books or place names
+  on maps);
+
+- Developing customized Sugar Activities to meet specific curriculum needs;
+  and Developing custom content to meet specific curriculum or cultural
+  needs.
+
+
+The custom XO image option requires a certain level of skill and commitment
+from the technical and learning deployment advisors.  OLPC will help with
+the bundling process, but the responsibility for testing the bundle rests
+with the in-country deployment teams.
+
+* Purchase Agreement
+
+OLPC recognizes a binding commitment from a sponsor to a project upon
+receipt of a signed purchase agreement and a letter of credit in favor of
+OLPC for 100% of the value of the laptops.  OLPC also accepts advance telex
+transfers of cash in lieu of letters of credit.
+
+The purchase agreement includes five major sections:
+
+1. Detailed specifications of the laptop including the configuration of RAM
+   and flash memory;
+
+2. Number of laptops ordered and the price per laptop CIF;
+
+3. Delivery schedule ;
+
+4. Warranty terms and conditions; and
+
+5. Standard legal sections such as governing law and dispute resolution.
+
+For purchases of large quantities of XOs, OLPC will work on a contractual
+agreement detailing the terms and conditions of the XO orders.  OLPC has a
+contract template that can be modified in accordance with the deployment
+requirements.  Issues addressed in the OLPC contract include payment terms,
+warranty, letter of credit guidelines, and other topics pertaining to the
+XO procurement process.  OLPC’s finance, supply chain, and logistics
+personnel work closely to ensure the deadlines and conditions set forth in
+the contractual agreement are adhered to.
+
+** Payment & Inco terms
+
+The most common payment option for large-scale XO orders is 20% down
+payment and 80% payable by transferable letter of credit.  The OLPC
+template for issuing transferable letters of credit can be found in the
+OLPC contract.  OLPC Finance personnel are committed to ensuring any
+finance issues pertaining to an OLPC purchase are addressed quickly and
+efficiently.  The Incoterm used for large quantity XO orders is CIF (cost,
+insurance, and freight Incoterms 2010).  The CIF term means that the seller
+(OLPC) is responsible for the shipment and insurance costs from the country
+of origin to the port of destination.
+
+The buyer of the shipment is responsible for all costs associated with the
+shipment once the goods are delivered to the port of destination.  These
+costs include customs entry and clearance, entry duties and taxes,
+demurrage charges, landing charges at the importer's port, the unloading
+onto trucks at the importer's port and the delivery to the final
+destination.
+
+** Warranty
+
+All XO orders are shipped with an additional 1% of units in lieu of a
+conventional warranty program.  These units are shipped at no extra cost.
+In addition to the supplemental units, OLPC provides a limited warranty in
+the event of an epidemic failure.  Details on this warranty can be found in
+the OLPC contract.
+
+** Local Duties and Taxes
+
+The local duties and taxes associated with a shipment of XO laptops vary
+depending on the rules and regulations of the local customs authority.
+Import duties for laptops can be very high, and may reach20% of the
+commercial value in some cases.  In order to avoid such taxes, OLPC
+recommends that local teams research local processes for tax exemption and
+seek such exemption whenever possible.
+
+Receiving tax exemption on imported laptops for educational purposes may
+require authorization from a number of local authorities; gaining such
+authorization may take considerable planning.  Local customs authorities
+should be consulted regarding the process and time frame of receiving a
+recognized exemption.  OLPC is able to provide any documentation necessary
+to process an exemption request with local authorities.
+
+** Spare Parts
+
+XO spare parts can be purchased in conjunction with an initial XO order or
+at a later date.  OLPC can assist the logistics department of team in
+purchasing spare parts from the XO manufacturer.  Spare parts are available
+in a range of minimum order quantities.  If spare parts are purchased with
+an initial order, OLPC can recommend specific parts and quantities.
+
+OLPC logistics staff based in Miami, FL track each order from receipt of
+the letter of credit through the delivery of computers to the requested
+port.  Weekly status reports can be provided to a project sponsor.  It is
+the responsibility of local sponsors to clear units through local customs.
+Local sponsors are also solely responsible for any and all duties, taxes,
+fees and other costs related to freight forwarding services .
+Additionally,local sponsors are responsible for all costs of transporting
+computers from the dock to the warehouse.
+
+* XO Order Process and Lead Time
+
+In order to minimize the end cost, OLPC manufactures laptops to order and
+does not maintain an inventory of laptops.  Formalizing the commitment to
+purchase XO laptops assists OLPC in working with core team to establish a
+deployment timeline that will lead to an efficient XO deployment
+experience.
+
+Upon receipt of payment (cash in advance or letter of credit), OLPC sends a
+purchase order to manufacturer, this takes 1-2 weeks to process.  It
+normally takes 12-16 weeks to manufacture the laptops.  The manufacturing
+company has the capacity to produce 240,000 laptops per month for OLPC
+although pre-existing OLPC orders would normally reduce this capacity.
+(Few projects are capable to deal with more than 50,000 laptops arriving in
+a single month.)  OLPC normally quotes 6 weeks for sea shipment of the
+units.  Shipping the laptops by air takes less time from pick up to
+delivery destination.  However, airfreight is more costly and is not
+recommended.
+
+The estimated transit time for ocean freight delivery is 1-6 weeks from the
+time of XO availability at the manufacturer.  When planning for deployment
+please allow 14-24 weeks from the time of payment issued to the date in
+which you can expect your XO shipments at the designated port.  OLPC will
+work with your deployment team to establish a proposed XO delivery
+schedule.  Depending on the XO order quantity, delivery can be made in one
+or multiple installments.  Issues to consider when developing your XO
+delivery schedule should include: when laptops are required for teacher
+training prior to the scheduled roll out; time required for local inventory
+systems to process an XO delivery; final transit time for XO delivery to
+their destination or distribution site; etc.  This information will assist
+OLPC in working with core team to establish an orderly and efficient XO
+delivery schedule.
+
+FIXME: fig 8

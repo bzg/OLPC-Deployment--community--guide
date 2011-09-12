@@ -1,0 +1,59 @@
+#+TITLE: Feasibility study
+#+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
+#+DATE: 2011-09-12
+
+The feasibility study can provide data for enhanced decision-making and
+budgeting purposes.  It is recommended that project sponsors perform this
+study in order to have a better understanding of the target population and
+local infrastructure.  After financing approaches and program objectives
+have been delineated, other elements should be analyzed before moving on.
+The school (or education center) selection process should be based on the
+objectives of the program such as saturation based on grade levels,
+saturation based on region or district, or saturation based on specialized
+programs.  Having schools involved from the early stages can drive school
+leaders to a positive response towards the program and can facilitate
+project ownership at the school level.  A feasibility study should include:
+
+- School surveys
+- Power and connectivity status
+- Allocation of laptops (warehouse and distribution process)
+- Human resources (program implementation)
+
+Once the schools are selected, a school survey should collect information
+including the number of classrooms, students, teachers, and administrators.
+It is important to keep in mind the accessibility of schools when planning
+the distribution of laptops and spare parts, as well as when designing the
+support and supervision structures of the program.  Moreover, an assessment
+of power, infrastructure and connectivity at individual schools should be
+made as part of the feasibility study.  The results of the assessment
+should be used to revise plans in terms of timelines and costs, and to
+mitigate any gaps in school readiness.  The assessment should include
+availability of grid power (or alternative sources such as generators or
+solar panels) and power capacity (in watts), availability of sockets within
+each classroom, number of school servers needed, and internet availability
+(DSL, VSAT, or GSM).
+
+The following equation can be used to estimate the power requirements for
+each school.  (The Watt- hours are dependent on how long the children are
+in school, whether or not they are charging their batteries while they are
+working, and how many hours per day the school server and connectivity are
+operational.)
+
+FIXME: fig 7
+
+The total energy required to operate 100 laptops and a school server over
+an eight hour period is approximately 570 Watts times 8 hours, or 4560
+Watt-hours.  If, for example, this energy was to be generated and stored
+over the course of a two hour period, roughly 11,400 Watts of generating
+capacity would be needed to feed a battery system with adequate storage
+capacity, assuming 80% efficiency.
+
+* Solar Panels
+
+If the location of deployment is remote and isolated, and no electrical
+power is available, solar panels can be an alternative solution.  Panels of
+10 and 15 Watt solar-panel solutions are compatible with the XO.  The 10W
+panel at full output will fully charge a drained battery in just under
+three hours if the laptop is turned off.  If the laptop is running, then
+full sun with the 10W panel will provide enough average power to run the
+laptop and slowly charge the battery (in about six hours).

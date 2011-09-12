@@ -1,0 +1,60 @@
+#+TITLE: Project Implementation
+#+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
+#+DATE: 2011-09-12
+
+An OLPC project has a direct impact on children and their learning
+outcomes.  Other actors that are equally impacted by the project are the
+school systems (especially teachers), families, and communities as a whole.
+It is important to consider all of these actors when defining objectives
+and implementation strategies.  Various domains must be included in such
+strategies in order to ensure sustainability of the project.  The pyramid
+below illustrates the hierarchy of these domains.
+
+The base of the pyramid is infrastructure, which refers to providing access
+not only to the laptop, but also to the electrical grid (or other
+alternative power source), to the Internet, and to school servers.  Without
+this base, movement towards the top of the pyramid will be very difficult
+and will limit the outcomes expected to be achieved with the project.  The
+top tier refers to two types of assessments.
+
+Assessments of the first type measure the project’s impact, including
+student learning and other objectives, such as social effect and school
+improvement.  Assessments of the second type identify areas for improvement
+of project implementation.  The elements of the pyramid are meant to be in
+a constant cycle where the top always gives feedback to the rest of the
+domains.
+
+FIXME: fig 2
+
+* Core Team
+
+For successful implementation of the OLPC project, we highly recommended
+deployments to recruit and build a local team with skills in: managerial,
+logistics, technical, and educational fields.  The term we use to refer to
+this team is the “Core Team”.  This team will serve as the interface
+between the project and OLPC.
+
+We advise hiring a project manager with experience in: project and budget
+planning, external relations and communication.  This manager is expected
+to plan and coordinate operations, as well as to supervise the different
+departments involved in the project.  In addition to managerial skills it
+is preferable that the potential manager has a background in technical
+and/or educational fields.  The project manager should take on the
+selection of the core team members he will manage.  The following
+organizational chart for the Core Team is recommended:
+
+FIXME: fig 3
+
+For large deployments (>50,000 units) we consider a vital requirement to
+comply with all members mentioned in the organizational chart.  Local
+leaders should be hired as educational/learning and technical managers to
+coordinate matters related to their area of expertise.  A logistics
+coordinator should be in charge of laptop storage, inventory and spare
+parts management.  For smaller deployments (<2,500 units) the logistics
+manager’s tasks can be performed by the technical and/or the project
+manager.
+
+The following chart provides additional information on the responsibilities
+and required skills of the Core Team members:
+
+FIXME: fig 4

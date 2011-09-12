@@ -1,0 +1,44 @@
+#+TITLE: One Laptop Per Child
+#+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
+#+DATE: 2011-09-12
+
+One Laptop per Child (OLPC) is a non-profit organization founded in 2005
+with the goal of transforming education by providing every child with
+access to a connected laptop computer, the XO laptop.  Connected laptops
+provide a cost-effective way for states to create learning environments
+that facilitate the greatest possible development of all children.  We are
+driven by a firm belief that laptops have a unique ability to leverage
+children’s innate curiosity and desire to learn, to develop critical
+thinking skills, and to foster a life-long love of learning.
+
+* OLPC Mission
+
+To create educational opportunities for all by providing each child with a
+rugged, low-cost, low-power, connected laptop with content and software
+designed for collaborative, joyful, self-empowered learning.
+
+* Five core principles
+
+- Child ownership :: Access to information and activities at all times
+     create a portable learning and teaching environment.  Child ownership
+     includes protecting, caring for, and sharing this creative
+     environment.
+
+- Low ages :: The XO is designed for the use of children ages 4 to 12,
+              covering the years of elementary school.
+
+- Saturation :: In order to achieve meaningful educational improvement each
+                child should own a laptop so no one is left out: digital
+                saturation implies whole communities to become a part of
+                the program.
+
+- Connection :: XOs not only connect to the internet but to other XOs as
+                well, providing an “expanded school” that grows beyond the
+                walls of the classroom, enabling a dialogue among
+                generations, nations and cultures.
+
+- Free and Open Software :: As children grow and pursue new ideas, the
+     software, content, resources and tools should be able to grow with
+     them.  Children not only participate in activities and acquire
+     knowledge; they can create activities and transfer knowledge too, and
+     share it with the entire global community.

@@ -1,0 +1,29 @@
+#+TITLE: Summary of Recommended Tasks
+
+* Planning Phase
+
+- Define Budget for: Purchase, Infrastructure and Connectivity, Staff.
+- Hire project manager and Core Team managers.
+- Select Target community (schools, centers).
+- Define XO specs.
+
+* Deployment Phase
+
+- Hire staff for Core Team.
+- Arrange training for Core Team with OLPC.
+- Develop Laptop Distribution Plan.
+- Design and collect data for Baseline Study.
+- Prepare Infrastructure and Connectivity (at schools and community level).
+- Organize and Perform Teacher Training.
+- Laptop Distribution.
+
+* Post-Deployment Phase
+
+- Design and perform Tech support strategy for Laptop Maintenance and
+  Repairs.
+- Design and supervise Learning Environments with the XO: Formal (in
+  school, classroom),
+- Non-Formal (extracurricular activities), Informal (home, family).
+- Perform follow up teacher trainings.
+- Design and apply Evaluation studies (for students learning and project
+  implementation).
