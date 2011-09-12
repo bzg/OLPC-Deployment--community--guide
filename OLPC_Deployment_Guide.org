@@ -80,8 +80,8 @@ OLPC learning strategy focuses on building:
   germ of an intuitive idea to the implementation of a technological
   project (Papert & Resnick, 1995)”.
 
-- Reflecting about learning, learning to learn and thinking about self-
-  learning strategies.
+- Reflecting about learning, learning to learn and thinking about
+  self-learning strategies.
 
 - Building learning and innovation skills in alignment to with the 21st
   Century Skills:
@@ -151,7 +151,7 @@ domains.
 
 FIXME: fig 2
 
-Core Team
+** Core Team
 
 For successful implementation of the OLPC project, we highly recommended
 deployments to recruit and build a local team with skills in: managerial,
