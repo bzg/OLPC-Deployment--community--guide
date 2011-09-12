@@ -24,7 +24,7 @@ of project implementation.  The elements of the pyramid are meant to be in
 a constant cycle where the top always gives feedback to the rest of the
 domains.
 
-FIXME: fig 2
+[[file:~/install/git/OLPC-Deployment--community--guide/images/2_project_implementation.jpg]]
 
 * Core Team
 
@@ -43,7 +43,7 @@ and/or educational fields.  The project manager should take on the
 selection of the core team members he will manage.  The following
 organizational chart for the Core Team is recommended:
 
-FIXME: fig 3
+[[file:~/install/git/OLPC-Deployment--community--guide/images/3_core_team.jpg]]
 
 For large deployments (>50,000 units) we consider a vital requirement to
 comply with all members mentioned in the organizational chart.  Local
@@ -57,4 +57,8 @@ manager.
 The following chart provides additional information on the responsibilities
 and required skills of the Core Team members:
 
-FIXME: fig 4
+[[file:~/install/git/OLPC-Deployment--community--guide/images/4_core_team_skills_1.jpg]]
+
+[[file:~/install/git/OLPC-Deployment--community--guide/images/5_core_team_skills_2.jpg]]
+
+[[file:~/install/git/OLPC-Deployment--community--guide/images/6_core_team_skills_3.jpg]]

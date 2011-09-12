@@ -23,4 +23,4 @@ guide project managers through the roadmap towards a successful deployment,
 by describing essential steps, and decisions to consider, and by suggesting
 an action timeline.
 
-FIXME: fig 1
+[[file:~/install/git/OLPC-Deployment--community--guide/images/1_deploy_phases_overview.jpg]]

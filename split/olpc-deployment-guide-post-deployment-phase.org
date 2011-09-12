@@ -13,7 +13,7 @@ Post deployment should focus on three key areas:
 2. Extracurricular Environments
 3. Maintenance and Repairs
 
-FIXME: fig 13
+[[file:~/install/git/OLPC-Deployment--community--guide/images/16_post_deploy.jpg]]
 
 Community support is also a key success factor for a project.  Many
 projects establish web portals for students, parents and teachers where

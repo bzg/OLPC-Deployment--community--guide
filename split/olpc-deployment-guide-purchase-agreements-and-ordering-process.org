@@ -222,4 +222,4 @@ their destination or distribution site; etc.  This information will assist
 OLPC in working with core team to establish an orderly and efficient XO
 delivery schedule.
 
-FIXME: fig 8
+[[file:~/install/git/OLPC-Deployment--community--guide/images/10_xo_order_process.jpg]]

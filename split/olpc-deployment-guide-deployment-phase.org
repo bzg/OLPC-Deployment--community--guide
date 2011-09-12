@@ -22,7 +22,7 @@ Once laptops arrive in a country, the steps to follow include setting up
 logistics, training the core team with OLPC, setting up school
 infrastructure, preparing schools and community, and rolling out laptops.
 
-FIXME: fig 9
+[[file:~/install/git/OLPC-Deployment--community--guide/images/11_deploy_phases.jpg]]
 
 * Setting Logistics
 
@@ -144,6 +144,8 @@ et al., 2008).  are.  Deployments are encouraged to explore innovative ways
 of measuring student learning, and to attempt documenting and measuring new
 learning dimensions.
 
+[[file:~/install/git/OLPC-Deployment--community--guide/images/12_training.jpg]]
+
 * Setting Core Team
 
 As we have explained in previous sections of this guide, the Core Team
@@ -229,7 +231,6 @@ workshop can include:
 The following agenda is a sample of the topics usually covered during a 1
 week workshop with Core Team:
 
-FIXME: fig 9
 
 The workshop is a hands-on experience that will not only enable
 participants to become familiar with technical and pedagogical aspects of
@@ -250,7 +251,7 @@ deployments to attend.
 
 The following are examples of advanced workshop for Core Team:
 
-FIXME: fig 10
+[[file:~/install/git/OLPC-Deployment--community--guide/images/13_workshop_core_team.jpg]]
 
 ** Content Development
 
@@ -355,7 +356,7 @@ the progress of each school and teacher.
 The following agenda is a sample of the topics the core team can be covered
 during an initial teacher training:
 
-FIXME: fig 12
+[[file:~/install/git/OLPC-Deployment--community--guide/images/14_xs_specs.jpg]]
 
 Deploying laptops to every child in an entire region or country cannot be
 managed by the core team alone.  It must be led by the core team, and
@@ -498,7 +499,7 @@ the multicast traffic
 
 Recommended minimum specifications for a school server are as follows:
 
-FIXME: fig 11
+[[file:~/install/git/OLPC-Deployment--community--guide/images/15_initial_teacher_training.jpg]]
 
 The amount of power required for school servers depends on the
 specifications of machines used.  This needs to be taken into consideration

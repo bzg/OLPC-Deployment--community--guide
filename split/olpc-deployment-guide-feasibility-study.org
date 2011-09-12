@@ -39,7 +39,7 @@ in school, whether or not they are charging their batteries while they are
 working, and how many hours per day the school server and connectivity are
 operational.)
 
-FIXME: fig 7
+[[file:~/install/git/OLPC-Deployment--community--guide/images/9_feasibility_study.jpg]]
 
 The total energy required to operate 100 laptops and a school server over
 an eight hour period is approximately 570 Watts times 8 hours, or 4560

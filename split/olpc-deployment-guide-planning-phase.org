@@ -13,7 +13,7 @@ elements included in the planning phase are: consideration of possible
 financing approaches, a feasibility study, and a purchasing agreement
 followed by an order for laptops.
 
-FIXME: fig 5
+[[file:~/install/git/OLPC-Deployment--community--guide/images/7_planning_phases.jpg]]
 
 * Financing Approaches
 
@@ -114,4 +114,4 @@ non-recurring costs such as hardware, shipping, and electrical setup (if
 necessary).  The second group includes recurring costs such as monthly
 operating costs and salaries for employees.
 
-FIXME: fig 6
+[[file:~/install/git/OLPC-Deployment--community--guide/images/8_financial_assumptions.jpg]]
