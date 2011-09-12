@@ -1,6 +1,7 @@
 #+TITLE: Post Deployment Phase
 #+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
 #+DATE: 2011-09-12
+#+OPTIONS: toc:nil
 
 There is a tremendous tendency to think that the work is done once the
 laptops reach the children, but the laptop arrival really marks the

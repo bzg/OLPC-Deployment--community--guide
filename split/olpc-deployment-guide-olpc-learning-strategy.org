@@ -1,6 +1,7 @@
 #+TITLE: OLPC Learning Strategy
 #+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
 #+DATE: 2011-09-12
+#+OPTIONS: toc:nil
 
 “It’s an education project, not a laptop project”
 

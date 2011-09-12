@@ -1,6 +1,7 @@
 #+TITLE: OLPC Support Strategy
 #+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
 #+DATE: 2011-09-12
+#+OPTIONS: toc:nil
 
 One Laptop Per Child provides assistance throughout the different stages of
 a deployment, focusing on three major types of support: Operational,

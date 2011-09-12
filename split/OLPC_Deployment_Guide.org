@@ -1,6 +1,7 @@
 #+TITLE: ONE LAPTOP PER CHILD DEPLOYMENT GUIDE 2011
 #+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
 #+DATE: 2011-09-12
+#+TOC: nil
 
 * [[file:olpc-deployment-guide-one-laptop-per-child.org][One Laptop per Child]]
 * [[file:olpc-deployment-guide-olpc-learning-strategy.org][OLPC Learning Strategy]]

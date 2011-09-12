@@ -1,6 +1,7 @@
 #+TITLE: Planning Phase
 #+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
 #+DATE: 2011-09-12
+#+OPTIONS: toc:nil
 
 The planning phase initiates with the idea of starting a project with One
 Laptop Per Child and concludes once an order is placed with the

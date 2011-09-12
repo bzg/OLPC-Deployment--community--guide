@@ -1,4 +1,7 @@
 #+TITLE: Summary of Recommended Tasks
+#+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
+#+DATE: 2011-09-12
+#+OPTIONS: toc:nil
 
 * Planning Phase
 

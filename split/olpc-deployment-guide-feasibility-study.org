@@ -1,6 +1,7 @@
 #+TITLE: Feasibility study
 #+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
 #+DATE: 2011-09-12
+#+OPTIONS: toc:nil
 
 The feasibility study can provide data for enhanced decision-making and
 budgeting purposes.  It is recommended that project sponsors perform this

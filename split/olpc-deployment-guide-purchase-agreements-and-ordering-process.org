@@ -1,6 +1,7 @@
 #+TITLE: Purchase Agreements and Ordering Process
 #+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
 #+DATE: 2011-09-12
+#+OPTIONS: toc:nil
 
 This section describes the customary process prior to ordering laptops
 which includes certain decisions about the technical features of the XO and

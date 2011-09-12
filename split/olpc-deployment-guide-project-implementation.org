@@ -1,6 +1,7 @@
 #+TITLE: Project Implementation
 #+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
 #+DATE: 2011-09-12
+#+OPTIONS: toc:nil
 
 An OLPC project has a direct impact on children and their learning
 outcomes.  Other actors that are equally impacted by the project are the

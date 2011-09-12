@@ -1,4 +1,7 @@
 #+TITLE: Deployment Phase
+#+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
+#+DATE: 2011-09-12
+#+OPTIONS: toc:nil
 
 The deployment phase includes all events that occur between laptop order
 placement with the manufacturer and final distribution of XOs to schools
