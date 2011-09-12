@@ -13,9 +13,13 @@ driven by a firm belief that laptops have a unique ability to leverage
 children’s innate curiosity and desire to learn, to develop critical
 thinking skills, and to foster a life-long love of learning.
 
-OLPC Mission To create educational opportunities for all by providing each
-child with a rugged, low-cost, low-power, connected laptop with content
-and software designed for collaborative, joyful, self-empowered learning.
+** OLPC Mission
+
+To create educational opportunities for all by providing each child with a
+rugged, low-cost, low-power, connected laptop with content and software
+designed for collaborative, joyful, self-empowered learning.
+
+** Five core principles
 
 - Child ownership :: Access to information and activities at all times
      create a portable learning and teaching environment.  Child ownership
@@ -70,26 +74,23 @@ through use of the laptop for learning.
 
 OLPC learning strategy focuses on building:
 
-- Developing Digital Fluency.
+- Developing Digital Fluency.  This refers to computer programming skills
+  and to the ability to build things of significance with technological
+  tools.  “A technologically fluent person should be able to go from the
+  germ of an intuitive idea to the implementation of a technological
+  project (Papert & Resnick, 1995)”.
 
-This refers to computer programming skills and to the ability to build
-things of significance with technological tools.  “A technologically fluent
-person should be able to go from the germ of an intuitive idea to the
-implementation of a technological project (Papert & Resnick, 1995)”.
+- Reflecting about learning, learning to learn and thinking about self-
+  learning strategies.
 
-Reflecting about learning, learning to learn and thinking about self-
-learning strategies.  Building learning and innovation skills in alignment
-to with the 21st Century Skills:
+- Building learning and innovation skills in alignment to with the 21st
+  Century Skills:
 
-- Creativity and Innovation
+  - Creativity and Innovation
+  - Critical Thinking and Problem Solving
+  - Communication and Collaboration
 
-- Critical Thinking and Problem Solving
-
-- Communication and Collaboration
-
-** Software
-
-*** The Sugar Learning Platform
+*Software : The Sugar Learning Platform*
 
 In accordance with the learning theory of Constructionism and OLPC’s
 principle of Open Software, Sugar provides the appropriate platform to
@@ -213,7 +214,7 @@ provide full-time in-country staff, including project managers, technical
 directors and learning directors.  The costs of this level of OLPC service
 are negotiated at the time of the request.
 
-OLPC Operations Support
+** OLPC Operations Support
 
 OLPC offers direct support to funders and project managers during the
 planning phase of deployment when strategic decisions related to financing,
@@ -221,7 +222,7 @@ legal agreements, and ordering processes need to be taken.  OLPC offers
 ongoing support to the logistics department of core team in regards to
 supply-chain management.
 
-OLPC Educational Development Support
+** OLPC Educational Development Support
 
 Once a project is officially established, OLPC facilitates workshops for
 core teams to develop an understanding of the XO as a learning tool.  OLPC
@@ -230,14 +231,14 @@ schools or learning centers.  OLPC provides ongoing support throughout the
 different teacher training phases of a deployment and for educational
 content development.
 
-OLPC Technical Development Support
+** OLPC Technical Development Support
 
 OLPC also focuses on building local capacity in technical aspects such as:
 setting local infrastructure and connectivity; and all other
 responsibilities regarding software, hardware, maintenance and repairs of
 machines.
 
-Volunteers and Internship Programs
+** Volunteers and Internship Programs
 
 Another support strategy from OLPC entails Volunteer and Internship
 programs.  During the months of June, July and August, OLPC launches
@@ -266,7 +267,7 @@ FIXME: fig 5
 In considering a deployment with OLPC, project sponsors typically take one
 of following three approaches:
 
-1. Geographic Focus
+*** Geographic Focus
 
 With the geographic approach, a project sponsor selects a particular region
 that is of interest to them.  Such region can be a country, state, city or
@@ -280,7 +281,7 @@ sponsor can use the feasibility model in the appendix to determine the
 annual budget for the project and decide whether a phased approach is
 necessary given possible budget constraints.
 
-2. Budget Constraints
+*** Budget Constraints
 
 Many project sponsors come to OLPC with a country selected and a fixed
 budget to support a project.  Within 2-4 hours working with OLPC, a sponsor
@@ -293,7 +294,7 @@ required:
 - % of schools with electrification
 - % of schools with Internet connectivity
 
-3. Political or social objectives
+*** Political or social objectives
 
 Some sponsors view an OLPC project as a means of achieving political or
 social change.  For example, the government of Uruguay undertook their
@@ -410,7 +411,7 @@ over the course of a two hour period, roughly 11,400 Watts of generating
 capacity would be needed to feed a battery system with adequate storage
 capacity, assuming 80% efficiency.
 
-Solar Panels
+** Solar Panels
 
 If the location of deployment is remote and isolated, and no electrical
 power is available, solar panels can be an alternative solution.  Panels of
@@ -426,12 +427,12 @@ This section describes the customary process prior to ordering laptops
 which includes certain decisions about the technical features of the XO and
 the related contractual agreements.
 
-Selecting your XO
+** Selecting your XO
 
 The XO can be manufactured in various forms to best fit the local context
 of the deployment.
 
-Keyboards
+*** Keyboards
 
 XO laptops can be manufactured with a variety of language for keyboards.
 In order for an XO keyboard to be available, a high-resolution image of the
@@ -439,7 +440,7 @@ layout must be accessible and existing XO software must support the
 keyboard image.OLPC software releases are designed to support the
 International XO keyboard option.
 
-AC Adapters
+*** AC Adapters
 
 There are two types of adaptors available brick or wall mount.  The XO AC
 adapter has an input of 100- 240 volts and is available in 3 options:
@@ -448,7 +449,7 @@ adapter has an input of 100- 240 volts and is available in 3 options:
 - 2 round prong (EU)
 - 3 flat prong (UK)
 
-Memory
+*** Memory
 
 The XO uses solid state memory instead of a hard disk.  This is primarily
 to improve its robustness but also to improve performance and reduce power
@@ -457,7 +458,7 @@ Depending on the budget and usage requirements, selection of faster or
 bigger solid state memory for the XO can improve performance and storage
 capacity.
 
-Content and Custom Image
+*** Content and Custom Image
 
 OLPC has developed a mechanism whereby the collection of “activities” and
 content “bundles” loaded onto the laptop can be readily pre-configured.  It
@@ -520,8 +521,7 @@ from the technical and learning deployment advisors.  OLPC will help with
 the bundling process, but the responsibility for testing the bundle rests
 with the in-country deployment teams.
 
-
-Purchase Agreement
+** Purchase Agreement
 
 OLPC recognizes a binding commitment from a sponsor to a project upon
 receipt of a signed purchase agreement and a letter of credit in favor of
@@ -550,7 +550,7 @@ XO procurement process.  OLPC’s finance, supply chain, and logistics
 personnel work closely to ensure the deadlines and conditions set forth in
 the contractual agreement are adhered to.
 
-Payment & Inco terms
+*** Payment & Inco terms
 
 The most common payment option for large-scale XO orders is 20% down
 payment and 80% payable by transferable letter of credit.  The OLPC
@@ -569,7 +569,7 @@ demurrage charges, landing charges at the importer's port, the unloading
 onto trucks at the importer's port and the delivery to the final
 destination.
 
-Warranty
+*** Warranty
 
 All XO orders are shipped with an additional 1% of units in lieu of a
 conventional warranty program.  These units are shipped at no extra cost.
@@ -577,7 +577,7 @@ In addition to the supplemental units, OLPC provides a limited warranty in
 the event of an epidemic failure.  Details on this warranty can be found in
 the OLPC contract.
 
-Local Duties and Taxes
+*** Local Duties and Taxes
 
 The local duties and taxes associated with a shipment of XO laptops vary
 depending on the rules and regulations of the local customs authority.
@@ -593,7 +593,7 @@ should be consulted regarding the process and time frame of receiving a
 recognized exemption.  OLPC is able to provide any documentation necessary
 to process an exemption request with local authorities.
 
-Spare Parts
+*** Spare Parts
 
 XO spare parts can be purchased in conjunction with an initial XO order or
 at a later date.  OLPC can assist the logistics department of team in
@@ -610,7 +610,7 @@ fees and other costs related to freight forwarding services .
 Additionally,local sponsors are responsible for all costs of transporting
 computers from the dock to the warehouse.
 
-XO Order Process and Lead Time
+** XO Order Process and Lead Time
 
 In order to minimize the end cost, OLPC manufactures laptops to order and
 does not maintain an inventory of laptops.  Formalizing the commitment to
@@ -626,9 +626,8 @@ although pre-existing OLPC orders would normally reduce this capacity.
 (Few projects are capable to deal with more than 50,000 laptops arriving in
 a single month.)  OLPC normally quotes 6 weeks for sea shipment of the
 units.  Shipping the laptops by air takes less time from pick up to
-delivery destination.  
-
-However, airfreight is more costly and is not recommended.
+delivery destination.  However, airfreight is more costly and is not
+recommended.
 
 The estimated transit time for ocean freight delivery is 1-6 weeks from the
 time of XO availability at the manufacturer.  When planning for deployment
@@ -702,7 +701,7 @@ warehouse, there are three key tasks that need to be performed:
    then updated to reflect repair history, laptop transfers, or
    replacements.
 
-Warehousing
+*** Warehousing
 
 When developing plans for local storage of XOs, it is important to consider
 the security of storage facilities, impact of weather on stored XOs, and
@@ -719,8 +718,7 @@ while the logistics infrastructure is prepared for laptop roll out.
 Strategic placement of regional warehouses can reduce the cost of logistics
 and improve efficiency of laptop repair and replacement.
 
-Laptop Distribution Plan
-
+*** Laptop Distribution Plan
 
 In the experience of OLPC, most sponsors can only distribute a maximum of
 60,000 machines per month.  Machines are typically distributed by third
@@ -739,7 +737,7 @@ identified and implemented.  Staff also learns faster when they can focus
 on the simpler installations and do not have to install solar equipment or
 satellite earth stations.
 
-Spare Parts Management
+*** Spare Parts Management
 
 Spare parts management is an often overlooked but key part of a successful
 ongoing deployment.
@@ -756,7 +754,7 @@ repairs.  OLPC logistics staff can provide advice on how to determine the
 composition of the initial repair order; with time, the project should be
 placing spare parts orders based on actual data.
 
-Baseline study
+*** Baseline study
 
 Prior to starting a deployment it is advisable to have on record data that
 describes the scenario where the project will be implemented.  The project
@@ -850,7 +848,7 @@ time with OLPC through online webinars.  This will allow OLPC and
 deployment to define the details of workshop and for the core team to
 advance in necessary preparations prior to training.
 
-OLPC training description
+*** OLPC training description
 
 The goals of the OLPC learning workshop can include:
 
@@ -880,7 +878,7 @@ week workshop with Core Team:
 
 FIXME: fig 9
 
-The workshop is a hands –on experience that will not only enable
+The workshop is a hands-on experience that will not only enable
 participants to become familiar with technical and pedagogical aspects of
 the project, but also enable them to reflect on the strategies that should
 be defined in the schools or learning centers.
@@ -901,7 +899,7 @@ The following are examples of advanced workshop for Core Team:
 
 FIXME: fig 10
 
-Content Development
+*** Content Development
 
 Another recommended strategy for core teams to implement is the development
 of content for communities and schools.  The following documents are
@@ -960,35 +958,43 @@ servers can be basic PCs that run Fedora, a variant of Linux.  School
 servers are designed to provide gateways to the Internet, local content
 repositories, XO back-up platforms, school management solutions, etc.
 Large networks require servers designed for the size of the intended
-deployment to be placed in local school.  Some key benefits school servers
-bring to a deployment are: Compatibility – The OLPC Server is a software
-stack that can be installed on any reasonable PC or server to complement
-the XO and help school environments provide a safe, well-managed and
-learning- oriented environment.  No special hardware is required.
+deployment to be placed in local school.
 
-Backup – The XOs can all backup to an OLPC Server to ensure content isn't
-lost.  All XO Journals are backed up to school servers, and teachers can
-view the Journals to gain an understanding of how the XOs are used, as well
-as to track students’ progress and identify where they may need help.
-Digital Library – A Digital Library makes it easy for students to publish
-works (with teacher moderation) to other students and possibly to other
-schools.  Teachers can easily add new resources to a Digital Library, which
-students can access at school (e.g.  there are over 1.6 million free
-e-Books available)
+Some key benefits school servers bring to a deployment are:
 
-Management and Security – Operators with high levels of technical skills
-can use school servers to manage network access, to lock laptops that get
-stolen or that aren’t returned to schools, and to provide local software
-repositories for laptop updates, etc.  Proxy Server – An OLPC Server can
-act as a network proxy.  This saves Internet bandwidth, makes Internet
-access faster and provides a mechanism for content filtering that can be
-used to block inappropriate content.
+- Compatibility :: The OLPC Server is a software stack that can be
+                   installed on any reasonable PC or server to complement
+                   the XO and help school environments provide a safe,
+                   well-managed and learning- oriented environment.  No
+                   special hardware is required.
 
-Continuous Development – There are additional features coming to school
-servers, including Video conferencing, GPS and GIS functionality, Voice
-over IP, Instant messaging, and News services (blogging, forums, etc.)
-Servers are built on an Open Source platform, so they can be modified to
-suit particular needs of projects.
+- Backup :: The XOs can all backup to an OLPC Server to ensure content
+            isn't lost.  All XO Journals are backed up to school servers,
+            and teachers can view the Journals to gain an understanding of
+            how the XOs are used, as well as to track students’ progress
+            and identify where they may need help.
+
+- Digital Library :: A Digital Library makes it easy for students to
+     publish works (with teacher moderation) to other students and possibly
+     to other schools.  Teachers can easily add new resources to a Digital
+     Library, which students can access at school (e.g.  there are over 1.6
+     million free e-Books available)
+
+- Management and Security :: Operators with high levels of technical skills
+     can use school servers to manage network access, to lock laptops that
+     get stolen or that aren’t returned to schools, and to provide local
+     software repositories for laptop updates, etc.
+
+- Proxy Server :: An OLPC Server can act as a network proxy.  This saves
+                  Internet bandwidth, makes Internet access faster and
+                  provides a mechanism for content filtering that can be
+                  used to block inappropriate content.
+
+- Continuous Development :: There are additional features coming to school
+     servers, including Video conferencing, GPS and GIS functionality,
+     Voice over IP, Instant messaging, and News services (blogging, forums,
+     etc.) Servers are built on an Open Source platform, so they can be
+     modified to suit particular needs of projects.
 
 As important as all of the above-mentioned services are, the primary role
 of school servers is to facilitate the operation of local area networks.
@@ -1046,14 +1052,17 @@ capacity:
 
 1. Training workshops: where teachers learn to use the computer, and, at
    the same time, to incorporate it into their pedagogical practice.
+   
 2. Support mechanisms: Although the contents of the initiative constitute
    an important support mechanism to the practice of teaching, other
    mechanisms must be implemented, including in- class assistance, which
    can occur through agreements with universities, telephone help lines
    that can be set up with technical developers in the country, and Blogs
    or online forums where teachers can participate.
+   
 3. Teachers' clubs: work spaces where teachers can meet regularly to share
    successes, problems, and solutions.
+   
 4. Guides and Resources.
 
 During the first teacher trainings teachers should learn basic uses of the
@@ -1175,7 +1184,7 @@ interested in education and social projects.  Through its public relations
 program Project Ceibal in Uruguay has garnered worldwide attention as one
 of the leading educational laboratories in the world.
 
-Evaluation Studies
+*Evaluation Studies*
 
 Many projects benchmark their students and then periodically evaluate the
 student progress every six or twelve months.  The UN uses six month
@@ -1186,7 +1195,7 @@ financial institutions require it.  OLPC leaves evaluation to the sponsor’s
 decision, but OLPC can provide resources to implement an evaluation
 program.
 
-Continued Teacher Training and Support
+** Continued Teacher Training and Support
 
 Teachers are a key part to any successful deployment.  As the teachers see
 the increased student enthusiasm for learning as a result of the laptops,
@@ -1214,8 +1223,7 @@ on.  It is important for teachers to have access to updated and innovative
 resources.  Examples of this content can include: Lesson plans, Guides,
 Case studies, assessment guides, online resources, and blogs.
 
-
-Extracurricular Environments
+** Extracurricular Environments
 
 Extracurricular programs where children can use the XO laptops outside of
 school settings are essential for meaningful learning experiences.  When
@@ -1242,15 +1250,17 @@ but also to understand the value of the computer and how it fits into the
 learning process.  This is also important for the viability and
 sustainability of the project.
 
-Maintenance and Repairs
+** Maintenance and Repairs
 
 The actual repair of the laptops may be handled in many ways.  There are
 three popular methods:
 
 1. The students repair their own laptops and parts are delivered to the
-   schools bi-monthly based on an order
+   schools bi-monthly based on an order.
+   
 2. The laptops are repaired by third party repair facilities located
-   throughout the project area; this approach creates local jobs
+   throughout the project area; this approach creates local jobs.
+   
 3. The laptops are repaired by technicians who visit the schools on a
    bi-monthly basis and make the repairs.
 
