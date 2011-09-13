@@ -1,4 +1,4 @@
-= Related websites by OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc. =
+= OLPC Deployment Guide 2011: Related websites =
 
 __NOTOC__
 

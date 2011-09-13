@@ -1,4 +1,4 @@
-= Feasibility study by OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc. =
+= OLPC Deployment Guide 2011: Feasibility study =
 
 __NOTOC__
 

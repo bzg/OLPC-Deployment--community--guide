@@ -1,4 +1,4 @@
-= OLPC Learning Strategy by OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc. =
+= OLPC Deployment Guide 2011: OLPC Learning Strategy =
 
 __NOTOC__
 

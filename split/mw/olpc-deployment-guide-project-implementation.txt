@@ -1,4 +1,4 @@
-= Project Implementation by OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc. =
+= OLPC Deployment Guide 2011: Project Implementation =
 
 __NOTOC__
 

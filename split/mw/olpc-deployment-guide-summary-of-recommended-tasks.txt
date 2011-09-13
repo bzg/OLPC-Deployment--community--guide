@@ -1,4 +1,4 @@
-= Summary of Recommended Tasks by OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc. =
+= OLPC Deployment Guide 2011: Summary of Recommended Tasks =
 
 __NOTOC__
 
