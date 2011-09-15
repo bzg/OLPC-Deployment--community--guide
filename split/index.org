@@ -1,0 +1,18 @@
+#+TITLE: ONE LAPTOP PER CHILD DEPLOYMENT GUIDE 2011
+#+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
+#+DATE: 2011-09-12
+#+TOC: nil
+
+* [[file:olpc-deployment-guide-one-laptop-per-child.org][One Laptop per Child]]
+* [[file:olpc-deployment-guide-olpc-learning-strategy.org][OLPC Learning Strategy]]
+* [[file:olpc-deployment-guide-introduction-to-deployment-guide.org][Introduction to Deployment Guide]]
+* [[file:olpc-deployment-guide-project-implementation.org][Project Implementation]]
+* [[file:olpc-deployment-guide-olpc-support-strategy.org][OLPC Support Strategy]]
+* [[file:olpc-deployment-guide-planning-phase.org][Planning Phase]]
+* [[file:olpc-deployment-guide-feasibility-study.org][Feasibility study]]
+* [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org][Purchase Agreements and Ordering Process]]
+* [[file:olpc-deployment-guide-deployment-phase.org][Deployment Phase]]
+* [[file:olpc-deployment-guide-post-deployment-phase.org][Post Deployment Phase]]
+* [[file:olpc-deployment-guide-summary-of-recommended-tasks.org][Summary of Recommended Tasks]]
+* [[file:olpc-deployment-guide-related-websites.org][Related websites]]
+* [[file:theindex.org][Index]]
