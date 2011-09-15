@@ -3,6 +3,8 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
+[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+
 “It’s an education project, not a laptop project”
 
 #+index: Learning
@@ -65,3 +67,4 @@ different media and in computer programming skills.  Sugar promotes
 collaborative learning through Activities that encourage critical thinking,
 collaboration, and reflection.
 
+[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]

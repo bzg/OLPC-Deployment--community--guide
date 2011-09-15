@@ -2,6 +2,8 @@
 #+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
 #+DATE: 2011-09-12
 
+[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+
 This document provides guidelines for program directors (government
 officials, foundations, private funders, etc.)  conducting One Laptop per
 Child deployments on a large scale to schools, cities, regions, or country
@@ -26,3 +28,5 @@ by describing essential steps, and decisions to consider, and by suggesting
 an action timeline.
 
 [[file:~/install/git/OLPC-Deployment--community--guide/images/1_deploy_phases_overview.jpg]]
+
+[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]

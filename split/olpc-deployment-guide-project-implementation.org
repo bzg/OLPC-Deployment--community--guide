@@ -3,6 +3,8 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
+[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+
 An OLPC project has a direct impact on children and their learning
 outcomes.  Other actors that are equally impacted by the project are the
 school systems (especially teachers), families, and communities as a whole.
@@ -67,3 +69,5 @@ and required skills of the Core Team members:
 [[file:~/install/git/OLPC-Deployment--community--guide/images/5_core_team_skills_2.jpg]]
 
 [[file:~/install/git/OLPC-Deployment--community--guide/images/6_core_team_skills_3.jpg]]
+
+[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]

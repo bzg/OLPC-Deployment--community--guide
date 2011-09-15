@@ -3,6 +3,8 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
+[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+
 The feasibility study can provide data for enhanced decision-making and
 budgeting purposes.  It is recommended that project sponsors perform this
 study in order to have a better understanding of the target population and
@@ -64,3 +66,5 @@ panel at full output will fully charge a drained battery in just under
 three hours if the laptop is turned off.  If the laptop is running, then
 full sun with the 10W panel will provide enough average power to run the
 laptop and slowly charge the battery (in about six hours).
+
+[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]

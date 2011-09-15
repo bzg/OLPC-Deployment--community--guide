@@ -3,6 +3,8 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
+[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+
 - Official OLPC website: http://laptop.org
 
 - The OLPC Wiki: http://wiki.laptop.org

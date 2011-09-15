@@ -3,6 +3,8 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
+[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+
 The planning phase initiates with the idea of starting a project with One
 Laptop Per Child and concludes once an order is placed with the
 manufacturer.  OLPC provides assistance to sponsors in making the decisions
@@ -127,3 +129,5 @@ necessary).  The second group includes recurring costs such as monthly
 operating costs and salaries for employees.
 
 [[file:~/install/git/OLPC-Deployment--community--guide/images/8_financial_assumptions.jpg]]
+
+[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]

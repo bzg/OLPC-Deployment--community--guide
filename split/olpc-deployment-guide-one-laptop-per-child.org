@@ -3,6 +3,8 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
+[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+
 One Laptop per Child (OLPC) is a non-profit organization founded in 2005
 with the goal of transforming education by providing every child with
 access to a connected laptop computer, the XO laptop.  Connected laptops
@@ -50,3 +52,5 @@ designed for collaborative, joyful, self-empowered learning.
      them.  Children not only participate in activities and acquire
      knowledge; they can create activities and transfer knowledge too, and
      share it with the entire global community.
+
+[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]

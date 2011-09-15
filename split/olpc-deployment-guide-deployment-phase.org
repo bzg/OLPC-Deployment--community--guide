@@ -3,6 +3,8 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
+[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+
 The deployment phase includes all events that occur between laptop order
 placement with the manufacturer and final distribution of XOs to schools
 and children.  The lead time provides a term that can be allotted to
@@ -532,3 +534,4 @@ The amount of power required for school servers depends on the
 specifications of machines used.  This needs to be taken into consideration
 during site preparation.
 
+[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
