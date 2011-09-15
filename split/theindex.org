@@ -1,0 +1,119 @@
+* Index
+** A
+   - [[file:olpc-deployment-guide-olpc-support-strategy.org][Assistance]]
+** B
+   - [[file:olpc-deployment-guide-deployment-phase.org::#sec-4-3][Backup]]
+   - [[file:olpc-deployment-guide-planning-phase.org::#sec-1-2][Budget]]
+** C
+   - [[file:olpc-deployment-guide-one-laptop-per-child.org::#sec-2][Child ownership]]
+   - [[file:olpc-deployment-guide-deployment-phase.org::#sec-3][Community]]
+   - Community
+     - [[file:olpc-deployment-guide-deployment-phase.org::#sec-3-2][Awareness]]
+   - Connectivity
+     - [[file:olpc-deployment-guide-one-laptop-per-child.org::#sec-2][Core principle]]
+     - [[file:olpc-deployment-guide-feasibility-study.org][Feasibility]]
+     - [[file:olpc-deployment-guide-deployment-phase.org::#sec-4-2][Infrastructure]]
+   - [[file:olpc-deployment-guide-olpc-learning-strategy.org][Constructionism]]
+   - Content
+     - [[file:olpc-deployment-guide-deployment-phase.org::#sec-2-2][Development]]
+   - [[file:olpc-deployment-guide-deployment-phase.org::#sec-2][Core team]]
+   - Core team
+     - [[file:olpc-deployment-guide-project-implementation.org::#sec-1][Overview]]
+     - [[file:olpc-deployment-guide-project-implementation.org::#sec-1][Skill]]
+   - [[file:olpc-deployment-guide-olpc-learning-strategy.org][Critical thinking]]
+   - [[file:olpc-deployment-guide-post-deployment-phase.org::#sec-2][Curriculum]]
+** D
+   - [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org::#sec-2][Delivery]]
+   - [[file:olpc-deployment-guide-summary-of-recommended-tasks.org::#sec-2][Deployment]]
+   - Deployment
+     - [[file:olpc-deployment-guide-post-deployment-phase.org][Phases]]
+     - [[file:olpc-deployment-guide-introduction-to-deployment-guide.org::#sec-1][Phases]]
+   - Development
+     - [[file:olpc-deployment-guide-olpc-support-strategy.org::#sec-2][Educational]]
+     - [[file:olpc-deployment-guide-olpc-support-strategy.org::#sec-3][Technical]]
+   - [[file:olpc-deployment-guide-olpc-learning-strategy.org][Digital Fluency]]
+   - [[file:olpc-deployment-guide-deployment-phase.org::#sec-4-3][Digital Library]]
+   - [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org::#sec-2-3][Duties]]
+** E
+   - [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org::#sec-1-4][E-books]]
+   - [[file:olpc-deployment-guide-post-deployment-phase.org][Evaluation]]
+   - [[file:olpc-deployment-guide-post-deployment-phase.org::#sec-2][Extracurricular]]
+** F
+   - [[file:olpc-deployment-guide-planning-phase.org::#sec-1][Finance]]
+   - Finance
+     - [[file:olpc-deployment-guide-planning-phase.org::#sec-3][Assumptions]]
+   - [[file:olpc-deployment-guide-one-laptop-per-child.org::#sec-2][Free Software]]
+** G
+   - [[file:olpc-deployment-guide-planning-phase.org::#sec-1-1][Geography]]
+** I
+   - [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org::#sec-2-1][Incoterm]]
+   - [[file:olpc-deployment-guide-deployment-phase.org::#sec-4][Infrastructure]]
+   - [[file:olpc-deployment-guide-olpc-support-strategy.org::#sec-4][Internship]]
+** L
+   - [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org::#sec-1-4][Language]]
+   - Laptop
+     - [[file:olpc-deployment-guide-deployment-phase.org::#sec-1-2][Distribution]]
+   - [[file:olpc-deployment-guide-olpc-learning-strategy.org][Learning]]
+   - [[file:olpc-deployment-guide-deployment-phase.org::#sec-1][Logistics]]
+** M
+   - [[file:olpc-deployment-guide-post-deployment-phase.org::#sec-3][Maintenance]]
+   - [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org::#sec-1-4][Maps]]
+** O
+   - Objectives
+     - [[file:olpc-deployment-guide-planning-phase.org::#sec-1-3][Political]]
+     - [[file:olpc-deployment-guide-planning-phase.org::#sec-1-3][Social]]
+   - [[file:olpc-deployment-guide-one-laptop-per-child.org::#sec-2][Open source]]
+   - Open source
+     - [[file:olpc-deployment-guide-one-laptop-per-child.org::#sec-2][Core principle]]
+** P
+   - [[file:olpc-deployment-guide-summary-of-recommended-tasks.org::#sec-1][Planning]]
+   - [[file:olpc-deployment-guide-summary-of-recommended-tasks.org::#sec-3][Post-deployment]]
+   - Power
+     - [[file:olpc-deployment-guide-deployment-phase.org::#sec-4-1][Deployment]]
+     - [[file:olpc-deployment-guide-feasibility-study.org][Feasibility]]
+     - [[file:olpc-deployment-guide-feasibility-study.org::#sec-1][Solar panels]]
+   - [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org::#sec-2][Purchase]]
+** R
+   - [[file:olpc-deployment-guide-post-deployment-phase.org::#sec-3][Repair]]
+** S
+   - [[file:olpc-deployment-guide-one-laptop-per-child.org::#sec-2][Saturation]]
+   - [[file:olpc-deployment-guide-deployment-phase.org::#sec-4-3][School server]]
+   - [[file:olpc-deployment-guide-deployment-phase.org::#sec-3][Schools]]
+   - [[file:olpc-deployment-guide-olpc-learning-strategy.org][Seymour Papert]]
+   - [[file:olpc-deployment-guide-feasibility-study.org::#sec-1][Solar panels]]
+   - [[file:olpc-deployment-guide-deployment-phase.org::#sec-1-3][Spare parts]]
+   - [[file:olpc-deployment-guide-olpc-learning-strategy.org][Sugar]]
+   - Sugar
+     - [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org::#sec-1-4][Activities]]
+   - Support
+     - [[file:olpc-deployment-guide-post-deployment-phase.org][Overview]]
+     - [[file:olpc-deployment-guide-olpc-support-strategy.org][Strategy]]
+     - [[file:olpc-deployment-guide-post-deployment-phase.org::#sec-1][Teachers]]
+     - [[file:olpc-deployment-guide-olpc-support-strategy.org::#sec-3][Technical!]]
+** T
+   - [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org::#sec-2-3][Taxes]]
+   - Training
+     - [[file:olpc-deployment-guide-deployment-phase.org::#sec-2-1][Core team]]
+     - [[file:olpc-deployment-guide-post-deployment-phase.org::#sec-1][Teachers]]
+     - [[file:olpc-deployment-guide-post-deployment-phase.org][Teachers]]
+     - [[file:olpc-deployment-guide-deployment-phase.org::#sec-3-1][Teachers]]
+     - [[file:olpc-deployment-guide-deployment-phase.org::#sec-3-1][Workshops]]
+   - [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org::#sec-1-4][Translation]]
+** V
+   - [[file:olpc-deployment-guide-olpc-support-strategy.org::#sec-4][Volunteers]]
+** W
+   - [[file:olpc-deployment-guide-deployment-phase.org::#sec-1-1][Warehousing]]
+   - [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org::#sec-2-2][Warranty]]
+** X
+   - [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org::#sec-1][XO]]
+   - XO
+     - [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org::#sec-1-2][AC Adapters]]
+     - [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org::#sec-1-3][AC Memory]]
+     - [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org::#sec-1-4][Content]]
+     - [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org::#sec-1-4][Curriculum]]
+     - [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org::#sec-1-4][Custom Image]]
+     - [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org::#sec-1-1][Keyboards]]
+     - [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org::#sec-3][Lead time]]
+     - [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org::#sec-3][Order process]]
+     - [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org::#sec-2-1][Payment]]
+     - [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org::#sec-2-4][Spare parts]]
