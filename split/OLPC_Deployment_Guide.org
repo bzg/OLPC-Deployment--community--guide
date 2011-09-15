@@ -15,3 +15,4 @@
 * [[file:olpc-deployment-guide-post-deployment-phase.org][Post Deployment Phase]]
 * [[file:olpc-deployment-guide-summary-of-recommended-tasks.org][Summary of Recommended Tasks]]
 * [[file:olpc-deployment-guide-related-websites.org][Related websites]]
+* [[file:theindex.org][Index]]

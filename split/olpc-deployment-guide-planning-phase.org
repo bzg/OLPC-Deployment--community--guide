@@ -18,10 +18,14 @@ followed by an order for laptops.
 
 * Financing Approaches
 
+#+index: Finance
+
 In considering a deployment with OLPC, project sponsors typically take one
 of following three approaches:
 
 ** Geographic Focus
+
+#+index: Geography
 
 With the geographic approach, a project sponsor selects a particular region
 that is of interest to them.  Such region can be a country, state, city or
@@ -37,6 +41,8 @@ necessary given possible budget constraints.
 
 ** Budget Constraints
 
+#+index: Budget
+
 Many project sponsors come to OLPC with a country selected and a fixed
 budget to support a project.  Within 2-4 hours working with OLPC, a sponsor
 can determine the number of students that can be benefited by the project.
@@ -49,6 +55,9 @@ required:
 - % of schools with Internet connectivity
 
 ** Political or social objectives
+
+#+index: Objectives!Political
+#+index: Objectives!Social
 
 Some sponsors view an OLPC project as a means of achieving political or
 social change.  For example, the government of Uruguay undertook their
@@ -108,6 +117,8 @@ the costs involved in carrying out a project:
   do it.  OLPC does not markup freight and insurance.
 
 * Financial Assumptions
+
+#+index: Finance!Assumptions
 
 The following table offers a breakdown of the costs associated with
 executing a project.  The first group of assumptions refers to

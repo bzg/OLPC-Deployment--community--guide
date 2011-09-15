@@ -15,6 +15,9 @@ programs.  Having schools involved from the early stages can drive school
 leaders to a positive response towards the program and can facilitate
 project ownership at the school level.  A feasibility study should include:
 
+#+index: Power!Feasibility
+#+index: Connectivity!Feasibility
+
 - School surveys
 - Power and connectivity status
 - Allocation of laptops (warehouse and distribution process)
@@ -50,6 +53,9 @@ capacity would be needed to feed a battery system with adequate storage
 capacity, assuming 80% efficiency.
 
 * Solar Panels
+
+#+index: Power!Solar panels
+#+index: Solar panels
 
 If the location of deployment is remote and isolated, and no electrical
 power is available, solar panels can be an alternative solution.  Panels of

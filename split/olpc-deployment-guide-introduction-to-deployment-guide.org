@@ -17,6 +17,8 @@ strengths and capabilities.
 
 * Deployment Phases Overview
 
+#+index: Deployment!Phases
+
 A deployment can be divided in three main phases: Planning Phase,
 Deployment Phase, and Post- Deployment Phase.  This document is meant to
 guide project managers through the roadmap towards a successful deployment,

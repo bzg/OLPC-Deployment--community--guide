@@ -5,6 +5,9 @@
 
 “It’s an education project, not a laptop project”
 
+#+index: Learning
+#+index: Seymour Papert
+
 OLPC’s principles are based on the learning theory of Constructionism,
 which refers to the concept of “learning by doing”.  Seymour Papert, a
 mathematician, computer scientist, and educator; developed the theory of
@@ -30,6 +33,9 @@ through use of the laptop for learning.
 
 OLPC learning strategy focuses on building:
 
+#+index: Digital Fluency
+#+index: Critical thinking
+
 - Developing Digital Fluency.  This refers to computer programming skills
   and to the ability to build things of significance with technological
   tools.  “A technologically fluent person should be able to go from the
@@ -47,6 +53,9 @@ OLPC learning strategy focuses on building:
   - Communication and Collaboration
 
 *Software : The Sugar Learning Platform*
+
+#+index: Sugar
+#+index: Constructionism
 
 In accordance with the learning theory of Constructionism and OLPC’s
 principle of Open Software, Sugar provides the appropriate platform to

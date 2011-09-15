@@ -20,6 +20,13 @@ designed for collaborative, joyful, self-empowered learning.
 
 * Five core principles
 
+#+index: Child ownership
+#+index: Saturation
+#+index: Connectivity!Core principle
+#+index: Open source!Core principle
+#+index: Open source
+#+index: Free Software
+
 - Child ownership :: Access to information and activities at all times
      create a portable learning and teaching environment.  Child ownership
      includes protecting, caring for, and sharing this creative

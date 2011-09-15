@@ -5,12 +5,16 @@
 
 * Planning Phase
 
+#+index: Planning
+
 - Define Budget for: Purchase, Infrastructure and Connectivity, Staff.
 - Hire project manager and Core Team managers.
 - Select Target community (schools, centers).
 - Define XO specs.
 
 * Deployment Phase
+
+#+index: Deployment
 
 - Hire staff for Core Team.
 - Arrange training for Core Team with OLPC.
@@ -21,6 +25,8 @@
 - Laptop Distribution.
 
 * Post-Deployment Phase
+
+#+index: Post-deployment
 
 - Design and perform Tech support strategy for Laptop Maintenance and
   Repairs.

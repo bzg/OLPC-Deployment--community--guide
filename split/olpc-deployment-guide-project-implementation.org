@@ -29,6 +29,8 @@ domains.
 
 * Core Team
 
+#+index: Core team!Overview
+
 For successful implementation of the OLPC project, we highly recommended
 deployments to recruit and build a local team with skills in: managerial,
 logistics, technical, and educational fields.  The term we use to refer to
@@ -57,6 +59,8 @@ manager.
 
 The following chart provides additional information on the responsibilities
 and required skills of the Core Team members:
+
+#+index: Core team!Skill
 
 [[file:~/install/git/OLPC-Deployment--community--guide/images/4_core_team_skills_1.jpg]]
 

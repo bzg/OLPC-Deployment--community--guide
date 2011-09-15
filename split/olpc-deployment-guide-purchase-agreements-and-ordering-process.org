@@ -9,10 +9,14 @@ the related contractual agreements.
 
 * Selecting your XO
 
+#+index: XO
+
 The XO can be manufactured in various forms to best fit the local context
 of the deployment.
 
 ** Keyboards
+
+#+index: XO!Keyboards
 
 XO laptops can be manufactured with a variety of language for keyboards.
 In order for an XO keyboard to be available, a high-resolution image of the
@@ -21,6 +25,8 @@ keyboard image.OLPC software releases are designed to support the
 International XO keyboard option.
 
 ** AC Adapters
+
+#+index: XO!AC Adapters
 
 There are two types of adaptors available brick or wall mount.  The XO AC
 adapter has an input of 100- 240 volts and is available in 3 options:
@@ -31,6 +37,8 @@ adapter has an input of 100- 240 volts and is available in 3 options:
 
 ** Memory
 
+#+index: XO!AC Memory
+
 The XO uses solid state memory instead of a hard disk.  This is primarily
 to improve its robustness but also to improve performance and reduce power
 consumption.  The default memory type is 1GB of RAM and 4GB of Flash.
@@ -39,6 +47,9 @@ bigger solid state memory for the XO can improve performance and storage
 capacity.
 
 ** Content and Custom Image
+
+#+index: XO!Content
+#+index: XO!Custom Image
 
 OLPC has developed a mechanism whereby the collection of “activities” and
 content “bundles” loaded onto the laptop can be readily pre-configured.  It
@@ -74,6 +85,13 @@ content available in the local language to determine if any work is
 necessary to create translations or provide new content that is more
 culturally relevant.  This could include the following:
 
+#+index: XO!Curriculum
+#+index: Sugar!Activities
+#+index: Maps
+#+index: E-books
+#+index: Language
+#+index: Translation
+
 - Pre-loading specific Sugar Activities to support specific curricula
   needs;
 
@@ -95,13 +113,15 @@ culturally relevant.  This could include the following:
   and Developing custom content to meet specific curriculum or cultural
   needs.
 
-
 The custom XO image option requires a certain level of skill and commitment
 from the technical and learning deployment advisors.  OLPC will help with
 the bundling process, but the responsibility for testing the bundle rests
 with the in-country deployment teams.
 
 * Purchase Agreement
+
+#+index: Purchase
+#+index: Delivery
 
 OLPC recognizes a binding commitment from a sponsor to a project upon
 receipt of a signed purchase agreement and a letter of credit in favor of
@@ -132,6 +152,9 @@ the contractual agreement are adhered to.
 
 ** Payment & Inco terms
 
+#+index: XO!Payment
+#+index: Incoterm
+
 The most common payment option for large-scale XO orders is 20% down
 payment and 80% payable by transferable letter of credit.  The OLPC
 template for issuing transferable letters of credit can be found in the
@@ -151,6 +174,8 @@ destination.
 
 ** Warranty
 
+#+index: Warranty
+
 All XO orders are shipped with an additional 1% of units in lieu of a
 conventional warranty program.  These units are shipped at no extra cost.
 In addition to the supplemental units, OLPC provides a limited warranty in
@@ -158,6 +183,9 @@ the event of an epidemic failure.  Details on this warranty can be found in
 the OLPC contract.
 
 ** Local Duties and Taxes
+
+#+index: Taxes
+#+index: Duties
 
 The local duties and taxes associated with a shipment of XO laptops vary
 depending on the rules and regulations of the local customs authority.
@@ -175,6 +203,8 @@ to process an exemption request with local authorities.
 
 ** Spare Parts
 
+#+index: XO!Spare parts
+
 XO spare parts can be purchased in conjunction with an initial XO order or
 at a later date.  OLPC can assist the logistics department of team in
 purchasing spare parts from the XO manufacturer.  Spare parts are available
@@ -191,6 +221,9 @@ Additionally,local sponsors are responsible for all costs of transporting
 computers from the dock to the warehouse.
 
 * XO Order Process and Lead Time
+
+#+index: XO!Order process
+#+index: XO!Lead time
 
 In order to minimize the end cost, OLPC manufactures laptops to order and
 does not maintain an inventory of laptops.  Formalizing the commitment to

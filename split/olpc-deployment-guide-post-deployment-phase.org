@@ -8,6 +8,10 @@ laptops reach the children, but the laptop arrival really marks the
 commencement of the most critical phase in a deployment and its positive
 impact on the children.
 
+#+index: Deployment!Phases
+#+index: Training!Teachers
+#+index: Support!Overview
+
 Post deployment should focus on three key areas:
 
 1. Continued Teacher Training and Support
@@ -35,6 +39,8 @@ of the leading educational laboratories in the world.
 
 *Evaluation Studies*
 
+#+index: Evaluation
+
 Many projects benchmark their students and then periodically evaluate the
 student progress every six or twelve months.  The UN uses six month
 evaluations and large federal projects typically evaluate students every
@@ -45,6 +51,9 @@ decision, but OLPC can provide resources to implement an evaluation
 program.
 
 * Continued Teacher Training and Support
+
+#+index: Training!Teachers
+#+index: Support!Teachers
 
 Teachers are a key part to any successful deployment.  As the teachers see
 the increased student enthusiasm for learning as a result of the laptops,
@@ -74,6 +83,9 @@ Case studies, assessment guides, online resources, and blogs.
 
 * Extracurricular Environments
 
+#+index: Curriculum
+#+index: Extracurricular
+
 Extracurricular programs where children can use the XO laptops outside of
 school settings are essential for meaningful learning experiences.  When
 children are highly engaged in using the XO for activities they are
@@ -100,6 +112,9 @@ learning process.  This is also important for the viability and
 sustainability of the project.
 
 * Maintenance and Repairs
+
+#+index: Maintenance
+#+index: Repair
 
 The actual repair of the laptops may be handled in many ways.  There are
 three popular methods:

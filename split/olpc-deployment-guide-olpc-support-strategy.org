@@ -3,6 +3,10 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
+
+#+index: Assistance
+#+index: Support!Strategy
+
 One Laptop Per Child provides assistance throughout the different stages of
 a deployment, focusing on three major types of support: Operational,
 Educational, and Technical.
@@ -41,6 +45,8 @@ supply-chain management.
 
 * OLPC Educational Development Support
 
+#+index: Development!Educational
+
 Once a project is officially established, OLPC facilitates workshops for
 core teams to develop an understanding of the XO as a learning tool.  OLPC
 provides guidance in the process of defining a support structure for
@@ -50,12 +56,18 @@ content development.
 
 * OLPC Technical Development Support
 
+#+index: Support!Technical!
+#+index: Development!Technical
+
 OLPC also focuses on building local capacity in technical aspects such as:
 setting local infrastructure and connectivity; and all other
 responsibilities regarding software, hardware, maintenance and repairs of
 machines.
 
 * Volunteers and Internship Programs
+
+#+index: Volunteers
+#+index: Internship
 
 Another support strategy from OLPC entails Volunteer and Internship
 programs.  During the months of June, July and August, OLPC launches
