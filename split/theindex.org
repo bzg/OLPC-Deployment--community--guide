@@ -49,6 +49,8 @@
    - [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org::#sec-2-1][Incoterm]]
    - [[file:olpc-deployment-guide-deployment-phase.org::#sec-4][Infrastructure]]
    - [[file:olpc-deployment-guide-olpc-support-strategy.org::#sec-4][Internship]]
+** J
+   - [[file:olpc-deployment-guide-olpc-learning-strategy.org][Jean Piaget]]
 ** L
    - [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org::#sec-1-4][Language]]
    - Laptop

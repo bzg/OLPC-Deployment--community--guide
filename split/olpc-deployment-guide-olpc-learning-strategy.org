@@ -9,6 +9,7 @@
 
 #+index: Learning
 #+index: Seymour Papert
+#+index: Jean Piaget
 
 OLPC’s principles are based on the learning theory of Constructionism,
 which refers to the concept of “learning by doing”.  Seymour Papert, a
