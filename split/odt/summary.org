@@ -1,0 +1,22 @@
+#+TITLE: Summary of the ODT export
+#+AUTHOR: Bastien
+
+* Information about ODT documents
+
+| Document                                     | Words | Pages | Figures |
+|----------------------------------------------+-------+-------+---------|
+| deployment-phase.odt                         |  4000 |    10 |       5 |
+| feasibility-study.odt                        |   500 |     2 |       1 |
+| introduction-to-deployment-guide             |   150 |     1 |       1 |
+| OLPC_Deployment_Guide.odt (index)            |    50 |     1 |       0 |
+| olpc-learning-strategy.odt                   |   400 |     1 |       0 |
+| support-strategy.odt                         |   450 |     1 |       0 |
+| one-laptop-per-child.odt                     |   300 |     1 |       0 |
+| planning-phase.odt                           |   900 |     3 |       2 |
+| post-deployment-phase.odt                    |  1100 |     3 |       1 |
+| project-implementation.odt                   |   450 |     3 |       5 |
+| purchase-agreements-and-ordering-process.odt |  1700 |     4 |       1 |
+| guide-related-websites.odt                   |   100 |     1 |       0 |
+| summary-of-recommended-tasks.odt             |   150 |     1 |       0 |
+
+* Information about images
