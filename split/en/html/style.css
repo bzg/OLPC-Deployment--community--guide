@@ -17,6 +17,7 @@
     }
     body .title {
       margin-left: 120px;
+      line-height: 22pt;
     }
 
   p {text-align: justify;}
