@@ -3,7 +3,7 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
-[[file:index.org][Table des matères]] -- [[file:theindex.org][Index]]
+[[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
 
 « Il s'agit d'un projet éducatif et non d'un projet informatique. » 
 
@@ -67,6 +67,6 @@ travers différents medias et outils de programmation. Sugar met en avant
 l'apprentissage collaboratif au travers d'activités encourageant la pensée
 critique, la collaboration et la réflexion.
 
-[[file:index.org][Table des matères]] -- [[file:theindex.org][Index]]
+[[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
 
 

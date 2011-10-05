@@ -3,7 +3,7 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
-[[file:index.org][Table des matères]] -- [[file:theindex.org][Index]]
+[[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
 
 Ce chapitre décrit le processus habituel précédant la commande des
 ordinateurs portables ; il comporte certaines décisions à prendre
@@ -268,7 +268,7 @@ livraison complet et efficace des XO.
 
 [[file:~/install/git/OLPC-Deployment--community--guide/images/10_xo_order_process.jpg]]
 
-[[file:index.org][Table des matères]] -- [[file:theindex.org][Index]]
+[[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
 
 
 

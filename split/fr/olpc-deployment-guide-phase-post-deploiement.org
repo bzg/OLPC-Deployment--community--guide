@@ -3,7 +3,7 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
-[[file:index.org][Table des matères]] -- [[file:theindex.org][Index]]
+[[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
 
 On tend à penser que le plus dur est fait lorsque que les XO sont entre les
 mains des enfants :  c'est pourtant le début de la phase la plus critique
@@ -173,4 +173,4 @@ Si le projet ressent le besoin d'investir dans un support technique, nous
 vous encourageons à faire cet investissement localement, la communauté sur
 place pouvant être formée aux réparations par notre équipe technique.
 
-[[file:index.org][Table des matères]] -- [[file:theindex.org][Index]]
+[[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]

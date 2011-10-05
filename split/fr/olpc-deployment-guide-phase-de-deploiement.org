@@ -3,7 +3,7 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
-[[file:index.org][Table des matères]] -- [[file:theindex.org][Index]]
+[[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
 
 La phase de déploiement comprend tous les événements qui se produisent
 entre la commande de l'ordinateur portable au fabriquant et la distribution
@@ -716,4 +716,4 @@ La quantité d'énergie nécessaire pour les serveurs de l'école dépend des
 spécifications des machines utilisées. Cela doit être pris en considération
 lors de la préparation sur place. 
 
-[[file:index.org][Table des matères]] -- [[file:theindex.org][Index]]
+[[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
