@@ -57,7 +57,7 @@ content development.
 
 * OLPC Technical Development Support
 
-#+index: Support!Technical!
+#+index: Support!Technical
 #+index: Development!Technical
 
 OLPC also focuses on building local capacity in technical aspects such as:

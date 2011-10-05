@@ -1,0 +1,19 @@
+﻿One Laptop Per Child
+One Laptop per Child (OLPC) est une organisation à but non lucratif fondée en 2005   dans l'idée de  transformer l'éducation en donnant à chaque enfant l'accès à un ordinateur portable :  le XO. Ceux-ci, par leur interactivité et leur connectivité, offrent aux Etats une voie royale pour que tous les enfants aient accès au meilleur contexte d'apprentissage et de développement. Nous sommes certains que ces XO représentent un levier unique dans le  développement, des enfants, leur curiosité naturelle, leur désir d'apprendre et leur pensée critique.
+La mission d'OLPC
+Apporter à tous les enfants un accès aisé à l'éducation en fournissant à chacun d'entre eux un XO robuste, bon marché et à basse consommation d'énergie ; et proposant de plus un contenu et des logiciels faits pour apprendre de manière indépendante, collaborative et ludique.  
+Les cinq principes fondamentaux 
+Propriété de l'enfant
+L'accès permanent à l'information et aux activités amène un environnement mobile et créatif, propice à l'apprentissage et l'enseignement. C'est à l'enfant de le protéger, d'en prendre soin et de le partager.
+
+Bas âges
+Le XO est conçu pour être utilisé par des enfants âgés de 4 à 12 ans, ce qui correspond à l'école élémentaire ou primaire selon les pays.
+
+Saturation
+Pour arriver à une amélioration éducative conséquente, chaque enfant devrait avoir son propre XO afin qu'aucun enfant ne soit marginalisé : cette saturation digitale implique que la communauté entière soit intégrée dans le programme.
+
+Connectivité
+Les XO ne se connectent pas seulement à Internet; ils se connectent également entre eux, créant ainsi une “école élargie” qui continue au-delà des murs de la classe et favorise ainsi le dialogue entre les générations, les pays et les cultures.
+
+Logiciels libres et ouverts
+Le XO et tout son contenu évolue avec les enfants qui grandissent et développent de nouvelles idées ;  car des derniers ne font pas que participer à des activités et acquérir du savoir, ils apprennent aussi à créer des activités eux-mêmes , à transférer leurs connaissances et à les partager avec toute la communauté. 

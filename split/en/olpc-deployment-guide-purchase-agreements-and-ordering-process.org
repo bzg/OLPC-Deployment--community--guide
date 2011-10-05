@@ -130,7 +130,7 @@ receipt of a signed purchase agreement and a letter of credit in favor of
 OLPC for 100% of the value of the laptops.  OLPC also accepts advance telex
 transfers of cash in lieu of letters of credit.
 
-The purchase agreement includes five major sections:
+The purchase agreement includes five major sections :
 
 1. Detailed specifications of the laptop including the configuration of RAM
    and flash memory;

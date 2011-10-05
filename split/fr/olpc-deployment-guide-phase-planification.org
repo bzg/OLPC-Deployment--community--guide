@@ -1,0 +1,132 @@
+#+TITLE: Phase de planification
+#+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
+#+DATE: 2011-09-12
+#+OPTIONS: toc:nil
+
+[[file:index.org][Table des matères]] -- [[file:theindex.org][Index]]
+
+La phase de planification débute avec l'idée de commencer un projet avec
+One Laptop Per Child et se termine une fois que la commande est passée avec
+le constructeur. OLPC aide les responsables du projet à prendre certaines
+décisions durant cette phase, ainsi qu'à définir les actions requises en
+accord avec les objectifs du programme. Durant cette phase, l'équipe peut
+bénéficier d'une meilleure compréhension des divers éléments en rapport
+avec un déploiement, que ce soit sur des aspects humains, techniques ou
+financiers. Les éléments inclus dans la phase de phase planification sont :
+l'étude de différentes approches de financement, l'étude de faisabilité
+ainsi qu'un contrat d'achat suivie par une commande d'ordinateurs. 
+
+* Approches financières 
+
+En considérant un déploiement avec OLPC, les équipes chargées du projet
+choisissent généralement l'une des trois approches suivantes :
+
+** Ciblage géographique 
+
+Avec l'approche géographique, l'équipe déploiement sélectionne une région
+qui l'intéresse particulièrement. Il peut s'agir d'un pays, d'un état,
+d'une ville ou d'une communauté. Une approche par plusieurs villes n'est
+pas recommandée puisqu'il en découle une utilisation moins efficace de
+l'infrastructure et de l'administration, ce qui réduit le nombre d'enfants
+touchés. Lorsque le choix se porte sur une région, l'équipe doit pouvoir en
+déterminer le nombre d'élèves, d'enseignants et d'écoles. Il faut également
+déterminer le nombre d'écoles ayant l'électricité et celles possédant une
+connexion Internet. Avec ces cinq informations, l'équipe peut utiliser
+l'étude de faisabilité disponible en annexe afin de déterminer le budget
+annuel pour le projet et décider si une approche progressive est nécessaire
+compte tenu des contraintes budgétaires. 
+
+** Contraintes budgétaires 
+
+De nombreuses équipes de déploiement contactent OLPC avec un pays
+sélectionné et un budget fixé pour soutenir le projet. En travaillant avec
+OLPC, dans les 2 à 4 heures l'équipe peut déterminer le nombre d'élève
+pouvant bénéficier de ce projet. Afin que le procédé soit efficace, les
+informations suivantes sont requises :
+
+- Le nombre moyen d'élèves par école.
+- Le nombre moyen d'enseignants par école.
+- Le pourcentage d'écoles ayant l'électricité.
+- Le pourcentage d'écoles connectées à Internet.
+
+** Objectifs politiques ou sociaux 
+
+Certaines équipes de déploiement voient un moyen d'obtenir un changement
+politique ou social au travers d'un projet OLPC. Par exemple, le
+gouvernement de l'Uruguay a entrepris le projet CEIBAL afin de favoriser
+l'insertion sociale. Cette approche ne présente pas un défit pour OLPC, en
+fait cela conduit bien souvent à l'élaboration d'une stratégie de conduite
+de projet bien plus rapidement que les deux autres approches. Avec
+l'utilisation du  modèle de faisabilité et les quatre informations mises en
+avant dans l'approche budgétaire, n'importe quel projet politique ou social
+peut-être traduis en budget et en nombre d'ordinateurs pouvant être
+déployés.
+
+* Principes clés
+
+Il est important pour l'équipe chargée du déploiement de comprendre
+certains point clés en rapport avec les coûts impliqués dans la réalisation
+du projet :
+
+- Il est recommandé que l'équipe dispose de personnes à temps plein afin de
+  gérer le déploiement, sans autres responsabilités. Idéalement, une
+  nouvelle société, association ou agence gouvernementale est formée afin
+  d'assumer cette responsabilité. Alors qu'une telle approche peut paraître
+  plus coûteuse, OLPC estime que le coût est plus que compensé par une
+  gestion du projet plus efficace.  Cette séparation conduit également à
+  une saine séparation entre là gestion au jour le jour et la politique
+  lors de déploiement soutenus par le gouvernement.
+
+- Le personnel pédagogique est la clés d'un déploiement réussi, tant au
+  départ que par la suite. Par conséquent, le budget prévoit que chaque
+  écoles soit visitée au moins une fois un mois après la formation
+  initiale, afin de renforcer la formation et les compétences des
+  enseignants. Des dépenses importantes sont également prévues pour la
+  connectivité et la gestion du réseau de l'école, mais aussi pour la
+  maintenance des portails pour les enseignants, élèves, parents et la
+  communauté.
+
+- Il est recommandé de disposer d'un centre d'appel pour le projet, afin de
+  pouvoir fournir un service de support ou une aide technique aux élèves,
+  parents et enseignants. Ces centre s'occupent également de la réparation
+  des unités défectueuses. Le budget est prévu pour des pièces de rechange,
+  basé sur des statistiques historiques est inclus dans le modèle. Le
+  besoin en réparation varie en fonction de l'utilisation de l'ordinateur
+  par l'enfant.
+
+- Le coût de l'électricité et de la connectivité dépend fortement du pays
+  ciblé et de la disponibilité du service. Le modèle est prévu pour tous
+  les cas, d'un environnent sans électricité ni connexion, à un
+  environnement disposant de services complets tels que disponibles aux
+  États-Unis. Mener une enquête détaillée par des professionnels dans
+  chaque école améliore fortement la justesse du modèle. Le facteur le plus
+  susceptible d'être négligé est l'augmentation de la consommation
+  d'électricité dans les écoles lorsque les enfants reçoivent leurs
+  ordinateurs.
+
+- Un surcoût important peu s'ajouter avec les droits d'importation et les
+  taxes. OLPC ne propose pas de conseils juridiques ni fiscaux et ne
+  participe pas aux programmes visant à réduire ou éviter les impôts et les
+  taxes. La détermination du montant de telles dépenses est de l'ordre des
+  responsables du déploiement. Cependant, OLPC fournit une estimation des
+  coûts pour le fret et l'assurance et définit le prix d'un ordinateur en
+  incluant le coût, l'assurance et le transport. Étant donné qu'OLPC a une
+  plus grande expérience en organisation de fret maritime, en provenance de
+  la Chine avec DHL, que la plupart des équipes chargées d'un déploiement,
+  il est recommandé que le chargé du déploiement permette à OLPC de s'en
+  occuper. OLPC ne définit pas le prix du fret ni de l'assurance.
+
+* Hypothèses financières 
+
+#+index: Finance!Hypothèses
+
+Le tableau suivant propose un partitionnement des coûts associés à
+l'exécution d'un projet. Le premier groupe d'hypothèses se réfère à des
+coûts non récurrents, tels que le matériel, l'expédition et l'installation
+électrique (si nécessaire). Le second groupe prend en compte les coûts
+récurrents tels que les coût d'exploitation mensuels et le salaire des
+employés.
+
+[[file:~/install/git/OLPC-Deployment--community--guide/images/8_financial_assumptions.jpg]]
+ 
+[[file:index.org][Table des matères]] -- [[file:theindex.org][Index]]

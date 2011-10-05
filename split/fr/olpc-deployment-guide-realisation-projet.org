@@ -1,0 +1,70 @@
+﻿#+TITLE: Mise en oeuvre du projet
+#+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
+#+DATE: 2011-09-12
+#+OPTIONS: toc:nil
+
+[[file:index.org][Table des matères]] -- [[file:theindex.org][Index]]
+
+Un projet OLPC a un impact évident sur les enfants et leurs résultats
+d'apprentissage mais également sur le système scolaire (en particulier les
+enseignants), les familles des enfants ainsi que sur la communauté dans son
+ensemble : il est donc important d'en tenir compte lors de la définition
+des objectifs et stratégies à mettre en oeuvre. Pour que le projet soit
+viable, ces stratégies doivent inclure différents volets ; ceux-ci, ainsi
+que leur structuration, sont indiqués dans la pyramide ci-dessous.
+
+L'infrastructure est la base de la pyramide : c'est elle qui fournit
+l'accès aux XO, au réseau électrique (ou à une source d'énergie
+alternative), à internet et aux serveurs de l'école ; sans elle, remonter
+la pyramide est particulièrement ardu et amène peu de résultats
+positifs. Le tiers supérieur de la pyramide propose pour sa part deux types
+d'évaluations :
+
+Le premier type permet de mesurer l'impact du projet, sur l'apprentissage
+des  étudiants par exemple, ses effets au  niveau social et au niveau des
+avancées éducatives. Le second type identifie les secteurs qui sont à même
+d'améliorer sa mise en oeuvre. Tous ces éléments se situent dans un cycle
+permanent où la partie supérieure de la pyramide donne sans cesse un
+feedback aux autres parties.
+
+[[file:~/install/git/OLPC-Deployment--community--guide/images/2_project_implementation.jpg]]
+
+* L'équipe principale
+
+#+index: Equipe principale!Survol
+
+Pour une mise en oeuvre réussie, nous recommandons vivement de structurer
+une équipe locale qui aura des compétences en gestion, en logistique,  en
+technique et en éducation ; cette équipe se nommera « équipe principale »
+et sera l'interface entre le projet et OLPC.
+
+Il est important d'engager un responsable d'équipe possédant de
+l'expérience en planification de projet et de budget, en relations externes
+et en communication ; il doit être à même de planifier et de coordonner
+toutes les opérations ainsi que de superviser les différents secteurs
+impliqués ; il doit également posséder une formation dans le domaine
+technique et/ou éducatif. Ce sera à lui de sélectionner les membres de son
+équipe selon l'organigramme suivant :
+
+Pour de grands déploiements (>50'000 unités), la totalité de l'organigramme
+est indispensable ; le chef de projet devra engager des responsables
+éducatif et technique afin de coordonner les actions liées à leur  domaine
+d'expertise ; un responsable logistique sera en charge du stockage des XO,
+de leur inventaire et de la gestion des pièces de rechange.
+
+Pour de plus petits déploiements (<2'500 unités), le chef de projet ou le
+directeur technique peut se charger lui-même de la logistique.
+
+Ce diagramme donne des informations complémentaires sur les responsabilités
+et les compétences des membres de l'équipe principale :
+
+#+index: Equipe principale!Compétences
+
+[[file:~/install/git/OLPC-Deployment--community--guide/images/4_core_team_skills_1.jpg]]
+
+[[file:~/install/git/OLPC-Deployment--community--guide/images/5_core_team_skills_2.jpg]]
+
+[[file:~/install/git/OLPC-Deployment--community--guide/images/6_core_team_skills_3.jpg]]
+
+
+[[file:index.org][Table des matères]] -- [[file:theindex.org][Index]]
