@@ -655,7 +655,6 @@ delivery schedule.
 [[file:images/10_xo_order_process.jpg]]
 
 * Deployment Phase
-
 The deployment phase includes all events that occur between laptop order
 placement with the manufacturer and final distribution of XOs to schools
 and children.  The lead time provides a term that can be allotted to
