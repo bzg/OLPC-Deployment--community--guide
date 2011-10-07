@@ -7,7 +7,7 @@
 #+LATEX_HEADER: \usepackage{geometry}
 #+LATEX_HEADER: \geometry{left=1.2in,right=1.2in,top=1.2in,bottom=1.2in}
 
-* One Laptop Per Child
+* KEVIN: One Laptop Per Child
 
 One Laptop per Child (OLPC) est une organisation à but non lucratif fondée
 en 2005 dans l'idée de transformer l'éducation en donnant à chaque enfant
@@ -55,7 +55,7 @@ apprendre de manière indépendante, collaborative et ludique.
      transférer leurs connaissances et à les partager avec toute la
      communauté.
 
-* Stratégie d'apprentissage
+* KEVIN: Stratégie d'apprentissage
 
 « Il s'agit d'un projet éducatif et non d'un projet informatique. » 
 
@@ -119,7 +119,7 @@ travers différents medias et outils de programmation. Sugar met en avant
 l'apprentissage collaboratif au travers d'activités encourageant la pensée
 critique, la collaboration et la réflexion.
 
-* Introduction au guide de déploiement
+* KEVIN: Introduction au guide de déploiement
 
 ** Vue d'ensemble des phases de déploiement
 
@@ -129,9 +129,7 @@ de projet depuis leur feuille de route jusqu'à la réussite du déploiement
 par la description des points essentiels, des prises de décision et par la
 chronologie des actions.
 
-[[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
-
-* Mise en oeuvre du projet
+* KEVIN: Mise en oeuvre du projet
 
 Un projet OLPC a un impact évident sur les enfants et leurs résultats
 d'apprentissage mais également sur le système scolaire (en particulier les
@@ -194,7 +192,7 @@ et les compétences des membres de l'équipe principale :
 
 [[file:~/install/git/OLPC-Deployment--community--guide/images/6_core_team_skills_3.jpg]]
 
-* Stratégie de support
+* KEVIN: Stratégie de support
 
 #+index: Assistance
 #+index: Support!Strategie
@@ -268,7 +266,7 @@ Durant les mois de juin, juillet et août, nous proposons des stages aux
 permettre de travailler main dans la main avec l'équipe principale selon
 leur formation et leur domaine d'étude.
 
-* Phase de planification
+* CECILE: Phase de planification
 
 La phase de planification débute avec l'idée de commencer un projet avec
 One Laptop Per Child et se termine une fois que la commande est passée avec
@@ -394,23 +392,23 @@ employés.
 
 [[file:~/install/git/OLPC-Deployment--community--guide/images/8_financial_assumptions.jpg]]
  
-* TODO Étude de faisabilité
+* COMMENT TODO Étude de faisabilité
 
-* Contrats d'achat et processus de commande
+* KEVIN: Contrats d'achat et processus de commande
 
 Ce chapitre décrit le processus habituel précédant la commande des
 ordinateurs portables ; il comporte certaines décisions à prendre
 concernant les aspects techniques des XO et les accords contractuels en
 découlant.
 
-* Choix du XO 
+** Choix du XO 
 
 #+index: XO
 
 Le XO pouvant être fabriqué de différentes manières, il s'agit de choisir
 ce qui conviendra le mieux au contexte local du déploiement. 
 
-** Claviers
+*** Claviers
 
 #+index: XO!Clavier
 
@@ -420,7 +418,7 @@ disposition doit être disponible et le logiciel existant doit pouvoir
 supporter cet agencement de clavier. Les logiciels d'OLPC sont conçus pour
 prendre en charge  l'option de clavier international. 
 
-** Adaptateurs secteur
+*** Adaptateurs secteur
 
 #+index: XO!Adaptateurs secteurs
 
@@ -432,7 +430,7 @@ en bloc d'alimentation. L'adaptateur AC pour le XO dispose d'une entrée
 - 2 broches rondes (EU) 
 - 3 broches plates (UK) 
 
-** Mémoire 
+*** Mémoire 
 
 #+index: XO!Mémoire
 
@@ -445,7 +443,7 @@ budget et des conditions d'utilisation, il est possible de sélectionner un
 SSD plus rapide ou plus important afin que le XO puisse améliorer ses
 performances et sa capacité de stockage. 
 
-** Contenu et personnalisation de l'image d'installation
+*** Contenu et personnalisation de l'image d'installation
 
 #+index: XO!Contenu
 #+index: XO!Image d'installation
@@ -521,7 +519,7 @@ L'option XO d'image personnalisée demande un certain niveau de compétences
 et d'investissement de la part desde construction mais la responsabilité de
 tester les «paquets» demeure aux mains des équipes locales. 
 
-* Contrat d'achat
+** Contrat d'achat
 
 OLPC s'engage à reconnaître un soutien d'un sponsor à un projet une fois
 qu'elle a reçu un contrat signé ainsi qu'une lettre de crédit en faveur
@@ -550,7 +548,7 @@ logistique travaillent en étroite collaboration pour garantir que les
 délais et conditions énoncées dans l'entente contractuelle soient
 respectés.
 
-** Modalités de paiement et Incoterms
+*** Modalités de paiement et Incoterms
 
 #+index: XO!Paiement
 #+index: Incoterms
@@ -573,7 +571,7 @@ dédouanement, les droits et taxes d'entrée, frais de surestaries, les
 redevances d'amérissage au port de l'importateur, le déchargement sur des
 camions à ce port  et la livraison à la destination finale.
 
-** Garantie 
+*** Garantie 
 
 #+index: Garantie
 
@@ -583,7 +581,7 @@ sont expédiés sans frais supplémentaires. De plus, OLPC fournit une
 garantie limitée en cas de problème sur la série. Les détails sur cette
 garantie sont dans le contrat d'OLPC.
 
-** Frais de douane et taxes 
+*** Frais de douane et taxes 
 
 Les frais de douanes et les taxes associés au transport de XO varies
 suivant les règles de l'autorité des douanes locales. Les frais de douanes
@@ -601,7 +599,7 @@ de l'exemption. OLPC est en mesure de fournir toute la documentation
 nécessaire permettant de traiter une demande d'exemption auprès des
 autorités locales.
 
-** Pièces de rechange
+*** Pièces de rechange
 
 #+index: XO!Pièces de rechange
 
@@ -621,7 +619,7 @@ et autres coûts liés aux services de transport suivant. En outre, cette
 équipe est également responsable de tous les frais de transfert des
 ordinateurs du quai à l'entrepôt.
 
-* Processus de commande de XO et délai de production
+** Processus de commande de XO et délai de production
 
 #+index: XO!Commande
 #+index: XO!Délai de production
@@ -661,7 +659,7 @@ livraison complet et efficace des XO.
 
 [[file:~/install/git/OLPC-Deployment--community--guide/images/10_xo_order_process.jpg]]
 
-* Phase de déploiement
+* CECILE: Phase de déploiement
 
 La phase de déploiement comprend tous les événements qui se produisent
 entre la commande de l'ordinateur portable au fabriquant et la distribution
@@ -1374,7 +1372,7 @@ La quantité d'énergie nécessaire pour les serveurs de l'école dépend des
 spécifications des machines utilisées. Cela doit être pris en considération
 lors de la préparation sur place. 
 
-* Phase de post-déploiement
+* KEVIN: Phase de post-déploiement
 
 On tend à penser que le plus dur est fait lorsque que les XO sont entre les
 mains des enfants :  c'est pourtant le début de la phase la plus critique
@@ -1544,6 +1542,6 @@ Si le projet ressent le besoin d'investir dans un support technique, nous
 vous encourageons à faire cet investissement localement, la communauté sur
 place pouvant être formée aux réparations par notre équipe technique.
 
-* TODO Résumé des tâches recommandées
+* COMMENT TODO Résumé des tâches recommandées
 
-* TODO Sites web
+* COMMENT TODO Sites web
