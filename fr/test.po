@@ -1,0 +1,138 @@
+#. extracted from olpc-deployment-guide-realisation-projet.org
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-08 11:14+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: olpc-deployment-guide-realisation-projet.org:1
+msgid ""
+"﻿#+TITLE: Mise en oeuvre du projet\n"
+"#+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.\n"
+"#+DATE: 2011-09-12\n"
+"#+OPTIONS: toc:nil"
+msgstr ""
+
+#: olpc-deployment-guide-realisation-projet.org:6
+msgctxt "olpc-deployment-guide-realisation-projet.org:6"
+msgid "[[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]"
+msgstr ""
+
+#: olpc-deployment-guide-realisation-projet.org:8
+msgid ""
+"Un projet OLPC a un impact évident sur les enfants et leurs résultats\n"
+"d'apprentissage mais également sur le système scolaire (en particulier les\n"
+"enseignants), les familles des enfants ainsi que sur la communauté dans son\n"
+"ensemble : il est donc important d'en tenir compte lors de la définition\n"
+"des objectifs et stratégies à mettre en oeuvre. Pour que le projet soit\n"
+"viable, ces stratégies doivent inclure différents volets ; ceux-ci, ainsi\n"
+"que leur structuration, sont indiqués dans la pyramide ci-dessous."
+msgstr ""
+
+#: olpc-deployment-guide-realisation-projet.org:16
+msgid ""
+"L'infrastructure est la base de la pyramide : c'est elle qui fournit\n"
+"l'accès aux XO, au réseau électrique (ou à une source d'énergie\n"
+"alternative), à internet et aux serveurs de l'école ; sans elle, remonter\n"
+"la pyramide est particulièrement ardu et amène peu de résultats\n"
+"positifs. Le tiers supérieur de la pyramide propose pour sa part deux types\n"
+"d'évaluations :"
+msgstr ""
+
+#: olpc-deployment-guide-realisation-projet.org:23
+msgid ""
+"Le premier type permet de mesurer l'impact du projet, sur l'apprentissage\n"
+"des  étudiants par exemple, ses effets au  niveau social et au niveau des\n"
+"avancées éducatives. Le second type identifie les secteurs qui sont à même\n"
+"d'améliorer sa mise en oeuvre. Tous ces éléments se situent dans un cycle\n"
+"permanent où la partie supérieure de la pyramide donne sans cesse un\n"
+"feedback aux autres parties."
+msgstr ""
+
+#: olpc-deployment-guide-realisation-projet.org:30
+msgid ""
+"[[file:~/install/git/OLPC-Deployment--community--"
+"guide/images/2_project_implementation.jpg]]"
+msgstr ""
+
+#: olpc-deployment-guide-realisation-projet.org:32
+msgid "* L'équipe principale"
+msgstr ""
+
+#: olpc-deployment-guide-realisation-projet.org:34
+msgid "#+index: Equipe principale!Survol"
+msgstr ""
+
+#: olpc-deployment-guide-realisation-projet.org:36
+msgid ""
+"Pour une mise en oeuvre réussie, nous recommandons vivement de structurer\n"
+"une équipe locale qui aura des compétences en gestion, en logistique,  en\n"
+"technique et en éducation ; cette équipe se nommera « équipe principale »\n"
+"et sera l'interface entre le projet et OLPC."
+msgstr ""
+
+#: olpc-deployment-guide-realisation-projet.org:41
+msgid ""
+"Il est important d'engager un responsable d'équipe possédant de\n"
+"l'expérience en planification de projet et de budget, en relations externes\n"
+"et en communication ; il doit être à même de planifier et de coordonner\n"
+"toutes les opérations ainsi que de superviser les différents secteurs\n"
+"impliqués ; il doit également posséder une formation dans le domaine\n"
+"technique et/ou éducatif. Ce sera à lui de sélectionner les membres de son\n"
+"équipe selon l'organigramme suivant :"
+msgstr ""
+
+#: olpc-deployment-guide-realisation-projet.org:49
+msgid ""
+"Pour de grands déploiements (>50'000 unités), la totalité de l'organigramme\n"
+"est indispensable ; le chef de projet devra engager des responsables\n"
+"éducatif et technique afin de coordonner les actions liées à leur  domaine\n"
+"d'expertise ; un responsable logistique sera en charge du stockage des XO,\n"
+"de leur inventaire et de la gestion des pièces de rechange."
+msgstr ""
+
+#: olpc-deployment-guide-realisation-projet.org:55
+msgid ""
+"Pour de plus petits déploiements (<2'500 unités), le chef de projet ou le\n"
+"directeur technique peut se charger lui-même de la logistique."
+msgstr ""
+
+#: olpc-deployment-guide-realisation-projet.org:58
+msgid ""
+"Ce diagramme donne des informations complémentaires sur les responsabilités\n"
+"et les compétences des membres de l'équipe principale :"
+msgstr ""
+
+#: olpc-deployment-guide-realisation-projet.org:61
+msgid "#+index: Equipe principale!Compétences"
+msgstr ""
+
+#: olpc-deployment-guide-realisation-projet.org:63
+msgid ""
+"[[file:~/install/git/OLPC-Deployment--community--"
+"guide/images/4_core_team_skills_1.jpg]]"
+msgstr ""
+
+#: olpc-deployment-guide-realisation-projet.org:65
+msgid ""
+"[[file:~/install/git/OLPC-Deployment--community--"
+"guide/images/5_core_team_skills_2.jpg]]"
+msgstr ""
+
+#: olpc-deployment-guide-realisation-projet.org:67
+msgid ""
+"[[file:~/install/git/OLPC-Deployment--community--"
+"guide/images/6_core_team_skills_3.jpg]]"
+msgstr ""
+
+#: olpc-deployment-guide-realisation-projet.org:70
+msgctxt "olpc-deployment-guide-realisation-projet.org:70"
+msgid "[[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]"
+msgstr ""
