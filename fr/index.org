@@ -9,7 +9,7 @@
 * [[file:olpc-deployment-guide-realisation-projet.org][Réalisation du projet]]
 * [[file:olpc-deployment-guide-strategie-support.org][Stratégie de support]]
 * [[file:olpc-deployment-guide-phase-planification.org][Phase de planification]]
-* Etude de faisabilité
+* [[file:olpc-deployment-etude-faisabilite.org][Étude de faisabilité]]
 * [[file:olpc-deployment-guide-achat-commande.org][Contrats d'achat et processus de commande]]
 * [[file:olpc-deployment-guide-phase-de-deploiement.org][Phase de déploiement]]
 * [[file:olpc-deployment-guide-phase-post-deploiement.org][Phase de post-déploiement]]
