@@ -5,7 +5,7 @@
 
 * [[file:olpc-deployment-guide-one-laptop-per-child.org][One Laptop Per Child]]
 * [[file:olpc-deployment-guide-strategie-apprentissage.org][Stratégie d'apprentissage]]
-* [[file:olpc-deployment-guide-introduction-au-guide-de-deploiement.org][Introduction]]
+* [[file:olpc-deployment-guide-introduction-au-guide-de-deploiement.org][Introduction au guide de déploiement]]
 * [[file:olpc-deployment-guide-realisation-projet.org][Réalisation du projet]]
 * [[file:olpc-deployment-guide-strategie-support.org][Stratégie de support]]
 * [[file:olpc-deployment-guide-phase-planification.org][Phase de planification]]
