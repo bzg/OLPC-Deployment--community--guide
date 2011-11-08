@@ -272,7 +272,7 @@ destination ou sur un site de distribution, etc. Ces informations aiderons
 OLPC au travers de l'équipe de base afin d'établir un calendrier de
 livraison complet et efficace des XO. 
 
-[[file:~/install/git/OLPC-Deployment--community--guide/images/10_xo_order_process.jpg]]
+[[file:~/install/git/OLPC-Deployment--community--guide/images/10_xo_order_process_fr.jpg]]
 
 [[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
 
