@@ -19,7 +19,7 @@ ainsi qu'un contrat d'achat suivie par une commande d'ordinateurs.
 * Approches financières 
 
 En considérant un déploiement avec OLPC, les équipes chargées du projet
-choisissent généralement l'une des trois approches suivantes :
+choisissent généralement l'une des trois approches suivantes : 
 
 ** Ciblage géographique 
 
@@ -57,7 +57,7 @@ gouvernement de l'Uruguay a entrepris le projet CEIBAL afin de favoriser
 l'insertion sociale. Cette approche ne présente pas un défit pour OLPC, en
 fait cela conduit bien souvent à l'élaboration d'une stratégie de conduite
 de projet bien plus rapidement que les deux autres approches. Avec
-l'utilisation du  modèle de faisabilité et les quatre informations mises en
+l'utilisation du modèle de faisabilité et les quatre informations mises en
 avant dans l'approche budgétaire, n'importe quel projet politique ou social
 peut-être traduis en budget et en nombre d'ordinateurs pouvant être
 déployés.
@@ -73,36 +73,34 @@ du projet :
   nouvelle société, association ou agence gouvernementale est formée afin
   d'assumer cette responsabilité. Alors qu'une telle approche peut paraître
   plus coûteuse, OLPC estime que le coût est plus que compensé par une
-  gestion du projet plus efficace.  Cette séparation conduit également à
-  une saine séparation entre là gestion au jour le jour et la politique
-  lors de déploiement soutenus par le gouvernement.
+  gestion du projet plus efficace. Cette séparation conduit également à une
+  saine séparation entre là gestion au jour le jour et la politique lors de
+  déploiement soutenus par le gouvernement.
 
 - Le personnel pédagogique est la clés d'un déploiement réussi, tant au
   départ que par la suite. Par conséquent, le budget prévoit que chaque
-  écoles soit visitée au moins une fois un mois après la formation
-  initiale, afin de renforcer la formation et les compétences des
-  enseignants. Des dépenses importantes sont également prévues pour la
-  connectivité et la gestion du réseau de l'école, mais aussi pour la
-  maintenance des portails pour les enseignants, élèves, parents et la
-  communauté.
+  écoles soit visitée au moins une fois un mois après la formation initiale,
+  afin de renforcer la formation et les compétences des enseignants. Des
+  dépenses importantes sont également prévues pour la connectivité et la
+  gestion du réseau de l'école, mais aussi pour la maintenance des portails
+  pour les enseignants, élèves, parents et la communauté. 
 
 - Il est recommandé de disposer d'un centre d'appel pour le projet, afin de
   pouvoir fournir un service de support ou une aide technique aux élèves,
   parents et enseignants. Ces centre s'occupent également de la réparation
   des unités défectueuses. Le budget est prévu pour des pièces de rechange,
-  basé sur des statistiques historiques est inclus dans le modèle. Le
-  besoin en réparation varie en fonction de l'utilisation de l'ordinateur
-  par l'enfant.
+  basé sur des statistiques historiques est inclus dans le modèle. Le besoin
+  en réparation varie en fonction de l'utilisation de l'ordinateur par
+  l'enfant. 
 
 - Le coût de l'électricité et de la connectivité dépend fortement du pays
-  ciblé et de la disponibilité du service. Le modèle est prévu pour tous
-  les cas, d'un environnent sans électricité ni connexion, à un
-  environnement disposant de services complets tels que disponibles aux
-  États-Unis. Mener une enquête détaillée par des professionnels dans
-  chaque école améliore fortement la justesse du modèle. Le facteur le plus
-  susceptible d'être négligé est l'augmentation de la consommation
-  d'électricité dans les écoles lorsque les enfants reçoivent leurs
-  ordinateurs.
+  ciblé et de la disponibilité du service. Le modèle est prévu pour tous les
+  cas, d'un environnent sans électricité ni connexion, à un environnement
+  disposant de services complets tels que disponibles aux États-Unis. Mener
+  une enquête détaillée par des professionnels dans chaque école améliore
+  fortement la justesse du modèle. Le facteur le plus susceptible d'être
+  négligé est l'augmentation de la consommation d'électricité dans les écoles
+  lorsque les enfants reçoivent leurs ordinateurs. 
 
 - Un surcoût important peu s'ajouter avec les droits d'importation et les
   taxes. OLPC ne propose pas de conseils juridiques ni fiscaux et ne
@@ -112,8 +110,8 @@ du projet :
   coûts pour le fret et l'assurance et définit le prix d'un ordinateur en
   incluant le coût, l'assurance et le transport. Étant donné qu'OLPC a une
   plus grande expérience en organisation de fret maritime, en provenance de
-  la Chine avec DHL, que la plupart des équipes chargées d'un déploiement,
-  il est recommandé que le chargé du déploiement permette à OLPC de s'en
+  la Chine avec DHL, que la plupart des équipes chargées d'un déploiement, il
+  est recommandé que le chargé du déploiement permette à OLPC de s'en
   occuper. OLPC ne définit pas le prix du fret ni de l'assurance.
 
 * Hypothèses financières 
