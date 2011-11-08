@@ -25,4 +25,6 @@ de projet depuis leur feuille de route jusqu'à la réussite du déploiement
 par la description des points essentiels, des prises de décision et par la
 chronologie des actions.
 
+[[file:~/install/git/OLPC-Deployment--community--guide/images/1_deploy_phases_overview.jpg]]
+
 [[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
