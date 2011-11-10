@@ -52,5 +52,7 @@ apprendre de manière indépendante, collaborative et ludique.
      transférer leurs connaissances et à les partager avec toute la
      communauté.
 
+* Navigation
+
 - Section suivante : [[file:olpc-deployment-guide-strategie-apprentissage.org][Stratégie d'apprentissage]]
 - [[file:index.org][Table des matières]] - [[file:theindex.org][Index]]

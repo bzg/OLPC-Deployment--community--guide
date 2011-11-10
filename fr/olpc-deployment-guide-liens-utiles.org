@@ -18,5 +18,7 @@
 - Le wiki de Sugar Labs, qui fournit l'environnement Sugar et les activités
   qui tournent sur les ordinateurs XO.
 
+* Navigation
+
 - Section précédente : [[file:olpc-deployment-guide-resume-taches.org][Résumé des tâches recommandées]]
 - [[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
