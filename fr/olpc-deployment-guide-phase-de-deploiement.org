@@ -3,9 +3,13 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
-- Section suivante : [[file:olpc-deployment-guide-phase-post-deploiement.org][Phase de post-déploiement]]
-- Section précédente : [[file:olpc-deployment-guide-achat-commande.org][Contrats d'achat et processus de commande]]
-- [[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+
+- [[file:olpc-deployment-guide-phase-post-deploiement.org][Phase de post-déploiement]]
+- [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-guide-achat-commande.org][Contrats d'achat et processus de commande]]
+
+#+HTML: </div>
 
 La phase de déploiement comprend tous les événements qui se produisent
 entre la commande de l'ordinateur portable au fabriquant et la distribution
@@ -34,6 +38,7 @@ de l'équipe principale avec OLPC, la mise en place d'infrastructures au
 niveau des écoles, la préparation des écoles et des communautés et le
 déploiement des ordinateurs portables. 
 
+#+ATTR_HTML: align="center"
 [[file:~/install/git/OLPC-Deployment--community--guide/images/11_deploy_phases.jpg]]
 
 * Mise en place de la logistique
@@ -625,6 +630,10 @@ La quantité d'énergie nécessaire pour les serveurs de l'école dépend des
 spécifications des machines utilisées. Cela doit être pris en considération
 lors de la préparation sur place. 
 
-- Section suivante : [[file:olpc-deployment-guide-phase-post-deploiement.org][Phase de post-déploiement]]
-- Section précédente : [[file:olpc-deployment-guide-achat-commande.org][Contrats d'achat et processus de commande]]
-- [[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+
+- [[file:olpc-deployment-guide-phase-post-deploiement.org][Phase de post-déploiement]]
+- [[file:olpc-deployment-guide-achat-commande.org][Contrats d'achat et processus de commande]]
+- [[file:index.org][Table des matières]]
+
+#+HTML: </div>

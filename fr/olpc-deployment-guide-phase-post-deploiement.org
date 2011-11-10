@@ -3,9 +3,13 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
-- Section suivante : [[file:olpc-deployment-guide-resume-taches.org][Résumé des tâches recommandées]]
-- Section précédente : [[file:olpc-deployment-guide-phase-de-deploiement.org][Phase de déploiement]]
-- [[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+
+- [[file:olpc-deployment-guide-resume-taches.org][Résumé des tâches recommandées]]
+- [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-guide-phase-de-deploiement.org][Phase de déploiement]]
+
+#+HTML: </div>
 
 On tend à penser que le plus dur est fait lorsque que les XO sont entre les
 mains des enfants : c'est pourtant le début de la phase la plus critique du
@@ -175,6 +179,10 @@ Si le projet ressent le besoin d'investir dans un support technique, nous
 vous encourageons à faire cet investissement localement, la communauté sur
 place pouvant être formée aux réparations par notre équipe technique. 
 
-- Section suivante : [[file:olpc-deployment-guide-resume-taches.org][Résumé des tâches recommandées]]
-- Section précédente : [[file:olpc-deployment-guide-phase-de-deploiement.org][Phase de déploiement]]
-- [[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+
+- [[file:olpc-deployment-guide-resume-taches.org][Résumé des tâches recommandées]]
+- [[file:olpc-deployment-guide-phase-de-deploiement.org][Phase de déploiement]]
+- [[file:index.org][Table des matières]]
+
+#+HTML: </div>

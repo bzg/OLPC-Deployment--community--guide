@@ -3,8 +3,12 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
-- Section précédente : [[file:olpc-deployment-guide-resume-taches.org][Résumé des tâches recommandées]]
-- [[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+
+- [[file:olpc-deployment-guide-resume-taches.org][Résumé des tâches recommandées]]
+- [[file:index.org][Table des matières]]
+
+#+HTML: </div>
 
 * Liens utiles
 
@@ -18,7 +22,10 @@
 - Le wiki de Sugar Labs, qui fournit l'environnement Sugar et les activités
   qui tournent sur les ordinateurs XO.
 
-* Navigation
 
-- Section précédente : [[file:olpc-deployment-guide-resume-taches.org][Résumé des tâches recommandées]]
-- [[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+
+- [[file:olpc-deployment-guide-resume-taches.org][Résumé des tâches recommandées]]
+- [[file:index.org][Table des matières]]
+
+#+HTML: </div>

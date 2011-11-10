@@ -3,9 +3,13 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
-- Section suivante : [[file:olpc-deployment-guide-phase-de-deploiement.org][Phase de déploiement]]
-- Section précédente : [[file:olpc-deployment-etude-faisabilite.org][Étude de faisabilité]]
-- [[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+
+- [[file:olpc-deployment-guide-phase-de-deploiement.org][Phase de déploiement]]
+- [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-etude-faisabilite.org][Étude de faisabilité]]
+
+#+HTML: </div>
 
 Ce chapitre décrit le processus habituel précédant la commande des
 ordinateurs portables ; il comporte certaines décisions à prendre
@@ -276,10 +280,13 @@ livraison complet et efficace des XO.
 
 [[file:~/install/git/OLPC-Deployment--community--guide/images/10_xo_order_process_fr.jpg]]
 
-- Section suivante : [[file:olpc-deployment-guide-phase-de-deploiement.org][Phase de déploiement]]
-- Section précédente : [[file:olpc-deployment-etude-faisabilite.org][Étude de faisabilité]]
-- [[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
 
+- [[file:olpc-deployment-guide-phase-de-deploiement.org][Phase de déploiement]]
+- [[file:olpc-deployment-etude-faisabilite.org][Étude de faisabilité]]
+- [[file:index.org][Table des matières]]
+
+#+HTML: </div>
 
 
 

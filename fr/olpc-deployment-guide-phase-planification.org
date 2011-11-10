@@ -3,9 +3,13 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
-- Section suivante : [[file:olpc-deployment-etude-faisabilite.org][Étude de faisabilité]]
-- Section précédente : [[file:olpc-deployment-guide-strategie-support.org][Stratégie de support]]
-- [[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+
+- [[file:olpc-deployment-etude-faisabilite.org][Étude de faisabilité]]
+- [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-guide-strategie-support.org][Stratégie de support]]
+
+#+HTML: </div>
 
 La phase de planification débute avec l'idée de commencer un projet avec
 One Laptop Per Child et se termine une fois que la commande est passée avec
@@ -18,7 +22,7 @@ financiers. Les éléments inclus dans la phase de phase planification sont :
 l'étude de différentes approches de financement, l'étude de faisabilité
 ainsi qu'un contrat d'achat suivie par une commande d'ordinateurs. 
 
-[[file:~/install/git/OLPC-Deployment--community--guide/images/7_planning_phases.jpg]]
+[[file:~/install/git/OLPC-Deployment--community--guide/images/7_planning_phases_fr.jpg]]
 
 * Approches financières 
 
@@ -131,6 +135,10 @@ employés.
 
 [[file:~/install/git/OLPC-Deployment--community--guide/images/8_financial_assumptions.jpg]]
 
-- Section suivante : [[file:olpc-deployment-etude-faisabilite.org][Étude de faisabilité]]
-- Section précédente : [[file:olpc-deployment-guide-strategie-support.org][Stratégie de support]]
-- [[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+
+- [[file:olpc-deployment-etude-faisabilite.org][Étude de faisabilité]]
+- [[file:olpc-deployment-guide-strategie-support.org][Stratégie de support]]
+- [[file:index.org][Table des matières]]
+
+#+HTML: </div>

@@ -3,22 +3,23 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
-- Section suivante : [[file:olpc-deployment-guide-introduction-au-guide-de-deploiement.org][Introduction au guide de déploiement]]
-- Section précédente : [[file:olpc-deployment-guide-one-laptop-per-child.org][One Laptop Per Child]]
-- [[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
-
-« Il s'agit d'un projet éducatif et non d'un projet informatique. » 
+#+HTML: <div class="menu">
+- [[file:olpc-deployment-guide-introduction-au-guide-de-deploiement.org][Introduction au guide de déploiement]]
+- [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-guide-one-laptop-per-child.org][One Laptop Per Child]]
+#+HTML: </div>
 
 #+index: Apprentissage
 #+index: Seymour Papert
 #+index: Jean Piaget
 
+« Il s'agit d'un projet éducatif et non d'un projet informatique. » 
 
 Nos principes sont basés sur la théorie du constructionnisme ; celle-ci se
 réfère à la théorie de « l'apprentissage par l'action ». Son auteur en est
 Seymour Papert, mathématicien, informaticien et éducateur ; celle-ci est
 elle-même basée sur les théories d'apprentissage constructivistes du
-psychologue suisse Jean Piaget. 
+psychologue suisse Jean Piaget.
 
 Papert pense que l'apprentissage est plus efficace lorsque l'élève est
 lui-même engagé dans le processus ; il pense aussi que la technologie est
@@ -71,7 +72,10 @@ connaissances à travers différents medias et outils de programmation. Sugar
 met en avant l'apprentissage collaboratif au travers d'activités
 encourageant la pensée critique, la collaboration et la réflexion.
 
-- Section précédente : [[file:olpc-deployment-guide-one-laptop-per-child.org][One Laptop Per Child]]
-- Section suivante : [[file:olpc-deployment-guide-introduction-au-guide-de-deploiement.org][Introduction au guide de déploiement]]
-- [[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
 
+- [[file:olpc-deployment-guide-one-laptop-per-child.org][One Laptop Per Child]]
+- [[file:olpc-deployment-guide-introduction-au-guide-de-deploiement.org][Introduction au guide de déploiement]]
+- [[file:index.org][Table des matières]]
+
+#+HTML: </div>

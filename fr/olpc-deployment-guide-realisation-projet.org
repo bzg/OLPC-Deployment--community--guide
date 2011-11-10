@@ -3,9 +3,13 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
-- Section suivante : [[file:olpc-deployment-guide-strategie-support.org][Stratégie de support]]
-- Section précédente : [[file:olpc-deployment-guide-introduction-au-guide-de-deploiement.org][Introduction au guide de déploiement]]
-- [[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+
+- [[file:olpc-deployment-guide-strategie-support.org][Stratégie de support]]
+- [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-guide-introduction-au-guide-de-deploiement.org][Introduction au guide de déploiement]]
+
+#+HTML: </div>
 
 Un projet OLPC a un impact évident sur les enfants et leur éducation mais
 également sur le système scolaire (en particulier les enseignants), les
@@ -71,6 +75,10 @@ et les compétences des membres de l'équipe principale :
 
 [[file:~/install/git/OLPC-Deployment--community--guide/images/6_core_team_skills_3.jpg]]
 
-- Section suivante : [[file:olpc-deployment-guide-strategie-support.org][Stratégie de support]]
-- Section précédente : [[file:olpc-deployment-guide-introduction-au-guide-de-deploiement.org][Introduction au guide de déploiement]]
-- [[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+
+- [[file:olpc-deployment-guide-strategie-support.org][Stratégie de support]]
+- [[file:olpc-deployment-guide-introduction-au-guide-de-deploiement.org][Introduction au guide de déploiement]]
+- [[file:index.org][Table des matières]]
+
+#+HTML: </div>

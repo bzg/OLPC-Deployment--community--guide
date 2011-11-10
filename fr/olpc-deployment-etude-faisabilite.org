@@ -3,9 +3,13 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
-- Section suivante : [[file:olpc-deployment-guide-achat-commande.org][Contrats d'achat et processus de commande]]
-- Section précédente : [[file:olpc-deployment-guide-phase-planification.org][Phase de planification]]
-- [[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+
+- [[file:olpc-deployment-guide-achat-commande.org][Contrats d'achat et processus de commande]]
+- [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-guide-phase-planification.org][Phase de planification]]
+
+#+HTML: </div>
 
 L'étude de faisabilité peut fournir des données pour les besoins des prises
 de décision et du budget. Il est recommandé que les sponsors du projet
@@ -75,6 +79,6 @@ panneau solaire de 10 W exposé en plein soleil fournira suffisamment de
 puissance moyenne pour faire marcher l'ordinateur portable et charger
 lentement la batterie (en près de six heures).
 
-- Section suivante : [[file:olpc-deployment-guide-achat-commande.org][Contrats d'achat et processus de commande]]
-- Section précédente : [[file:olpc-deployment-guide-phase-planification.org][Phase de planification]]
-- [[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
+- [[file:olpc-deployment-guide-achat-commande.org][Contrats d'achat et processus de commande]]
+- [[file:olpc-deployment-guide-phase-planification.org][Phase de planification]]
+- [[file:index.org][Table des matières]]
