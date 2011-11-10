@@ -12,14 +12,14 @@
 #+index: Jean Piaget
 
 
-Nos principes sont basés sur la théorie du constructionnisme ; celle-ci se
-réfère à la théorie de « l'apprentissage par l'action ». Son auteur en est
-Seymour Papert, mathématicien, informaticien et éducateur ; celle-ci est
+Nos principes sont basés sur la théorie du constructionnisme ; celle-ci se
+réfère à la théorie de « l'apprentissage par l'action ». Son auteur en est
+Seymour Papert, mathématicien, informaticien et éducateur ; celle-ci est
 elle-même basée sur les théories d'apprentissage constructivistes du
 psychologue suisse Jean Piaget. 
 
 Papert pense que l'apprentissage est plus efficace lorsque l'élève est
-lui-même engagé dans le processus ; il pense aussi que la technologie est
+lui-même engagé dans le processus ; il pense aussi que la technologie est
 un outil aidant à la construction de ce savoir. C'est à lui que l'on doit
 les pas les plus importants pour amener les enfants à contrôler ces
 nouvelles technologies. Par ses recherches et leurs conclusions, il propose
@@ -39,9 +39,9 @@ que les enfants s'approprient leurs XO pendant leur apprentissage.
 
 Notre stratégie d'apprentissage se focalise sur la construction :
 
-- en développant l'aisance digitale ; celle-ci se réfère aux outils de
+- en développant l'aisance digitale ; celle-ci se réfère aux outils de
   programmation informatique et à l'habileté d'élaborer des objets censés
-  grâce aux outils technologiques. « Une personne technologiquement à
+  grâce aux outils technologiques. « Une personne technologiquement à
   l'aise devrait aller du germe d'une intuition à la mise en oeuvre d'un
   projet technologique (Papert & Resnick, 1995) ».
 

@@ -9,8 +9,8 @@ La phase de déploiement comprend tous les événements qui se produisent
 entre la commande de l'ordinateur portable au fabriquant et la distribution
 finale des XO aux écoles et aux enfants. Le délai d'exécution dégage du
 temps qui peut être alloué au recrutement des membres de l'équipe locale et
-à l'organisation d’une formation technique et pédagogique avec OLPC pour
-l’équipes principale. En outre, ce temps peut être utilisé pour satisfaire
+à l'organisation d'une formation technique et pédagogique avec OLPC pour
+l'équipes principale. En outre, ce temps peut être utilisé pour satisfaire
 les besoins en infrastructures sur la base des résultats de l'étude de
 faisabilité. 
 
@@ -48,14 +48,14 @@ des frais ou taxes qui peuvent être appliqués en cas de retard dans le
 dédouanement ou le déchargement à destination. 
 
 Une fois les ordinateurs portables arrivés dans un pays, dédouanés et
-arrivés à l’entrepôt de stockage, trois tâches principales doivent être
-effectuées : 
+arrivés à l'entrepôt de stockage, trois tâches principales doivent être
+effectuées : 
 
 1. Les ordinateurs portables doivent être inspectés individuellement au
    niveau de dommages subis pendant le transport, et les réclamations
    d'assurance éventuelles doivent être préparées. 
 
-2. Les ordinateurs portables peuvent avoir besoin d’être configurés avec la
+2. Les ordinateurs portables peuvent avoir besoin d'être configurés avec la
    dernière version du système d'exploitation et tout le contenu local,
    s'il ya eu des modifications apportées au logiciel depuis le moment où
    les unités ont été expédiées. Cette procédure sert aussi de confirmation
@@ -80,25 +80,25 @@ d'assurance éventuellement requise.
 
 Le département des opérations peut fournir des informations sur les
 dimensions d'emballage ou sur tout autre sujet de préoccupations sur
-l’emballage. 
+l'emballage. 
 
-L’entreposage local permet de stocker les ordinateurs portables en vue de
-leur configuration tandis que l’infrastructure logistique est préparée pour
+L'entreposage local permet de stocker les ordinateurs portables en vue de
+leur configuration tandis que l'infrastructure logistique est préparée pour
 acheminer les ordinateurs portables. Un positionnement stratégique
-d’entrepôts régionaux peut permettre de réduire le coût de la logistique et
-d’améliorer l'efficacité de la réparation et du remplacement des
+d'entrepôts régionaux peut permettre de réduire le coût de la logistique et
+d'améliorer l'efficacité de la réparation et du remplacement des
 ordinateurs portables. 
 
 ** Plan de distribution des ordinateurs portables
 
 #+index: Distribution
 
-Dans l'expérience OLPC, la plupart des sponsors ne peuvent distribuer qu’un
+Dans l'expérience OLPC, la plupart des sponsors ne peuvent distribuer qu'un
 maximum de 60 000 machines par mois. Les machines sont généralement
 distribuées par des sociétés tierces, les militaires, ou les organismes de
 coopération multilatérale, comme la FAO ou le PAM. Ces organisations ont
 une vaste expérience dans la sécurisation de la logistique. Dans de
-nombreux pays, un millier d’ordinateurs portables est une cible de grande
+nombreux pays, un millier d'ordinateurs portables est une cible de grande
 valeur pour le vol, et la sécurité devrait être une préoccupation
 primordiale dans le choix d'une entreprise de logistique. Tous les
 événements de célébration devraient être planifiés pour correspondre à
@@ -107,8 +107,8 @@ disponibilité de l'Internet).
 
 L'expérience OLPC montre que le meilleur plan de distribution commence avec
 les zones les plus faciles, sauf s'il existe des considérations
-politiques. Débuter par les zones les pus simples permet d’identifier et de
-mettre en œuvre tous les changements de dernière minute. Le personnel
+politiques. Débuter par les zones les pus simples permet d'identifier et de
+mettre en oeuvre tous les changements de dernière minute. Le personnel
 apprend également plus rapidement quand il peut se concentrer sur les
 installations plus simples et n'a pas à installer des équipements solaires
 ou des relais satellites. 
@@ -135,13 +135,13 @@ devrait baser les commandes de pièces détachées sur les données réelles.
 ** Etude de référence 
 
 Avant de commencer un déploiement, il est conseillé d'avoir des données qui
-décrivent le scénario de mise en œuvre du projet. Le chef de projet et
+décrivent le scénario de mise en oeuvre du projet. Le chef de projet et
 l'équipe principale peuvent travailler en collaboration avec des experts en
 évaluation ou des institutions académiques/de recherche pour concevoir un
 cadre d'évaluation capable de mesurer l'impact du projet en relation avec
-les objectifs attendus. Le cadre d’évaluation doit être aligné avec les
+les objectifs attendus. Le cadre d'évaluation doit être aligné avec les
 mesures d'apprentissage des élèves, ainsi une analyse minutieuse des
-indicateurs et des outils mérite d’être menée. 
+indicateurs et des outils mérite d'être menée. 
 
 L'information de base peut servir de point de départ utile pour mieux
 comprendre la communauté impliquée dans le projet, et peut même conduire à
@@ -149,12 +149,12 @@ la formulation des objectifs que les intervenants souhaitent
 atteindre. Elle rend également possible la mesure l'impact d'un projet, car
 elle permet aux chercheurs d'analyser et de comparer statistiquement les
 données de base avec les données recueillies durant les années de mise en
-œuvre d'un projet. 
+oeuvre d'un projet. 
 
 Les objectifs et résultats attendus du programme devraient être les
 critères de sélection du type de données de base à collecter. Des données
 administratives peuvent mesurer les changements dans la fréquentation
-scolaire, les taux de scolarisation et le taux d’abandon. Les mesures de
+scolaire, les taux de scolarisation et le taux d'abandon. Les mesures de
 l'impact social et comportementales peuvent inclure des enquêtes ou
 questionnaires relatifs aux attitudes, motivations et opinions des parents,
 élèves et membres de la communauté sur le projet lui-même ou sur
@@ -176,33 +176,33 @@ vivent (Kamo, N. et al, 2008). Les déploiements sont encouragés à explorer
 des façons novatrices de mesurer l'apprentissage des élèves, et à tenter de
 documenter et de mesurer de nouvelles dimensions d'apprentissage. 
 
-* Mise en place de l’équipe principale
+* Mise en place de l'équipe principale
 
 #+index: Equipe principale
 
 Comme nous l'avons expliqué dans les sections précédentes, l'équipe
-principale se réfère à l'équipe locale en charge de la mise en œuvre des
+principale se réfère à l'équipe locale en charge de la mise en oeuvre des
 différentes composantes d'un déploiement. Dans cette section, nous allons
 nous concentrer sur les équipes techniques et pédagogiques. Leur travail
-est crucial pour une mise en œuvre réussie d'un déploiement; les membres
+est crucial pour une mise en oeuvre réussie d'un déploiement; les membres
 doivent être soigneusement recrutés et soutenus financièrement et de
 manière proactive pour la durée du programme. À ce point de la phase de
-déploiement, il est crucial d'avoir établi l’équipe principale. 
+déploiement, il est crucial d'avoir établi l'équipe principale. 
 
 La taille de ces équipes dépendra du nombre d'unités déployées. Bien que
 les apprentissages des équipes techniques et pédagogiques doivent se
 concentrer sur des composantes différentes, la situation idéale est un réel
-travail en équipe où l’on se communique les plans, les défis et les mises à
+travail en équipe où l'on se communique les plans, les défis et les mises à
 jour sur une base très régulière. Il est de la responsabilité du chef de
 projet de faciliter la mise en place de ce type de relations au sein de
-l’équipe. Il est essentiel de fournir une orientation constante à l'équipe
+l'équipe. Il est essentiel de fournir une orientation constante à l'équipe
 principale avec quelqu'un ayant la compétence appropriée. Avoir un leader
 pour chaque équipe est réellement souhaitable. Ces leaders ou managers
 doivent maintenir une communication constante avec les équipes techniques
-et pédagogiques d’OLPC. 
+et pédagogiques d'OLPC. 
 
-OLPC facilitera l’organisation d’un atelier stratégique avec l'équipe
-principale pour : 
+OLPC facilitera l'organisation d'un atelier stratégique avec l'équipe
+principale pour : 
 
 1. Renforcer les capacités dans la gestion de l'XO, ses activités et ses
    utilisations comme outil d'apprentissage. 
@@ -212,7 +212,7 @@ principale pour :
    communautaire. 
 
 3. Déterminer la structure de soutien (pour les aspects techniques et
-   pédagogiques) qui fonctionnera de l'équipe principale jusqu’à l'école ou
+   pédagogiques) qui fonctionnera de l'équipe principale jusqu'à l'école ou
    au centre d'apprentissage. 
 
 4. Déterminer et appuyer les stratégies de formation initiale et continue,
@@ -228,9 +228,9 @@ distribution), l'équipe principale (background et taille), l'emplacement du
 projet, les objectifs du projet et de l'état des infrastructures. La durée
 dépendra aussi des accords conclus pendant la phase de planification entre
 OLPC, le chef de projet et des besoins spécifiques du projet. Le contenu et
-les activités de ce premier atelier va également s’adapter aux besoins et à
+les activités de ce premier atelier va également s'adapter aux besoins et à
 l'expérience des participants. Toutefois, l'approche/méthodologie et
-certains contenus sont communs à tous les ateliers pour qu'ils s’articulent
+certains contenus sont communs à tous les ateliers pour qu'ils s'articulent
 autour des mêmes principes que nous défendons: apprendre en faisant, en
 construisant, en collaborant et en réfléchissant. 
 
@@ -252,7 +252,7 @@ Les objectifs de l'atelier d'apprentissage OLPC peuvent inclure:
 
 - Fournir une expérience pratique de la plateforme d'apprentissage Sugar. 
 
-- Permettre à l'équipe principale d’utiliser le XO dans des stratégies
+- Permettre à l'équipe principale d'utiliser le XO dans des stratégies
   efficaces d'apprentissage grâce à la construction, l'expression, et la
   collaboration. 
 
@@ -270,14 +270,14 @@ Les objectifs de l'atelier technique de l'OLPC peuvent être:
 - Résolutions des problèmes logiciels ou matériels 
 - Créer et utiliser un port USB Re-Flash Stick 
 - Connexion et inscription au serveur de l'école 
-- Configuration d’un point d’accès. 
+- Configuration d'un point d'accès. 
 - Installation et configuration du serveur de l'école 
 - Définir une stratégie de support technique 
-- Définir une stratégie d’entretien et de réparation à large échelle en
+- Définir une stratégie d'entretien et de réparation à large échelle en
   milieu scolaire 
 
 L'ordre du jour qui suit est un échantillon des sujets habituellement
-couverts lors d'un atelier d’une semaine avec l'équipe principale: 
+couverts lors d'un atelier d'une semaine avec l'équipe principale: 
 
 OLPC propose un suivi des ateliers qui peut être effectué plusieurs mois
 après le déploiement soit en marche ou une fois que l'équipe principale a
@@ -290,7 +290,7 @@ d'intérêt particulier pour l'équipe principale et qui visent à développer
 des compétences complémentaires et spécialisées. Enfin, OLPC propose des
 ateliers régionaux pour répondre aux besoins communs à une région
 spécifique. Pour cela, OLPC choisit un lieu stratégique qui permettra aux
-participants de multiples déploiements d’y assister. 
+participants de multiples déploiements d'y assister. 
 
 Les éléments suivants sont des exemples d'ateliers avancés pour l'équipe
 principale:
@@ -334,7 +334,7 @@ expérience. La formation des enseignants et de sensibilisation de la
 communauté peuvent se produire simultanément, mais peut également se
 produire à différents moments. Des variables liées à la localisation, la
 taille et la préparation de chaque école ou communauté doivent être
-considérés au moment de décider l'ordre dans lequel mettre en œuvre chaque
+considérés au moment de décider l'ordre dans lequel mettre en oeuvre chaque
 événement. 
 
 ** Formation des enseignants
@@ -354,9 +354,9 @@ L'aspect le plus important de la préparation des enseignants est en ce qui
 concerne la manière dont les enfants apprennent. Les éducateurs ont reconnu
 depuis longtemps que les enfants apprennent mieux quand ils sont actifs ou
 quand ils poursuivent leurs propres intérêts, et quand ils évoluent dans
-une culture de la connaissance et de l’engagement. 
+une culture de la connaissance et de l'engagement. 
 
-Avec l’accès en mode 1-to-1 à des ordinateurs portables connectés, les
+Avec l'accès en mode 1-to-1 à des ordinateurs portables connectés, les
 enfants s'engagent activement dans la construction des connaissances et ne
 sont pas limités à la réception passive de l'information. Chaque enfant (et
 les enseignants eux-mêmes) peuvent poursuivre leur apprentissage dans des
@@ -383,7 +383,7 @@ la capacité de l'enseignant:
 
 2. Les mécanismes de soutien: Bien que le contenu de l'initiative constitue
    un mécanisme de soutien important à la pratique de l'enseignement,
-   d'autres mécanismes doivent être mis en œuvre, y compris l’assistance en
+   d'autres mécanismes doivent être mis en oeuvre, y compris l'assistance en
    classe, ce qui peut se faire grâce à des accords avec des universités,
    des lignes téléphoniques d'aide qui peuvent être mis en place avec des
    techniciens développeurs dans le pays, et blogs ou des forums en ligne
@@ -412,7 +412,7 @@ l'équipe principale peut rapidement identifier les participants qui font
 preuve de leadership et qui peuvent être des contacts clés pour soutenir le
 projet au niveau de l'école. Selon l'ampleur du projet, l'équipe principale
 peut décider de former les enseignants directement ou par le biais
-d’enseignants-formateurs qui seront ensuite amenés reproduire les
+d'enseignants-formateurs qui seront ensuite amenés reproduire les
 formations pour d'autres enseignants. Certains projets décident d'effectuer
 des formations à grande échelle dans une démarche visant à cibler plusieurs
 écoles. 
@@ -421,7 +421,7 @@ Les écoles peuvent choisir les membres clés de leur personnel à participer
 à cette formation, avec l'idée que ces stagiaires deviennent des leaders et
 démultiplient la formation dans leur propre école. Une autre approche
 consiste à attribuer à chaque membre de l'équipe principale une école
-spécifique dans lequel s’effectue la formation du personnel sur place. Peu
+spécifique dans lequel s'effectue la formation du personnel sur place. Peu
 importe l'approche qui est choisie, l'équipe principale a besoin de
 surveiller constamment les progrès de chaque école et de chaque
 enseignant. 
@@ -489,7 +489,7 @@ communautaires et devrait inclure, sans s'y limiter, les sujets suivants:
   groupes d'action différents. 
 
 - Établissement de normes pour le partage des ordinateurs portables parmi
-  les frères et sœurs et aux enfants plus âgés. 
+  les frères et soeurs et aux enfants plus âgés. 
 
 - Sécurité des ordinateurs portables. Comment et pourquoi prendre soin des
   machines ? 

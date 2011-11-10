@@ -15,8 +15,8 @@ Le postdéploiement doit se concentrer sur les trois secteurs-clés suivants :
 #+index: Formation!Teachers
 #+index: Support!Survol
 
-1. formation et support continus aux enseignants ;
-2. environnement parascolaire ;
+1. formation et support continus aux enseignants ;
+2. environnement parascolaire ;
 3. maintenance et réparations.
 
 [[file:~/install/git/OLPC-Deployment--community--guide/images/16_post_deploy.jpg]]
@@ -35,7 +35,7 @@ Chaque projet devrait avoir en parallèle un programme de relations
 publiques afin de structurer le support communautaire, développer la
 confiance dans le projet et dans ses résultats et comme moyen d'attirer de
 nouveaux financements. Bien des projets disposent de programmes
-internationaux de relations publiques ; ceux-ci apportent un intérêt
+internationaux de relations publiques ; ceux-ci apportent un intérêt
 académique au projet local, ce qui entraîne la venue ponctuelle
 d'institutions multilatérales intéressées dans les projets sociaux et
 éducatifs. À travers son programme de relations publiques, le projet
@@ -100,7 +100,7 @@ leurs XO sont essentiels pour une expérience pédagogique significative.
 Quand les enfants sont occupés à utiliser leur XO pour des activités qui
 les intéressent et qui sortent des contenus des cours, il leur est possible
 d'explorer en toute liberté leurs intérêts tout en développant de nouvelles
-compétences technologiques ; ceci leur permet d'utiliser leurs propres
+compétences technologiques ; ceci leur permet d'utiliser leurs propres
 liberté d'expression et créativité et, en conséquence, de développer une
 aisance technologique tout en augmentant leur motivation et leur sens des
 responsabilités, ce qui amène un impact extraordinaire sur leur vie. 
@@ -115,12 +115,12 @@ collaborent et partagent projets et idées.
 
 Intégrer la famille à travers les activités offertes par le XO amène les
 parents à travailler avec leurs enfants sur des projets directement liés à
-leurs centres d'intérêts : c'est enrichissant pour tous ! L'objectif n'est
+leurs centres d'intérêts : c'est enrichissant pour tous ! L'objectif n'est
 pas seulement de permettre aux parents de partager connaissances et
 expériences avec leurs enfants, mais aussi de comprendre la valeur de
 l'apprentissage avec le XO ainsi que son utilité dans le processus
-d'apprentissage : ce qui est important pour la viabilité et la durabilité
-du projet ! 
+d'apprentissage : ce qui est important pour la viabilité et la durabilité
+du projet ! 
 
 * Maintenance et réparations
 
@@ -128,14 +128,14 @@ du projet !
 #+index: Réparation
 
 La réparation des XO peut être traitée de multiples façons. Les trois
-méthodes les plus répandues sont les suivantes : 
+méthodes les plus répandues sont les suivantes : 
 
 1. les étudiants réparent eux-mêmes leur XO : des pièces de rechange
    peuvent être envoyées aux écoles sur une base bimensuelle et sur
-   commande ;
+   commande ;
 
 2. les XO sont réparés par l'atelier local de réparation : cette approche
-   offre un apport de travail à la communauté concernée ;
+   offre un apport de travail à la communauté concernée ;
 
 3. les XO sont réparés par des techniciens se rendant dans les écoles sur
    une base bimensuelle pour y effectuer les réparations nécessaires. 
@@ -143,30 +143,30 @@ méthodes les plus répandues sont les suivantes :
 Le choix de la méthode de réparation dépend des objectifs éducatifs,
 politiques et économiques du sponsor de projet. En ce qui concerne les
 réparations, une autre question demeure : qui prend en charge le paiement
-des pièces et de la main d'œvre ? Certains projets prennent en charge la
+des pièces et de la main d'oeuvre ? Certains projets prennent en charge la
 première réparation, les suivantes étant à la charge des parents des
 enfants concernés ; d'autres projets prennent en charge toutes les
 réparations parce que les parents n'ont tout simplement pas les moyens des
 les assumer, même lorsque il s'agit de petites sommes. La réglementation
 sur les réparations et leur prise en charge doit être expliquée lors de la
 présentation initiale du projet à la communauté (destinée aux directeurs
-d'école et aux parents). 
+d'école et aux parents).
 
-Le nombre de XO envoyés est majauré de 1 % par rapport à la commande
+Le nombre de XO envoyés est majauré de 1 % par rapport à la commande
 initiale. Ces XO supplémentaires sont à disposition pour remplacer
 d'éventieuls XO défectueux. Il est important de savoir que les XO
 défectueux contiennent des pièces qui peuvent être réutilisées sur d'autres
 ordinateurs (comme l'écran, l'antenne WiFi, la carte-mère.) 
 
 Les réparations, pour la plupart et y compris le remplacement de la
-carte-mère, peuvent être faites sur place à l'aide d'un simple tournevis !
-Les enfants peuvent même les effectuer eux-mêmes : c'est un geste et une
-responsabilité que nous encourageons ; tout comme l'est la redistibution
+carte-mère, peuvent être faites sur place à l'aide d'un simple tournevis !
+Les enfants peuvent même les effectuer eux-mêmes : c'est un geste et une
+responsabilité que nous encourageons ; tout comme l'est la redistibution
 locale des pièces de rechange ou encore la création de centres de
 réparation locaux. 
 
 Si un support d'ordre commercial venait à être arrangé, OLPC ne
-l'encouragerait pas pour les raisons suivantes : d'une part, l'augmentation
+l'encouragerait pas pour les raisons suivantes : d'une part, l'augmentation
 des coûts, et d'autre part, une dépendance extérieure qui est à éviter. 
 
 Si le projet ressent le besoin d'investir dans un support technique, nous

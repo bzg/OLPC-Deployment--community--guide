@@ -16,6 +16,8 @@ financiers. Les éléments inclus dans la phase de phase planification sont :
 l'étude de différentes approches de financement, l'étude de faisabilité
 ainsi qu'un contrat d'achat suivie par une commande d'ordinateurs. 
 
+[[file:~/install/git/OLPC-Deployment--community--guide/images/7_planning_phases.jpg]]
+
 * Approches financières 
 
 En considérant un déploiement avec OLPC, les équipes chargées du projet

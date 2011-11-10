@@ -39,8 +39,8 @@ apprendre de manière indépendante, collaborative et ludique.
                 programme.
 
 - Connectivité :: Les XO ne se connectent pas seulement à Internet; ils se
-                  connectent également entre eux, créant ainsi une « école
-                  élargie » qui continue au-delà des murs de la classe et
+                  connectent également entre eux, créant ainsi une « école
+                  élargie » qui continue au-delà des murs de la classe et
                   favorise ainsi le dialogue entre les générations, les
                   pays et les cultures.
 

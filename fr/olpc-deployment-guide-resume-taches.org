@@ -1,0 +1,41 @@
+#+TITLE: Résumé des tâches recommandées
+#+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
+#+DATE: 2011-09-12
+#+OPTIONS: toc:nil
+
+
+
+[[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
+
+* Phase de planification
+
+- Définir un budget pour : l'achat, l'infrastructure, la connectivité, le
+  personnel.
+- Embaucher un responsable de projet et des responsables pour l'équipe
+  principale.
+- Choisir les communautés ciblées (écoles, centres).
+- Définir les spécifications du XO.
+
+* Phase de déploiement
+
+- Embaucher du personnel pour l'équipe principale.
+- Mettre en place une formation pour l'équipe principale avec OLPC.
+- Développer le plan de distribution des ordinateurs.
+- Définir et rassembler des données pour une étude préliminaire.
+- Préparer l'infrastructure et la connectivité (au niveau des écoles et des
+  communautés).
+- Organiser et faire des formations pour les enseignants.
+- Distribuer les ordinateurs.
+
+* Phase postdéploiement
+
+- Définir et mettre en oeuvre une stratégie de support technique pour la
+  maintenance et la réparation des ordinateurs.
+- Définir et superviser des environnements d'apprentissage pour le XO :
+  formels (à l'école, dans la classe), non-formels (activités
+  extra-scolaires) et informels (maison, famille.)
+- Faire le suivi des formations pour les enseignants.
+- Définir et mettre en oeuvre des études d'évaluation (pour l'apprentissage
+  des élèves et l'implémentation du projet.)
+
+[[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]

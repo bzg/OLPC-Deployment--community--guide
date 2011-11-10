@@ -9,7 +9,7 @@ Un projet OLPC a un impact évident sur les enfants et leur éducation mais
 également sur le système scolaire (en particulier les enseignants), les
 familles des enfants ainsi que sur la communauté dans son ensemble : il est
 donc important d'en tenir compte lors de la définition des objectifs et
-stratégies à mettre en œuvre. Pour que le projet soit viable, ces
+stratégies à mettre en oeuvre. Pour que le projet soit viable, ces
 stratégies doivent inclure différents volets ; ceux-ci, ainsi que leur
 structuration, sont indiqués dans la pyramide ci-dessous. 
 
@@ -33,7 +33,7 @@ sur les autres parties.
 
 #+index: Equipe principale!Survol
 
-Pour une mise en œuvre réussie, nous recommandons vivement de mettre en
+Pour une mise en oeuvre réussie, nous recommandons vivement de mettre en
 place une équipe locale qui aura des compétences en gestion, en logistique,
 en technique et en éducation ; cette équipe se nommera « équipe principale
 » et sera l'interface entre le projet et OLPC. 
@@ -45,6 +45,8 @@ toutes les opérations ainsi que de superviser les différents secteurs
 impliqués ; il doit également posséder une formation dans le domaine
 technique ou éducatif. Ce sera à lui de sélectionner les membres de son
 équipe selon l'organigramme suivante : 
+
+[[file:~/install/git/OLPC-Deployment--community--guide/images/3_core_team.jpg]]
 
 Pour de grands déploiements (>50.000 unités), la totalité de l'organigramme
 est indispensable ; le chef de projet devra engager des responsables

@@ -64,7 +64,7 @@ travers les différentes phases de formation aux enseignants par OLPC.
 #+index: Dévelopement!Technique
 
 Nous nous concentrons aussi sur la création et la stimulation des capacités
-locales comme la mise en œuvre d'une infrastructure, la connectivité et
+locales comme la mise en oeuvre d'une infrastructure, la connectivité et
 tout autre impératif concernant les logiciels, le matériel, la maintenance
 et la réparation des XO.
 

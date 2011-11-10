@@ -44,10 +44,10 @@ en bloc d'alimentation. L'adaptateur AC pour le XO dispose d'une entrée
 #+index: XO!Mémoire
 
 Le XO utilise de la mémoire SSD (mémoires à semi-conducteurs, de l'anglais
-« solid state memory ») en lieu et place d'un disque dur. Ceci est
+« solid state memory ») en lieu et place d'un disque dur. Ceci est
 principalement fait pour augmenter sa solidité mais aussi pour améliorer
 ses performances et réduire sa consommation d'énergie. Le type de mémoire
-par défaut est d'1 Gio de RAM et de 4 Gio de mémoire flash. En fonction du
+par défaut est d'1 Gio de RAM et de 4 Gio de mémoire flash. En fonction du
 budget et des conditions d'utilisation, il est possible de sélectionner un
 SSD plus rapide ou plus important afin que le XO puisse améliorer ses
 performances et sa capacité de stockage. 
@@ -126,13 +126,13 @@ actions suivantes :
 
 L'option XO d'image personnalisée demande un certain niveau de compétences
 et d'investissement de la part desde construction mais la responsabilité de
-tester les « paquets » demeure aux mains des équipes locales. 
+tester les « paquets » demeure aux mains des équipes locales. 
 
 * Contrat d'achat
 
 OLPC s'engage à reconnaître un soutien d'un sponsor à un projet une fois
 qu'elle a reçu un contrat signé ainsi qu'une lettre de crédit en faveur
-d'OLPC à raison de 100 % de la valeur des ordinateurs portables. OLPC
+d'OLPC à raison de 100 % de la valeur des ordinateurs portables. OLPC
 accepte également des transfets de paiement par telex en lieu et place de
 lettres de crédit. 
 
@@ -197,7 +197,7 @@ garantie sont dans le contrat d'OLPC.
 
 Les frais de douanes et les taxes associés au transport de XO varient
 suivant les règles de l'autorité des douanes locales. Les frais de douanes
-sont parfois très élevés, pouvant parfois atteindre 20 % de la valeur
+sont parfois très élevés, pouvant parfois atteindre 20 % de la valeur
 commercial. Afin d'éviter de tels taxes, OLPC recommande que l'équipe
 locale fasse des recherches pour obtenir une exonération fiscale lorsque
 possible. 
