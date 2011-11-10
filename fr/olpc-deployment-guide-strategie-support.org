@@ -3,11 +3,12 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
-[[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
+- Section suivante : [[file:olpc-deployment-guide-phase-planification.org][Phase de planification]]
+- Section précédente : [[file:olpc-deployment-guide-realisation-projet.org][Mise en oeuvre du projet]]
+- [[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
 
 #+index: Assistance
 #+index: Support!Strategie
-
 
 OLPC apporte un soutien durant les étapes du déploiement, tout
 particulièrement dans les domaines opérationnel, éducatif et technique (qui
@@ -78,4 +79,6 @@ Durant les mois de juin, juillet et août, nous proposons des stages aux
 permettre de travailler main dans la main avec l'équipe principale selon
 leur formation et leur domaine d'étude.
 
-[[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
+- Section suivante : [[file:olpc-deployment-guide-phase-planification.org][Phase de planification]]
+- Section précédente : [[file:olpc-deployment-guide-realisation-projet.org][Mise en oeuvre du projet]]
+- [[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]

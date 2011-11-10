@@ -3,9 +3,9 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
-
-
-[[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
+- Section suivante : [[file:olpc-deployment-guide-liens-utiles.org][Liens utiles]]
+- Section précédente : [[file:olpc-deployment-guide-phase-post-deploiement.org][Phase de post-déploiement]]
+- [[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
 
 * Phase de planification
 
@@ -38,4 +38,6 @@
 - Définir et mettre en oeuvre des études d'évaluation (pour l'apprentissage
   des élèves et l'implémentation du projet.)
 
-[[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
+- Section suivante : [[file:olpc-deployment-guide-liens-utiles.org][Liens utiles]]
+- Section précédente : [[file:olpc-deployment-guide-phase-post-deploiement.org][Phase de post-déploiement]]
+- [[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]

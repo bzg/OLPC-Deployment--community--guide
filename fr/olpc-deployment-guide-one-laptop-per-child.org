@@ -3,7 +3,8 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
-[[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
+- Section suivante : [[file:olpc-deployment-guide-strategie-apprentissage.org][Stratégie d'apprentissage]]
+- [[file:index.org][Table des matières]] - [[file:theindex.org][Index]]
 
 One Laptop per Child (OLPC) est une organisation à but non lucratif fondée
 en 2005 dans l'idée de transformer l'éducation en donnant à chaque enfant
@@ -51,4 +52,5 @@ apprendre de manière indépendante, collaborative et ludique.
      transférer leurs connaissances et à les partager avec toute la
      communauté.
 
-[[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
+- Section suivante : [[file:olpc-deployment-guide-strategie-apprentissage.org][Stratégie d'apprentissage]]
+- [[file:index.org][Table des matières]] - [[file:theindex.org][Index]]
