@@ -3,8 +3,8 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
-- Section précédente : [[file:olpc-deployment-guide-one-laptop-per-child.org][One Laptop Per Child]]
 - Section suivante : [[file:olpc-deployment-guide-introduction-au-guide-de-deploiement.org][Introduction au guide de déploiement]]
+- Section précédente : [[file:olpc-deployment-guide-one-laptop-per-child.org][One Laptop Per Child]]
 - [[file:index.org][Table des matières]] -- [[file:theindex.org][Index]]
 
 « Il s'agit d'un projet éducatif et non d'un projet informatique. » 
