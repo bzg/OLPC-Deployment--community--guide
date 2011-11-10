@@ -6,7 +6,7 @@
     line-height: 21px;
     color: #333;
 
-    max-width: 80%;
+    max-width: 75%;
     margin: auto;
     background-image: url(http://www.granthinkson.com/wp-content/uploads/2007/11/olpc_logo.jpg);
     background-position: 25px 5px;
@@ -20,7 +20,7 @@
       line-height: 22pt;
     }
 
-  p {text-align: justify;}
+  p {text-align: justify; text-indent: 15pt;}
 
   /* TOC inspired by http://jashkenas.github.com/coffee-script */
   #table-of-contents {
@@ -89,8 +89,9 @@
     font-family:Arial,sans-serif;
     font-size:1.45em;
     line-height:16px;
-    padding:7px 0 0 0;
-    color: #6cbd45;
+    padding:7px 0 8px 0;
+    color: #0994d5;
+    border-bottom: 5px solid #eee;
   }
 
   .outline-text-2 {
@@ -334,6 +335,8 @@
     background-color: #eeeeee;
   }
 
+  li {text-align: justify;}
+  dd {text-align: justify;}
 
 } /* END OF @media all */
 
