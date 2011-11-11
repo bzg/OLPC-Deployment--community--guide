@@ -283,8 +283,8 @@ livraison complet et efficace des XO.
 #+HTML: <div class="menu">
 
 - [[file:olpc-deployment-guide-phase-de-deploiement.org][Phase de déploiement]]
-- [[file:olpc-deployment-etude-faisabilite.org][Étude de faisabilité]]
 - [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-etude-faisabilite.org][Étude de faisabilité]]
 
 #+HTML: </div>
 
