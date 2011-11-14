@@ -1,4 +1,4 @@
-﻿#+TITLE: Mise en oeuvre du projet
+#+TITLE: Mise en oeuvre du projet
 #+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
@@ -26,7 +26,7 @@ la pyramide est particulièrement ardu et amène peu de résultats
 positifs. Le tiers supérieur de la pyramide propose pour sa part deux types
 d'évaluations : 
 
-[[file:~/install/git/OLPC-Deployment--community--guide/images/2_project_implementation.jpg]]
+[[file:~/install/git/OLPC-Deployment--community--guide/images/2_project_implementation_fr.jpg]]
 
 Le premier type permet de mesurer l'impact du projet, sur l'apprentissage
 des élèves par exemple, ses effets au niveau social et au niveau des
@@ -52,7 +52,7 @@ impliqués ; il doit également posséder une formation dans le domaine
 technique ou éducatif. Ce sera à lui de sélectionner les membres de son
 équipe selon l'organigramme suivante : 
 
-[[file:~/install/git/OLPC-Deployment--community--guide/images/3_core_team.jpg]]
+[[file:~/install/git/OLPC-Deployment--community--guide/images/3_core_team_fr.jpg]]
 
 Pour de grands déploiements (>50.000 unités), la totalité de l'organigramme
 est indispensable ; le chef de projet devra engager des responsables

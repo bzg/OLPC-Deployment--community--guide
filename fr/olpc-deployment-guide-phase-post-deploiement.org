@@ -1,4 +1,4 @@
-﻿#+TITLE: Phase de post-déploiement
+#+TITLE: Phase de post-déploiement
 #+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
@@ -25,7 +25,7 @@ Le postdéploiement doit se concentrer sur les trois secteurs-clés suivants :
 2. environnement parascolaire ;
 3. maintenance et réparations.
 
-[[file:~/install/git/OLPC-Deployment--community--guide/images/16_post_deploy.jpg]]
+[[file:~/install/git/OLPC-Deployment--community--guide/images/16_post_deploy_fr.jpg]]
 
 L'implication de la communauté dans le projet est aussi un facteur-clé de
 sa réussite. À cet effet, de nombreux projets créent des portails Internet

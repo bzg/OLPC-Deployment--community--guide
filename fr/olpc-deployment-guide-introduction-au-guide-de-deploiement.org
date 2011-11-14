@@ -1,4 +1,4 @@
-﻿#+TITLE: Introduction au Guide de Déploiement
+#+TITLE: Introduction au Guide de Déploiement
 #+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
@@ -31,7 +31,7 @@ de projet depuis leur feuille de route jusqu'à la réussite du déploiement
 par la description des points essentiels, des prises de décision et par la
 chronologie des actions.
 
-[[file:~/install/git/OLPC-Deployment--community--guide/images/1_deploy_phases_overview.jpg]]
+[[file:~/install/git/OLPC-Deployment--community--guide/images/1_deploy_phases_overview_fr.jpg]]
 
 #+HTML: <div class="menu">
 

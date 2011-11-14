@@ -57,7 +57,7 @@ fait qu'ils chargent ou non leurs batteries tout en travaillant, et du
 nombre d'heures pendant lesquelles la connectivité est assurée
 quotidiennement.)
 
-[[file:~/install/git/OLPC-Deployment--community--guide/images/9_feasibility_study.jpg]]
+[[file:~/install/git/OLPC-Deployment--community--guide/images/9_feasibility_study_fr.jpg]]
  
 L'énergie totale requise afin de faire fonctioner 100 ordinateurs portables
 et un serveur d'école sur une période de huit heures représente près de 570

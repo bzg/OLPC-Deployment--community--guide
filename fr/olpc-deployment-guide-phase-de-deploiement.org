@@ -1,4 +1,4 @@
-﻿#+TITLE: Phase de déploiement
+#+TITLE: Phase de déploiement
 #+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
@@ -39,7 +39,7 @@ niveau des écoles, la préparation des écoles et des communautés et le
 déploiement des ordinateurs portables. 
 
 #+ATTR_HTML: align="center"
-[[file:~/install/git/OLPC-Deployment--community--guide/images/11_deploy_phases.jpg]]
+[[file:~/install/git/OLPC-Deployment--community--guide/images/11_deploy_phases_fr.jpg]]
 
 * Mise en place de la logistique
 
