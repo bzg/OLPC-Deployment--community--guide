@@ -138,7 +138,7 @@ employés.
 #+HTML: <div class="menu">
 
 - [[file:olpc-deployment-etude-faisabilite.org][Étude de faisabilité]]
-- [[file:olpc-deployment-guide-strategie-support.org][Stratégie de support]]
 - [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-guide-strategie-support.org][Stratégie de support]]
 
 #+HTML: </div>

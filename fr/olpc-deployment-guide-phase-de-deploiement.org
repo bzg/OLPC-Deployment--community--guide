@@ -633,7 +633,7 @@ lors de la préparation sur place.
 #+HTML: <div class="menu">
 
 - [[file:olpc-deployment-guide-phase-post-deploiement.org][Phase de post-déploiement]]
-- [[file:olpc-deployment-guide-achat-commande.org][Contrats d'achat et processus de commande]]
 - [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-guide-achat-commande.org][Contrats d'achat et processus de commande]]
 
 #+HTML: </div>

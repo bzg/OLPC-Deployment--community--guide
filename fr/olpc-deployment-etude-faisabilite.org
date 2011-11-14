@@ -80,5 +80,5 @@ puissance moyenne pour faire marcher l'ordinateur portable et charger
 lentement la batterie (en près de six heures).
 
 - [[file:olpc-deployment-guide-achat-commande.org][Contrats d'achat et processus de commande]]
-- [[file:olpc-deployment-guide-phase-planification.org][Phase de planification]]
 - [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-guide-phase-planification.org][Phase de planification]]

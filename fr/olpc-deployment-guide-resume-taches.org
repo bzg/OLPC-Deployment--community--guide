@@ -45,7 +45,7 @@
 #+HTML: <div class="menu">
 
 - [[file:olpc-deployment-guide-liens-utiles.org][Liens utiles]]
-- [[file:olpc-deployment-guide-phase-post-deploiement.org][Phase de post-déploiement]]
 - [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-guide-phase-post-deploiement.org][Phase de post-déploiement]]
 
 #+HTML: </div>

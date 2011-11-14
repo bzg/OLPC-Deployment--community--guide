@@ -36,7 +36,7 @@ chronologie des actions.
 #+HTML: <div class="menu">
 
 - [[file:olpc-deployment-guide-realisation-projet.org][Mise en oeuvre du projet]]
-- [[file:olpc-deployment-guide-strategie-apprentissage.org][Stratégie d'apprentissage]]
 - [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-guide-strategie-apprentissage.org][Stratégie d'apprentissage]]
 
 #+HTML: </div>

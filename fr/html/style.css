@@ -12,6 +12,9 @@
 	background-position: 25px 5px;
 	background-repeat: no-repeat;
     }
+
+    body img {max-width: 85%;}
+
     body #content {
 	padding-top: 70px;
     }

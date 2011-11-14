@@ -78,7 +78,7 @@ et les compétences des membres de l'équipe principale :
 #+HTML: <div class="menu">
 
 - [[file:olpc-deployment-guide-strategie-support.org][Stratégie de support]]
-- [[file:olpc-deployment-guide-introduction-au-guide-de-deploiement.org][Introduction au guide de déploiement]]
 - [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-guide-introduction-au-guide-de-deploiement.org][Introduction au guide de déploiement]]
 
 #+HTML: </div>

@@ -86,7 +86,7 @@ leur formation et leur domaine d'étude.
 #+HTML: <div class="menu">
 
 - [[file:olpc-deployment-guide-phase-planification.org][Phase de planification]]
-- [[file:olpc-deployment-guide-realisation-projet.org][Mise en oeuvre du projet]]
 - [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-guide-realisation-projet.org][Mise en oeuvre du projet]]
 
 #+HTML: </div>

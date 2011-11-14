@@ -58,7 +58,7 @@ apprendre de manière indépendante, collaborative et ludique.
 
 #+HTML: <div class="menu">
 
-- [[file:olpc-deployment-guide-strategie-apprentissage.org][Stratégie d'apprentissage]]
 - [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-guide-strategie-apprentissage.org][Stratégie d'apprentissage]]
 
 #+HTML: </div>  
