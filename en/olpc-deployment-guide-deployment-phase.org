@@ -158,8 +158,6 @@ et al., 2008).  are.  Deployments are encouraged to explore innovative ways
 of measuring student learning, and to attempt documenting and measuring new
 learning dimensions.
 
-[[file:~/install/git/OLPC-Deployment--community--guide/images/12_training.jpg]]
-
 * Setting Core Team
 #+INDEX: Core team
 
@@ -246,6 +244,8 @@ workshop can include:
 
 The following agenda is a sample of the topics usually covered during a 1
 week workshop with Core Team:
+
+[[file:~/install/git/OLPC-Deployment--community--guide/images/12_training.jpg]]
 
 The workshop is a hands-on experience that will not only enable
 participants to become familiar with technical and pedagogical aspects of
