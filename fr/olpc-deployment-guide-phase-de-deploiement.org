@@ -5,9 +5,9 @@
 
 #+HTML: <div class="menu">
 
-- [[file:olpc-deployment-guide-phase-post-deploiement.org][Phase de post-déploiement]]
-- [[file:index.org][Table des matières]]
 - [[file:olpc-deployment-guide-achat-commande.org][Contrats d'achat et processus de commande]]
+- [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-guide-phase-post-deploiement.org][Phase de post-déploiement]]
 
 #+HTML: </div>
 
@@ -56,17 +56,17 @@ Une fois les XO arrivés au port de destination, puis dédouanés et
 entreposés dans l’entrepôt de stockage, trois tâches principales doivent
 être effectuées :
 
-1. 1. Les XO doivent être inspectés individuellement concernant d'éventuels
+1. Les XO doivent être inspectés individuellement concernant d'éventuels
    dommages subis pendant le transport, et les réclamations d'assurance
    éventuelles doivent être prêtes.
 
-2. 2. Les XO peuvent avoir besoin d’être configurés avec la dernière
-   version du système d'exploitation et tout son contenu local s'il y a eu
-   des modifications apportées au logiciel depuis le moment où les unités
-   ont été expédiées. Cette procédure confirme aussi que les XO sont en
-   ordre de marche et prêts pour les élèves et les enseignants.
+2. Les XO peuvent avoir besoin d’être configurés avec la dernière version
+   du système d'exploitation et tout son contenu local s'il y a eu des
+   modifications apportées au logiciel depuis le moment où les unités ont
+   été expédiées. Cette procédure confirme aussi que les XO sont en ordre
+   de marche et prêts pour les élèves et les enseignants.
 
-3. 3. Les numéros de série des ordinateurs ainsi que les numéros
+3. Les numéros de série des ordinateurs ainsi que les numéros
    d'identification de chaque élève et enseignant doivent être entrés dans
    le système de gestion de stock. Cette procédure apporte des informations
    basiques qui seront ensuite mises à jour afin de refléter l'historique
@@ -289,9 +289,20 @@ spécifique. Pour cela, OLPC choisit un lieu stratégique qui permettra aux
 participants de multiples déploiements d'y assister. 
 
 Les éléments suivants sont des exemples d'ateliers avancés pour l'équipe
-principale:
+principale :
 
-[[file:~/install/git/OLPC-Deployment--community--guide/images/13_workshop_core_team.jpg]]
+| Sujet / Activité                                                     | Description                                                                                                                                                                              |
+|----------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Programmation et débogage* (recherche des erreurs de programmation) | Développement de compétences en programmation et en erreurs de programmation afin que les participants puissent eux-mêmes devenir des meneurs dans des projets avancés de développement. |
+|                                                                      | Ces stages incluent la démonstration de compétences avancées en programmation Etoys et Python.                                                                                           |
+|----------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Robotique*                                                          | L’utilisation de senseurs d’autres plates-formes robotiques incluant le XO dans des projets de développement.                                                                            |
+|----------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Communauté Sugar*                                                   | Contributions des participants à la communauté Sugar par la conception de matériel ou d’Activités Sugar pour un contenu local ou pour toute la communauté Sugar.                         |
+|----------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Développement du cursus*                                            | Le développement d’une base innovatrice de cours alignée sur le cursus local.                                                                                                            |
+
+#[[file:~/install/git/OLPC-Deployment--community--guide/images/13_workshop_core_team.jpg]]
 
 ** Développement de contenu
 
@@ -424,9 +435,39 @@ enseignant.
 
 L'ordre du jour qui suit est un échantillon de sujets que l'équipe
 principale peut couvrir durant une session de formation initiale des
-enseignants: 
+enseignants :
 
-[[file:~/install/git/OLPC-Deployment--community--guide/images/14_xs_specs.jpg]]
+
+
+| Jour | Sujet / Activité                                                                   |
+|------+------------------------------------------------------------------------------------|
+|    1 | Bienvenue et introduction                                                          |
+|      | Vue d’ensemble OLPC : principe, mission et philosophie                             |
+|      | Modèle pédagogique d’OLPC : le constructionnisme                                   |
+|      | Lectures et réflexions : les enfants, l’apprentissage et les ordinateurs           |
+|      | Travaux pratiques : vue d’ensemble des outils disponibles sur les XO               |
+|      | Introduction au XO : Matériel et logiciels                                         |
+|------+------------------------------------------------------------------------------------|
+|      | Introduction aux Activités Sugar Logo et Turtle art                                |
+|    2 | Créer et utiliser un stick Reflash                                                 |
+|      | Résolution de problèmes simples de matériel                                        |
+|      | Utilisation du XO comme outil d’apprentissage                                      |
+|------+------------------------------------------------------------------------------------|
+|    3 | Programmation d’Activités sur le XO : Scratch                                      |
+|      | Réseaux de collaboration et d’apprentissage                                        |
+|      | Résolutions de problèmes simples de logiciels                                      |
+|------+------------------------------------------------------------------------------------|
+|      | Mise en oeuvre du projet : Construire les équipes nécessaires à un bon déploiement |
+|    4 | Préparation des écoles et des communautés                                          |
+|      | Développement de la capacité locale : formation des enseignants                    |
+|      | Cursus, contenu et matériaux dans un environnement 1-1                             |
+|      | Expérimentation de projets d’apprentissage : élaborer des projets via les XO       |
+|------+------------------------------------------------------------------------------------|
+|    5 | Présentation de projets                                                            |
+|      | Intégration des familles et autres membres de la (des) communauté(s)               |
+|      | Energie et connectivité                                                            |
+|      | Evaluation et métriques                                                            |
+|      | Questions et réponses                                                              | 
 
 Le déploiement des ordinateurs portables pour chaque enfant dans toute une
 région ou un pays ne peut pas être géré par l'équipe principale seule. Il
@@ -611,18 +652,27 @@ connecter que jusqu'à 20 ordinateurs portables simultanément. Les serveurs
 d'école éliminent le besoin d'une grande partie du trafic multidiffusion 
 
 Les spécifications minimales recommandées pour un serveur de l'école sont
-les suivants: 
+les suivants : 
 
-[[file:~/install/git/OLPC-Deployment--community--guide/images/15_initial_teacher_training.jpg]]
+| < 20 XO                                                      | < 40 XO                          | < 80 XO                             | < 120 XO                             | > 120 XO                                                            |
+|--------------------------------------------------------------+----------------------------------+-------------------------------------+--------------------------------------+---------------------------------------------------------------------|
+| Aucun serveur n’est indispensable mais il est toujours utile | Un serveur plus un point d’accès | Un serveur plus deux points d’accès | Un serveur plus trois points d’accès | Un serveur, plusieurs points d’accès, et une vue d’ensemble du site |
+
+#+HTML: <br />
+
+| Serveur | Nombre de XO supportés | Par processeur de | RAM    | Stockage   |
+|---------+------------------------+-------------------+--------+------------|
+| Petit   | < 20-25                | 466 MHz           | 256 MB | 40-60 GB   |
+| Grand   | < 150                  | 1GHz              | 1 GB   | 320-400 GB |
 
 La quantité d'énergie nécessaire pour les serveurs de l'école dépend des
-spécifications des machines utilisées. Cela doit être pris en considération
-lors de la préparation sur place. 
+spécifications des machines utilisées.  Cela doit être pris en
+considération lors de la préparation sur place.
 
 #+HTML: <div class="menu">
 
-- [[file:olpc-deployment-guide-phase-post-deploiement.org][Phase de post-déploiement]]
-- [[file:index.org][Table des matières]]
 - [[file:olpc-deployment-guide-achat-commande.org][Contrats d'achat et processus de commande]]
+- [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-guide-phase-post-deploiement.org][Phase de post-déploiement]]
 
 #+HTML: </div>

@@ -5,9 +5,9 @@
 
 #+HTML: <div class="menu">
 
-- [[file:olpc-deployment-guide-resume-taches.org][Résumé des tâches recommandées]]
-- [[file:index.org][Table des matières]]
 - [[file:olpc-deployment-guide-phase-de-deploiement.org][Phase de déploiement]]
+- [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-guide-resume-taches.org][Résumé des tâches recommandées]]
 
 #+HTML: </div>
 
@@ -181,8 +181,8 @@ place pouvant être formée aux réparations par notre équipe technique.
 
 #+HTML: <div class="menu">
 
-- [[file:olpc-deployment-guide-resume-taches.org][Résumé des tâches recommandées]]
-- [[file:index.org][Table des matières]]
 - [[file:olpc-deployment-guide-phase-de-deploiement.org][Phase de déploiement]]
+- [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-guide-resume-taches.org][Résumé des tâches recommandées]]
 
 #+HTML: </div>

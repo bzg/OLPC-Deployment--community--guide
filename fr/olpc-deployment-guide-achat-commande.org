@@ -5,9 +5,9 @@
 
 #+HTML: <div class="menu">
 
-- [[file:olpc-deployment-guide-phase-de-deploiement.org][Phase de déploiement]]
-- [[file:index.org][Table des matières]]
 - [[file:olpc-deployment-etude-faisabilite.org][Étude de faisabilité]]
+- [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-guide-phase-de-deploiement.org][Phase de déploiement]]
 
 #+HTML: </div>
 
@@ -279,9 +279,9 @@ livraison des XO complet et efficace.
 
 #+HTML: <div class="menu">
 
-- [[file:olpc-deployment-guide-phase-de-deploiement.org][Phase de déploiement]]
-- [[file:index.org][Table des matières]]
 - [[file:olpc-deployment-etude-faisabilite.org][Étude de faisabilité]]
+- [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-guide-phase-de-deploiement.org][Phase de déploiement]]
 
 #+HTML: </div>
 

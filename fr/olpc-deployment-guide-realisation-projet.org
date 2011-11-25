@@ -5,9 +5,9 @@
 
 #+HTML: <div class="menu">
 
-- [[file:olpc-deployment-guide-strategie-support.org][Stratégie de support]]
-- [[file:index.org][Table des matières]]
 - [[file:olpc-deployment-guide-introduction-au-guide-de-deploiement.org][Introduction au guide de déploiement]]
+- [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-guide-strategie-support.org][Stratégie de support]]
 
 #+HTML: </div>
 
@@ -64,22 +64,46 @@ rechange.
 Pour de plus petits déploiements (<2.500 unités), le chef de projet ou le
 directeur technique pourra se charger lui-même de la logistique. 
 
-Ce diagramme donne des informations complémentaires sur les responsabilités
+Ce tableau donne des informations complémentaires sur les responsabilités
 et compétences des membres de l'équipe principale : 
 
 #+index: Equipe principale!Compétences
 #+index: Equipe principale!Diagramme
 
-[[file:~/install/git/OLPC-Deployment--community--guide/images/4_core_team_skills_1.jpg]]
+| Equipe                  | Domaines de compétences                                                  | Responsabilités                                                                                                                |
+|-------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------|
+| Direction du projet     | Planification de projet                                                  | Etablissement des règles du projet                                                                                             |
+|                         | Budget                                                                   | Création, supervision et support des équipes techniques et éducatives locales                                                  |
+|                         | Relations externes                                                       | Informations à la communauté et relations publiques                                                                            |
+|                         | Communication                                                            | Distribution des XO                                                                                                            |
+|                         |                                                                          | Vérification de l’avancement du projet                                                                                         |
+|                         |                                                                          | Rapports d’évaluation                                                                                                          |
+|                         |                                                                          | Construction des relations et accords avec les chefs de la/des communauté/s et/ou les institutions gouvernementales            |
+|-------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------|
+| Logistique              | Douanes                                                                  | Stockage des XO et gestion de l’inventaire                                                                                     |
+|                         | Gestion de l’inventaire                                                  | Gestion des pièces de rechange                                                                                                 |
+|-------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------|
+| Technique               | Linux, logiciels libres                                                  | Logiciels                                                                                                                      |
+|                         | Maintenance et réparation des XO                                         | Matériel                                                                                                                       |
+|                         | Maintenance du LAN                                                       | Connectivité                                                                                                                   |
+|                         | Ingénieurs Telco pour les serveurs d’école et les systèmes d’inventaires | Collaboration avec les prestataires de services locaux pour obtenir l’énergie appropriée ou l'infrastructure  réseau sur place |
+|                         | Administrateurs de systèmes                                              | Maintenance et réparation des XO et serveurs scolaires                                                                         |
+|                         | Localisation des logiciels                                               | Gestion du système de sécurité                                                                                                 |
+|                         |                                                                          | Construction de capacités techniques adaptées à l’environnement scolaire                                                       |
+|-------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------|
+| Education/apprentissage | Enseignement                                                             | Formation et suivi des enseignants                                                                                             |
+|                         | Planning de cours et de développement                                    | Développement du contenu éducatif                                                                                              |
+|                         | Capacité à collaborer avec les enseignants et les étudiants              | Développement du matériel pédagogique pour les enseignants et les écoles                                                       |
+|                         | Aptitude à diriger                                                       | Développement des programmes éducatifs en cours                                                                                |
 
-[[file:~/install/git/OLPC-Deployment--community--guide/images/5_core_team_skills_2.jpg]]
-
-[[file:~/install/git/OLPC-Deployment--community--guide/images/6_core_team_skills_3.jpg]]
+#[[file:~/install/git/OLPC-Deployment--community--guide/images/4_core_team_skills_1.jpg]]
+#[[file:~/install/git/OLPC-Deployment--community--guide/images/5_core_team_skills_2.jpg]]
+#[[file:~/install/git/OLPC-Deployment--community--guide/images/6_core_team_skills_3.jpg]]
 
 #+HTML: <div class="menu">
 
-- [[file:olpc-deployment-guide-strategie-support.org][Stratégie de support]]
-- [[file:index.org][Table des matières]]
 - [[file:olpc-deployment-guide-introduction-au-guide-de-deploiement.org][Introduction au guide de déploiement]]
+- [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-guide-strategie-support.org][Stratégie de support]]
 
 #+HTML: </div>

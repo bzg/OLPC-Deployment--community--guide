@@ -5,9 +5,9 @@
 
 #+HTML: <div class="menu">
 
-- [[file:olpc-deployment-guide-achat-commande.org][Contrats d'achat et processus de commande]]
-- [[file:index.org][Table des matières]]
 - [[file:olpc-deployment-guide-phase-planification.org][Phase de planification]]
+- [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-guide-achat-commande.org][Contrats d'achat et processus de commande]]
 
 #+HTML: </div>
 
@@ -78,6 +78,10 @@ panneau solaire de 10 W exposé en plein soleil fournira suffisamment de
 puissance moyenne pour faire marcher le XO et charger lentement la batterie
 (en près de six heures).
 
-- [[file:olpc-deployment-guide-achat-commande.org][Contrats d'achat et processus de commande]]
-- [[file:index.org][Table des matières]]
+#+HTML: <div class="menu">
+
 - [[file:olpc-deployment-guide-phase-planification.org][Phase de planification]]
+- [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-guide-achat-commande.org][Contrats d'achat et processus de commande]]
+
+#+HTML: </div>

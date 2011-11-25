@@ -5,9 +5,9 @@
 
 #+HTML: <div class="menu">
 
-- [[file:olpc-deployment-etude-faisabilite.org][Étude de faisabilité]]
-- [[file:index.org][Table des matières]]
 - [[file:olpc-deployment-guide-strategie-support.org][Stratégie de support]]
+- [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-etude-faisabilite.org][Étude de faisabilité]]
 
 #+HTML: </div>
 
@@ -24,12 +24,12 @@ ainsi qu'un contrat d'achat suivi par une commande de XO.
 
 [[file:~/install/git/OLPC-Deployment--community--guide/images/7_planning_phases_fr.jpg]]
 
-* Approches financières 
+* Approches financières
 
 Dans l'idée d'un déploiement OLPC, l'équipe chargée du projet choisit
 généralement l'une des trois approches suivantes :
 
-** Ciblage géographique 
+** Ciblage géographique
 
 Par l'approche géographique, l'équipe de déploiement sélectionne une région
 qui l'intéresse particulièrement. Il peut s'agir d'un pays, d'un état,
@@ -44,7 +44,7 @@ l'étude de faisabilité disponible en annexe afin de déterminer le budget
 annuel pour le projet et décider ainsi si une approche progressive est
 nécessaire compte tenu des contraintes budgétaires.
 
-** Contraintes budgétaires 
+** Contraintes budgétaires
 
 De nombreuses équipes de déploiement contactent OLPC avec un pays
 sélectionné et un budget fixé pour soutenir le projet. En travaillant avec
@@ -57,7 +57,7 @@ efficace, les informations suivantes sont requises :
 - Le pourcentage d'écoles ayant l'électricité.
 - Le pourcentage d'écoles connectées à Internet.
 
-** Objectifs politiques et sociaux 
+** Objectifs politiques et sociaux
 
 Certaines équipes de déploiement  voient un moyen d'obtenir un changement
 politique ou social au travers d'un projet OLPC. Par exemple, le
@@ -67,7 +67,7 @@ fait cela conduit bien souvent à l'élaboration d'une stratégie de conduite
 de projet bien plus rapidement que lors des deux autres approches. Par
 l'utilisation du modèle de faisabilité et des quatre informations mises en
 avant dans l'approche budgétaire, n'importe quel projet politique ou social
-peut-être traduit en budget et en nombre d'ordinateurs à déployer. 
+peut-être traduit en budget et en nombre d'ordinateurs à déployer.
 
 * Principes clés
 
@@ -122,7 +122,7 @@ projet :
   il est recommandé que le chargé du déploiement permette à OLPC de s'en
   occuper. OLPC ne définit pas le prix du fret ni de l'assurance.
 
-* Hypothèses financières 
+* Hypothèses financières
 
 #+index: Finance!Hypothèses
 
@@ -132,12 +132,57 @@ récurrents, tels que le matériel, l'expédition et l'installation électrique
 (si nécessaire). Le second groupe prend en compte les coûts récurrents tels
 que les coût d'exploitation mensuels et le salaire des employés.
 
-[[file:~/install/git/OLPC-Deployment--community--guide/images/8_financial_assumptions.jpg]]
+|-------------------------------------------+--------------------------------------------|
+| Estimation des coûts d’installation       | Estimation des coûts mensuels              |
+|-------------------------------------------+--------------------------------------------|
+| *Coûts généraux :*                        |                                            |
+| Coût par unité :                          |                                            |
+| - Coût FOB                                |                                            |
+| - Fret                                    |                                            |
+| - Droits de douane et taxes               |                                            |
+| - Total                                   |                                            |
+| Coût total des unités déployées           |                                            |
+| Contingences 0%                           |                                            |
+|-------------------------------------------+--------------------------------------------|
+| *Coûts administratifs et opérationnels :* | *Coûts administratifs et opérationnels  :* |
+| Location                                  | Location                                   |
+| Fournitures                               | Fournitures                                |
+| XO                                        | XO                                         |
+| Support de bureau                         | Support de bureau                          |
+| Fournitures de bureau                     | Fournitures de bureau                      |
+| Electricité                               | Electricité                                |
+| Maintenance                               | Maintenance                                |
+| Communications téléphoniques              | Communications téléphoniques               |
+| Transport                                 | Transport                                  |
+| Voyages et déplacements                   | Voyages et déplacements                    |
+| Transactions financières                  | Transactions financières                   |
+| Evaluation                                | Evaluation                                 |
+| Juridique                                 | Juridique                                  |
+| TOTAL                                     | TOTAL                                      |
+|-------------------------------------------+--------------------------------------------|
+|                                           | *Salaires (par employé)*                   |
+|                                           | Niveau décisionnel                         |
+|                                           | Niveau direction                           |
+|                                           | Personnel qualifié                         |
+|                                           | IT                                         |
+|                                           | Pédagogique                                |
+|                                           | Employés non-qualifiés                     |
+|-------------------------------------------+--------------------------------------------|
+| *Coûts en électricité*                    | *Coûts en électricité*                     |
+| Installation du réseau                    | Puissance du réseau par kWh                |
+| Générateur au diesel/gasoline             | Coût en carburant par litre                |
+|-------------------------------------------+--------------------------------------------|
+| *Coûts de connectivité*                   | *Coûts de connectivité*                    |
+| Modem Dsl                                 | Coût mensuel du modem Dsl                  |
+| Terminal Satellite                        | Coût mensuel du terminal satellite         |
+| Modem GSM                                 | Coût mensuel du modem GSM                  |
+
+#[[file:~/install/git/OLPC-Deployment--community--guide/images/8_financial_assumptions.jpg]]
 
 #+HTML: <div class="menu">
 
-- [[file:olpc-deployment-etude-faisabilite.org][Étude de faisabilité]]
-- [[file:index.org][Table des matières]]
 - [[file:olpc-deployment-guide-strategie-support.org][Stratégie de support]]
+- [[file:index.org][Table des matières]]
+- [[file:olpc-deployment-etude-faisabilite.org][Étude de faisabilité]]
 
 #+HTML: </div>

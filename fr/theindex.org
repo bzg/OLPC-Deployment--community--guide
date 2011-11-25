@@ -27,6 +27,7 @@
 ** D
    - [[file:olpc-guide-deploiement.org::#sec-9-1-2][Distribution]]
    - [[file:olpc-deployment-guide-phase-de-deploiement.org::#sec-1-2][Distribution]]
+   - [[file:olpc-deployment-guide-achat-commande.org::#sec-2-3][Douane]]
    - Déploiement
      - [[file:olpc-deployment-guide-phase-post-deploiement.org][Phases]]
      - [[file:olpc-guide-deploiement.org::#sec-10][Phases]]
@@ -54,6 +55,7 @@
      - [[file:olpc-guide-deploiement.org::#sec-4-1][Survol]]
    - [[file:olpc-deployment-guide-phase-post-deploiement.org][Evaluation]]
    - [[file:olpc-guide-deploiement.org::#sec-10][Evaluation]]
+   - [[file:olpc-deployment-guide-achat-commande.org::#sec-2-3][Exonération fiscale]]
 ** F
    - Finance
      - [[file:olpc-guide-deploiement.org::#sec-6-3][Hypothèses]]

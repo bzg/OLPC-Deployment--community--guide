@@ -7,25 +7,26 @@
 
 - [[file:olpc-deployment-guide-resume-taches.org][Résumé des tâches recommandées]]
 - [[file:index.org][Table des matières]]
+- [[file:theindex.org][Index]]
 
 #+HTML: </div>
 
 * Liens utiles
 
-- Site officiel d'OLPC : http ://laptop.org
-- Le wiki d'OLPC : http ://wiki.laptop.org
+- Site officiel d'OLPC : http://laptop.org
+- Le wiki d'OLPC : http://wiki.laptop.org
 - La version wiki de ce guide de déploiement (en anglais) :
   http://wiki.laptop.org/go/Deployment_Guide
-- Le manuel Sugar, en page web ou en pdf : http ://en.flossmanuals.net/Sugar
+- Le manuel Sugar, en page web ou en pdf : http://en.flossmanuals.net/Sugar
 - Le forum officiel de la communauté de support d'OLPC
 - La Foire aux Questions : http://wiki.laptop.org/go/Support_FAQ
 - Le wiki de Sugar Labs, qui fournit l'environnement Sugar et les activités
   qui tournent sur les ordinateurs XO.
 
-
 #+HTML: <div class="menu">
 
 - [[file:olpc-deployment-guide-resume-taches.org][Résumé des tâches recommandées]]
 - [[file:index.org][Table des matières]]
+- [[file:theindex.org][Index]]
 
 #+HTML: </div>
