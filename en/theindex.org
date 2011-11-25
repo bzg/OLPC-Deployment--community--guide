@@ -91,7 +91,7 @@
      - [[file:olpc-deployment-guide-post-deployment-phase.org][Overview]]
      - [[file:olpc-deployment-guide-olpc-support-strategy.org][Strategy]]
      - [[file:olpc-deployment-guide-post-deployment-phase.org::#sec-1][Teachers]]
-     - [[file:olpc-deployment-guide-olpc-support-strategy.org::#sec-3][Technical!]]
+     - [[file:olpc-deployment-guide-olpc-support-strategy.org::#sec-3][Technical]]
 ** T
    - [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org::#sec-2-3][Taxes]]
    - Training
