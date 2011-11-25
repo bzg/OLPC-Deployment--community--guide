@@ -12,31 +12,29 @@
 #+HTML: </div>
 
 La phase de déploiement comprend tous les événements qui se produisent
-entre la commande de l'ordinateur portable au fabriquant et la distribution
-finale des XO aux écoles et aux enfants. Le délai d'exécution dégage du
-temps qui peut être alloué au recrutement des membres de l'équipe locale et
-à l'organisation d'une formation technique et pédagogique avec OLPC pour
-l'équipes principale. En outre, ce temps peut être utilisé pour satisfaire
-les besoins en infrastructures sur la base des résultats de l'étude de
-faisabilité. 
+entre la commande du XO au fabriquant et sa distribution finale aux écoles
+et enfants. Le délai d'exécution alloue du temps pour le recrutement des
+membres de l'équipe principale et pour son organisation d’une formation
+technique et pédagogique OLPC. En outre, ce temps peut être utilisé pour
+satisfaire les besoins en infrastructure sur la base des résultats de
+l'étude de faisabilité.
 
-Les espaces de stockage doivent être préparées pour l'arrivée des
-ordinateurs portables, tout comme le personnel en charge de la gestion des
-stocks et du processus de distribution. 
+Les espaces de stockage doivent être prêts pour l'arrivée des XO, tout
+comme doit l'être le personnel en charge de la gestion des stocks et du
+processus de distribution. 
 
 Les chefs d'établissements scolaires et les administrateurs doivent être
-informés sur les objectifs et les implications du programme dès les
-premières étapes d'un projet. Des réunions formelles avec ces parties et
-avec d'autres membres compétents du système éducatif ou de personnalités
-politiques devraient être organisées pour mettre en place un calendrier
-pour la formation des enseignants et des autres activités au niveau de
-l'école. 
+informés des objectifs et  implications du programme dès les premières
+étapes du projet. Des réunions formelles entre ces parties et d'autres
+membres compétents du système éducatif ou des personnalités politiques
+devraient être organisées pour mettre en place un calendrier sur la
+formation des enseignants et des autres activités au niveau de l'école.
 
-Une fois les ordinateurs portables parvenus dans un pays, les étapes à
-suivre incluent notamment la mise en place de la logistique, la formation
-de l'équipe principale avec OLPC, la mise en place d'infrastructures au
-niveau des écoles, la préparation des écoles et des communautés et le
-déploiement des ordinateurs portables. 
+Une fois les XO parvenus dans le pays, les étapes à suivre incluent
+notamment la mise en place de la logistique, de la formation de l'équipe
+principale par OLPC, de la mise en place des infrastructures scolaires
+ainsi que la préparation des écoles et des communautés au déploiement des
+XO.
 
 #+ATTR_HTML: align="center"
 [[file:~/install/git/OLPC-Deployment--community--guide/images/11_deploy_phases_fr.jpg]]
@@ -46,109 +44,105 @@ déploiement des ordinateurs portables.
 #+index: Logistique
 
 Le département logistique de l'équipe principale est responsable de la
-gestion du processus logistique local une fois l'expédition livrée au port
-de destination. Le responsable de la logistique sera chargé de faciliter le
-dédouanement et la livraison jusqu'à sa destination finale. Un processus
-logistique efficace et rapide est non seulement important pour maintenir le
-calendrier de déploiement proposé, mais également essentiel afin d'éviter
-des frais ou taxes qui peuvent être appliqués en cas de retard dans le
-dédouanement ou le déchargement à destination. 
+logistique dès l'arrivée des XO à leur port de destination. Le responsable
+de la logistique est en charge du dédouanement et de la livraison jusqu'à
+sa destination finale. Un processus logistique efficace et rapide est non
+seulement important pour maintenir le calendrier de déploiement proposé,
+mais également essentiel pour éviter les frais ou taxes pouvant être
+appliqués en cas de retard dans le dédouanement ou le déchargement lors de
+son arrivée au port de destination.
 
-Une fois les ordinateurs portables arrivés dans un pays, dédouanés et
-arrivés à l'entrepôt de stockage, trois tâches principales doivent être
-effectuées : 
+Une fois les XO arrivés au port de destination, puis dédouanés et
+entreposés dans l’entrepôt de stockage, trois tâches principales doivent
+être effectuées :
 
-1. Les ordinateurs portables doivent être inspectés individuellement au
-   niveau de dommages subis pendant le transport, et les réclamations
-   d'assurance éventuelles doivent être préparées. 
+1. 1. Les XO doivent être inspectés individuellement concernant d'éventuels
+   dommages subis pendant le transport, et les réclamations d'assurance
+   éventuelles doivent être prêtes.
 
-2. Les ordinateurs portables peuvent avoir besoin d'être configurés avec la
-   dernière version du système d'exploitation et tout le contenu local,
-   s'il ya eu des modifications apportées au logiciel depuis le moment où
-   les unités ont été expédiées. Cette procédure sert aussi de confirmation
-   que les ordinateurs sont en ordre de marche et sont prêts pour les
-   élèves et les enseignants. 
+2. 2. Les XO peuvent avoir besoin d’être configurés avec la dernière
+   version du système d'exploitation et tout son contenu local s'il y a eu
+   des modifications apportées au logiciel depuis le moment où les unités
+   ont été expédiées. Cette procédure confirme aussi que les XO sont en
+   ordre de marche et prêts pour les élèves et les enseignants.
 
-3. Les numéros de série des ordinateurs doivent être entrés dans le système
-   de gestion de stock ainsi que les numéros d'identification de chaque
-   élève et enseignant. Cette procédure fournit les informations de base,
-   qui sont ensuite mises à jour afin de refléter l'historique des
-   réparations, les transferts de portables, ou des remplacements. 
+3. 3. Les numéros de série des ordinateurs ainsi que les numéros
+   d'identification de chaque élève et enseignant doivent être entrés dans
+   le système de gestion de stock. Cette procédure apporte des informations
+   basiques qui seront ensuite mises à jour afin de refléter l'historique
+   des réparations, les transferts ou les remplacements des XO.
 
 ** Entreposage 
 
 #+index: Entreposage 
 
+Lorsque l'on élabore des plans pour le stockage local des XO, il est
+important de prendre en compte la sécurité des installations de stockage,
+l'impact des conditions météorologiques sur les XO stockés, et la
+couverture d'assurance éventuellement requise.
 
-Lorsqu'on élabore des plans pour le stockage local des XO, il est important
-de considérer la sécurité des installations de stockage, l'impact des
-conditions météorologiques sur les XOs stockés, et la couverture
-d'assurance éventuellement requise. 
+Le département en charge des opérations peut fournir des informations sur
+les dimensions d'emballage ou sur toute autre interrogation concernant
+l’emballage.
 
-Le département des opérations peut fournir des informations sur les
-dimensions d'emballage ou sur tout autre sujet de préoccupations sur
-l'emballage. 
-
-L'entreposage local permet de stocker les ordinateurs portables en vue de
-leur configuration tandis que l'infrastructure logistique est préparée pour
-acheminer les ordinateurs portables. Un positionnement stratégique
-d'entrepôts régionaux peut permettre de réduire le coût de la logistique et
-d'améliorer l'efficacité de la réparation et du remplacement des
-ordinateurs portables. 
+L’entreposage local permet de stocker les XO en vue de leur configuration
+tandis que l’infrastructure logistique est prête à acheminer les XO. Un
+positionnement stratégique d’entrepôts régionaux permet de réduire le coût
+logistique et améliore l'efficacité de la réparation et du remplacement des
+XO.
 
 ** Plan de distribution des ordinateurs portables
 
 #+index: Distribution
 
-Dans l'expérience OLPC, la plupart des sponsors ne peuvent distribuer qu'un
-maximum de 60 000 machines par mois. Les machines sont généralement
-distribuées par des sociétés tierces, les militaires, ou les organismes de
-coopération multilatérale, comme la FAO ou le PAM. Ces organisations ont
-une vaste expérience dans la sécurisation de la logistique. Dans de
-nombreux pays, un millier d'ordinateurs portables est une cible de grande
-valeur pour le vol, et la sécurité devrait être une préoccupation
-primordiale dans le choix d'une entreprise de logistique. Tous les
-événements de célébration devraient être planifiés pour correspondre à
-l'arrivée des ordinateurs dans les écoles (qui devrait coïncider avec la
-disponibilité de l'Internet). 
+Dans l'expérience OLPC, la plupart des sponsors peuvent distribuer au
+maximum 60.000 XO par mois. Ils sont généralement distribués par des
+sociétés tierces, l'armée, ou des organisations de coopération
+multilatérale, comme la FAO ou le PAM. Celles-ci ont une vaste expérience
+dans la sécurisation de la logistique. Dans de nombreux pays, un millier de
+XO est une cible de choix pour le vol : la sécurité devrait donc être une
+préoccupation primordiale dans le choix d'une entreprise de logistique. Il
+serait par ailleurs adéquat que l'arrivée des XO dans les écoles et
+communautés corresponde à une festivité et, bien sûr, à une connexion
+internet valide.
 
-L'expérience OLPC montre que le meilleur plan de distribution commence avec
-les zones les plus faciles, sauf s'il existe des considérations
-politiques. Débuter par les zones les pus simples permet d'identifier et de
-mettre en oeuvre tous les changements de dernière minute. Le personnel
-apprend également plus rapidement quand il peut se concentrer sur les
-installations plus simples et n'a pas à installer des équipements solaires
-ou des relais satellites. 
+L'expérience OLPC montre que le meilleur plan de distribution est celui qui
+débute avec les zones les plus faciles, sauf s'il faut tenir compte de
+considérations politiques. Débuter par les zones les plus simples permet
+d’identifier et de mettre en place tous les changements de dernière
+minute. Le personnel apprend ainsi aussi plus rapidement quand il peut se
+concentrer sur des installations plus simples ne nécessitant pas
+l'installation d'équipements solaires ou de relais satellites. 
 
 ** Gestion des pièces détachées
 
 #+index: Pièces détachées
 
-La gestion des pièces détachées est une partie souvent négligée, mais clé
-d'un déploiement réussi. Les machines tombent en panne suite à
-l'utilisation par les enfants; historiquement, les réparations sont plus
-fréquentes dans les zones les plus pauvres. Sans surprise, ces élèves
-manquent d'expérience avec les appareils électroniques, les soins
-appropriés et le maniement des ordinateurs. 
+Il s'agit d'une partie souvent négligée, mais qui est pourtant la clé d'un
+déploiement réussi. Les XO tombent en panne suite à l'utilisation qu'en
+font les enfants; selon notre historique, plus une région est pauvre, plus
+les réparations sont fréquentes. Sans surprise, car ces élèves manquent
+d'expérience avec les appareils électroniques, les soins appropriés et le
+maniement des ordinateurs.
 
 Un projet devrait planifier la réception d'un inventaire de pièces de
-rechange dans les 6-9 mois suivant la livraison des ordinateurs portables
-aux enfants. Jusqu'à ce moment, les 1% d'unités excédentaires livrées avec
-chaque commande doivent être suffisants pour gérer les réparations. Le
-personnel OLPC en charge de la logistique peut fournir des conseils sur la
-composition de l'ordre initial de réparation; avec le temps, le projet
-devrait baser les commandes de pièces détachées sur les données réelles. 
+rechange dans les 6-9 mois suivant la livraison des XO aux enfants. Jusque
+là, le 1% d'unités excédentaires livrées avec chaque commande doit être
+suffisant pour gérer les réparations. Le personnel OLPC en charge de la
+logistique peut fournir des conseils sur la composition de la commande
+initiale de réparation; avec le temps, le projet devrait baser ses
+commandes de pièces détachées sur des données réelles.
 
 ** Etude de référence 
 
-Avant de commencer un déploiement, il est conseillé d'avoir des données qui
-décrivent le scénario de mise en oeuvre du projet. Le chef de projet et
-l'équipe principale peuvent travailler en collaboration avec des experts en
-évaluation ou des institutions académiques/de recherche pour concevoir un
-cadre d'évaluation capable de mesurer l'impact du projet en relation avec
-les objectifs attendus. Le cadre d'évaluation doit être aligné avec les
-mesures d'apprentissage des élèves, ainsi une analyse minutieuse des
-indicateurs et des outils mérite d'être menée. 
+Avant de commencer un déploiement, il est conseillé d'avoir les données
+nécessaires au scénario de mise en œuvre du projet. Le chef de projet et
+l'équipe principale peuvent collaborer avec des experts en évaluation ou
+des institutions académiques/de recherche pour concevoir un cadre
+d'évaluation capable de mesurer l'impact du projet selon ses objectifs. Le
+cadre d’évaluation mérite d'être aligné avec les mesures d'apprentissage
+des élèves, ce qui demande une analyse minutieuse des indicateurs et des
+outils.
 
 L'information de base peut servir de point de départ utile pour mieux
 comprendre la communauté impliquée dans le projet, et peut même conduire à
@@ -161,58 +155,53 @@ oeuvre d'un projet.
 Les objectifs et résultats attendus du programme devraient être les
 critères de sélection du type de données de base à collecter. Des données
 administratives peuvent mesurer les changements dans la fréquentation
-scolaire, les taux de scolarisation et le taux d'abandon. Les mesures de
-l'impact social et comportementales peuvent inclure des enquêtes ou
+scolaire, les taux de scolarisation et le taux d’abandon. Les mesures de
+l'impact social et comportemental peuvent inclure des enquêtes ou
 questionnaires relatifs aux attitudes, motivations et opinions des parents,
 élèves et membres de la communauté sur le projet lui-même ou sur
 l'apprentissage des élèves. Les performances des élèves peuvent être
-mesurées par des épreuves standardisées, locales ou nationales. Les examens
-traditionnels ne parviennent pas à évaluer les nouvelles compétences que
-les élèves développent en intégrant la technologie dans leur
-apprentissage. 
+mesurées par des épreuves standardisées, locales ou nationales, les examens
+traditionnels ne parvenant pas à évaluer les nouvelles compétences
+développées par les élèves lors d'une introduction technologique dans leur
+apprentissage.
 
-Les nouvelles dimensions de l'apprentissage doivent être évalués, tels que
-la résolution de problèmes, pensée critique, la gestion de sources
-multiples d'information, la capacité de réflexion, de communication
-utilisant des media variés (visuelles, auditives, interactives, etc), des
-compétences en travaux individuels et en équipe, les capacités
-d'auto-apprentissage; dimensions plus complexes comprenant l'agencement
-(Carlson & Earls, 2001) et l'efficacité des enfants et des jeunes à
-apporter des changements significatifs à l'environnement dans lequel ils
-vivent (Kamo, N. et al, 2008). Les déploiements sont encouragés à explorer
-des façons novatrices de mesurer l'apprentissage des élèves, et à tenter de
-documenter et de mesurer de nouvelles dimensions d'apprentissage. 
+Ces nouvelles dimensions d'apprentissage (résolution de problèmes, pensée
+critique, gestion de sources multiples d'information, capacité de
+réflexion, communication - visuelle, auditive, interactive, etc. -
+utilisant des médias variés, compétences en travaux individuels et en
+équipe,  capacités d'auto-apprentissage, dimensions plus complexes
+comprenant l'agencement [Carlson & Earls, 2001], efficacité des enfants et
+des jeunes à apporter des changements significatifs à l'environnement dans
+lequel ils vivent [Kamo, N. et al, 2008] demandent à être évaluées.
 
 * Mise en place de l'équipe principale
 
 #+index: Equipe principale
 
-Comme nous l'avons expliqué dans les sections précédentes, l'équipe
-principale se réfère à l'équipe locale en charge de la mise en oeuvre des
-différentes composantes d'un déploiement. Dans cette section, nous allons
-nous concentrer sur les équipes techniques et pédagogiques. Leur travail
-est crucial pour une mise en oeuvre réussie d'un déploiement; les membres
-doivent être soigneusement recrutés et soutenus financièrement et de
-manière proactive pour la durée du programme. À ce point de la phase de
-déploiement, il est crucial d'avoir établi l'équipe principale. 
+Comme expliqué dans les pages précédentes, ce que nous appelons « équipe
+principale » est l'équipe  locale; elle a la responsabilité de la mise en
+œuvre des différents composants du déploiement. Nous allons nous concentrer
+ici sur les équipes technique et pédagogique. Leur travail est crucial pour
+la mise en œuvre réussie du déploiement; son personnel doit être
+soigneusement recruté et soutenu financièrement de manière pro-active
+durant toute la durée du programme. À ce point du déploiement, il est
+crucial d'avoir créé une équipe principale adéquate.
 
-La taille de ces équipes dépendra du nombre d'unités déployées. Bien que
-les apprentissages des équipes techniques et pédagogiques doivent se
-concentrer sur des composantes différentes, la situation idéale est un réel
-travail en équipe où l'on se communique les plans, les défis et les mises à
-jour sur une base très régulière. Il est de la responsabilité du chef de
-projet de faciliter la mise en place de ce type de relations au sein de
-l'équipe. Il est essentiel de fournir une orientation constante à l'équipe
-principale avec quelqu'un ayant la compétence appropriée. Avoir un leader
-pour chaque équipe est réellement souhaitable. Ces leaders ou managers
-doivent maintenir une communication constante avec les équipes techniques
-et pédagogiques d'OLPC. 
+La taille de cette équipe dépendra du nombre d'unités déployé. Bien que les
+apprentissages des équipes technique et pédagogique ont à se concentrer sur
+des composantes différentes, l'idéal reste un réel travail d'équipe se
+communiquant plans, défis et  mises à jour sur une base très régulière. Il
+est de la responsabilité du chef de projet de faciliter la mise en place de
+ce type de relations au sein de l’équipe. Avoir un leader pour chaque
+équipe est réellement souhaitable. Ces leaders ou managers ont à maintenir
+une communication constante avec les équipes technique et pédagogique
+d’OLPC.
 
 OLPC facilitera l'organisation d'un atelier stratégique avec l'équipe
 principale pour : 
 
-1. Renforcer les capacités dans la gestion de l'XO, ses activités et ses
-   utilisations comme outil d'apprentissage. 
+1. Renforcer les capacités dans la gestion des XO, dans ses activités et
+   utilisations comme outil d'apprentissage.
 
 2. Renforcer les capacités à mettre en place l'infrastructure, la
    connectivité et les autres exigences techniques à l'école ou au niveau

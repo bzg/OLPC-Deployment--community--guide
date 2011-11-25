@@ -18,12 +18,12 @@ OLPC apporte un soutien durant les étapes du déploiement, tout
 particulièrement dans les domaines opérationnel, éducatif et technique (qui
 sont les plus importants). 
 
-Pour que la maîtrise du déploiement soit locale et qu'il soit autonome,
-nous aidons à créer et stimuler des compétences dans les domaines technique
-et éducatif, en apportant à l'équipe principale la formation nécessaire
-durant le prédéploiement puis une assistance à distance (courriel,
-téléphone ou chat) durant le postdéploiement, et ceci selon les besoins du
-projet. 
+Pour que la maîtrise du déploiement soit locale et que celui-ci soit
+autonome, nous aidons à créer et stimuler des compétences dans les domaines
+technique et éducatif, en apportant à l'équipe principale la formation
+nécessaire durant le pré-déploiement, puis une assistance à distance
+(courriel, téléphone ou chat) durant le postdéploiement, et ceci selon les
+besoins du projet.
 
 Ce support est gratuit (quelle que soit la taille du projet). Pour ceux de
 25.000 unités et plus, une équipe OLPC éducative et technique se rend dans
@@ -69,7 +69,7 @@ travers les différentes phases de formation aux enseignants par OLPC.
 #+index: Dévelopement!Technique
 
 Nous nous concentrons aussi sur la création et la stimulation des capacités
-locales comme la mise en oeuvre d'une infrastructure, la connectivité et
+locales telles que la mise en oeuvre de l'infrastructure, la connectivité et
 tout autre impératif concernant les logiciels, le matériel, la maintenance
 et la réparation des XO.
 

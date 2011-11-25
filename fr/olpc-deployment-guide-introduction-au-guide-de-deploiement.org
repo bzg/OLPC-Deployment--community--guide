@@ -20,8 +20,8 @@ déploiements OLPC à grande échelle (écoles, villes, régions et pays).
 Fort du savoir et de l'expertise de déploiements de plus de deux millions
 d'ordinateurs portables et dans plus de trente pays, il indique quels sont
 les facteurs-clé au cours des différentes étapes d'un déploiement. Il peut
-être adapté à chaque nouveau déploiement selon le contexte culturel,
-économique et socio-politique du pays concerné.
+être adapté à chaque nouveau déploiement selon son contexte culturel,
+économique et socio-politique.
 
 * Vue d'ensemble des phases de déploiement
 

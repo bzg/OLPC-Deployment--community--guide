@@ -12,8 +12,8 @@
 #+HTML: </div>
 
 Ce chapitre décrit le processus habituel précédant la commande des
-ordinateurs portables ; il comporte certaines décisions à prendre
-concernant les aspects techniques des XO et les accords contractuels en
+ordinateurs portables ; il indique les décisions à prendre en ce qui
+concerne les aspects techniques des XO et les accords contractuels en
 découlant.
 
 * Choix du XO 
@@ -63,43 +63,43 @@ performances et sa capacité de stockage.
 #+index: XO!Contenu
 #+index: XO!Image d'installation
 
-OLPC a développé un mécanisme qui permet de préconfigurer facilement les
+OLPC a développé un mécanisme qui permet de pré-configurer facilement les
 activités et les dossiers chargés dans le XO. Il est aussi assez facile de
 reconfigurer un XO sur place. C'est à l'équipe principale de déterminer
 quelles activités autres que celles distribuées par OLPC devraient être
 incluses dans le XO. Tout ce qui provient du XO, y compris textes,
-dictionnaires, documentation, etc. peut être localisé. Des livres
-électroniques, en format PDF, DOC, HTML et d'autres medias peuvent être
+dictionnaires, documentation, etc., peut être localisé. Des livres
+électroniques, en format PDF, DOC, HTML et d'autres médias peuvent être
 préchargés dans le XO en tant que dossier. Renseignez-vous auprès d'OLPC
 pour des suggestions adéquates sur des supports potentiellement utiles et
-pour des pré-chargements de contenu. 
+pour des pré-chargements de contenu.
 
 Par ailleurs tout déploiement peut décider de « déployer » des ordinateurs
 possédant une image personnalisée ; cela correspondrait à la sélection
-d'activités du XO conçues par l'équipe locale de déploiement. La possiblité
-de charger une image personnalisée sur le XO au moment de la fabrication
-dépend du niveau de compétences et d'investissement de ses conseillers
-techniques et éducatifs. Il y a de plus un nombre minimum de commandes à
-passer pour charger une image personnalisée à ce moment-là, puisqu'elle
-demande des tests supplémentaires et une certaine maintenance. En effet,
-OLPC apporte des directives techniques aux projets concernant ce processus
-; mais celui-ci ne peut être apporté aux images personnalisées parce que
-ces dernières doivent être définies par les équipes principales. Les
-sponsors intéressés par ces images personnalisées devraient se mettre en
-contact avec le personnel technique d'OLPC qui pourra évaluer la longévité
-de cette possibilité. Si un accord est décidé à ce sujet (créer une image
-personnalisée lors de la fabrication), l'image finale devra être présentée
-à OLPC au plus tard 4 semaines avant la fabrication des XO en question. 
+d'activités du XO conçues par l'équipe locale de déploiement. La
+possibilité de charger une image personnalisée sur le XO au moment de la
+fabrication dépend du niveau de compétences et d'investissement de ses
+conseillers techniques et éducatifs. Il y a de plus un nombre minimum de
+commandes à passer pour charger une image personnalisée à ce moment-là,
+puisqu'elle demande des tests supplémentaires et une certaine
+maintenance. En effet, OLPC apporte des directives techniques aux projets
+concernant ce processus ; mais celui-ci ne peut être apporté aux images
+personnalisées parce que ces dernières doivent être définies par les
+équipes principales. Les sponsors intéressés par ces images personnalisées
+devraient se mettre en contact avec le personnel technique d'OLPC qui
+pourra évaluer la longévité de cette possibilité. Si un accord est trouvé
+pour créer une image personnalisée lors de la fabrication, l'image finale
+devra être présentée à OLPC au plus tard 4 semaines avant la fabrication
+des XO concernés.
 
 Une fois que le XO aura été personnalisé pour un pays en particulier, il
-sera prêt à être utilisé. Cependant, au vu des variations dans les
-programmes éducatif et la langue, il pourrait être utile de choisir
-certaines activités spécifiques à installer sur le XO comme faisant partie
-d'une « image personnalisée », ainsi que de passer en revue le contenu
-disponible dans la langue locale afin de vérifier si un travail devait être
-fait au niveau de la traduction ou de la fourniture de nouveaux contenus
-plus adaptés à la culture du pays concerné ; ceci pourrait comprendre les
-actions suivantes : 
+sera prêt à être utilisé. Cependant, au vu des variétés de programmes
+éducatifs et de langues, il pourrait être utile de choisir certaines
+activités spécifiques à installer sur le XO en tant  « qu'image
+personnalisée »; il serait aussi utile de passer en revue le contenu
+disponible dans la langue locale afin de vérifier si un travail devrait
+être fait au niveau de la traduction ou de la fourniture de nouveaux
+contenus plus adaptés à la culture locale, comme par exemple :
 
 #+index: XO!Curriculum
 #+index: Sugar!Activités
@@ -108,62 +108,61 @@ actions suivantes :
 #+index: Langage
 #+index: Traduction
 
-- préchargement d'activités Sugar spécifiques dans le but de soutenir des
-  besoins courants en regard de l'enseignement, de l'apprentissage et de la
-  communauté ; 
+- le préchargement d'activités Sugar spécifiques dans le but de soutenir
+  des besoins courants en regard de l'enseignement, de l'apprentissage et
+  de la communauté ;
 
-- préchargement de contenu d'activités (tel que le livre électronique) ; 
+- le préchargement de contenu d'activités (tel que le livre électronique) ;
 
-- personnalisation des marques-pages dans le navigateur, dédié à
-  l'enseignement spécifique du pays de déploiement ; 
+- personnalisation des marques-pages dans le navigateur, selon
+  l'enseignement spécifique au pays de déploiement ;
 
 - l'ajout de cartes ; 
 
-- la traductions de Sugar et des activités chargées sur le XO (afin que les
+- la traduction de Sugar et des activités chargées sur le XO (afin que les
   messages provenant du système, des menus et des touches soient dans la
   langue locale) ; 
 
-- la traductions du contenu des activités (afin que leur contenu soit
+- la traduction du contenu des activités (afin que leur contenu soit
   indiqué dans la langue locale, comme les livres électroniques ou le nom
   des lieux sur les cartes) ; 
 
-- le développment d'activités Sugar personnalisées afin de rejoindre des
-  besoins ou une histoire spécifiques. 
+- le développement d'activités Sugar personnalisées afin de répondre à des
+  besoins ou à une histoire spécifiques.
 
 L'option XO d'image personnalisée demande un certain niveau de compétences
-et d'investissement de la part desde construction mais la responsabilité de
-tester les « paquets » demeure aux mains des équipes locales. 
+et d'investissement de la part des constructeurs et la responsabilité de
+tester les « paquets » reste en main des équipes locales.
 
 * Contrat d'achat
 
-OLPC s'engage à reconnaître un soutien d'un sponsor à un projet une fois
-qu'elle a reçu un contrat signé ainsi qu'une lettre de crédit en faveur
-d'OLPC à raison de 100 % de la valeur des ordinateurs portables. OLPC
-accepte également des transfets de paiement par telex en lieu et place de
-lettres de crédit. 
+OLPC s'engage à reconnaître le soutien d'un sponsor à un projet une fois
+qu'elle a reçu un contrat signé ainsi qu'une lettre de crédit en sa faveur
+à raison de 100% de la valeur des XO. OLPC accepte également des
+transferts de paiement par télex en lieu et place de lettres de crédit.
 
 Le contrat d'achat comporte cinq sections importantes : 
 
-1. les spécifications détaillées de l'ordinateur portable, comprenant la
-   configuration mémoire RAM et flash ;
+1. les spécifications détaillées du XO, comprenant la configuration mémoire
+   RAM et flash ;
 2. le nombre d'ordinateurs commandés ainsi que le prix CIF de chaque
    ordinateur ;
 3. la date de livraison ;
 4. les termes de guarantie et de conditions d'utilisation ; 
-5. les chapitres légaux standard, comme lois gouvernementales et résolution
-   de problèmes.
+5. les chapitres légaux standards, tels que les lois gouvernementales et
+   résolution de problèmes.
 
 
-Lors de l'achat d'une grande quantité de XO, OLPC travaille sur un accord
+Lors de l'achat d'une grande quantité de XO, OLPC travaille selon un accord
 contractuel précisant les modalités et conditions des commandes de XO. OLPC
-a un modèle de contrat qui peut être modifiée en conformité avec les
-exigences du déploiement. Les points abordées dans le contrat OLPC incluent
+a un modèle de contrat qui peut être modifié en conformité avec les
+exigences du déploiement. Les points abordés dans le contrat OLPC incluent
 les termes de paiement, la garantie, les directives concernant la lettre de
-crédit et d'autres sujets se rapportant au processus d'approvisionnement en
-XO. Le personnel financier d'OLPC, de la chaîne d'approvisionnement et de
-logistique travaillent en étroite collaboration pour garantir que les
-délais et conditions énoncées dans l'entente contractuelle soient
-respectés. 
+crédit ainsi que d'autres points concernant le processus
+d'approvisionnement en XO.  Le personnel financier d'OLPC travaille en
+étroite collaboration avec la chaîne d'approvisionnement et la logistique
+afin de respecter et garantir les délais et conditions énoncés dans
+l'entente contractuelle.
 
 ** Modalités de paiement et Incoterms
 
@@ -171,112 +170,110 @@ respectés.
 #+index: Incoterms
 
 L'option de paiement la plus courante pour les commandes de XO à grande
-échelle est de 20 % par acompte et de 80 % payables par lettre de crédit
+échelle est de 20 % par acompte et de 80 % payable par lettre de crédit
 transférable. Le modèle OLPC permettant d'établir des lettres de crédit
-transférable peut être trouvé dans le contrat d'OLPC. Le personnel
+transférables peut être trouvé dans le contrat d'OLPC. Le personnel
 financier d'OLPC s'engage à répondre efficacement et rapidement aux
-questions finacièrers relatives à l'achat par OLPC. L'Incoterm utilisé pour
-l'achat de grandes commandes de XO est le CIF (coût, assurance et fret,
-Incoterms 2010). Le terme CIF signifie que le vendeur (OLPC) est
-responsable des coûts d'expédition et d'assurance du pays d'origine au port
-de destination. 
+questions financières relatives à l'achat. L'Incoterm utilisé pour l'achat
+de grandes commandes de XO est le CIF (coût, assurance et fret, Incoterms
+2010). Le terme CIF signifie que le vendeur (OLPC) est responsable des
+coûts d'expédition et d'assurance du pays d'origine au port de
+destination. 
 
 L'acheteur de la cargaison est responsable de tous les coûts associés au
 transport une fois que les marchandises sont livrées au port de
 destination. Ces coûts comprennent l'entrée des douanes et le prix de
-dédouanement, les droits et taxes d'entrée, frais de surestaries, les
-redevances d'amérissage au port de l'importateur, le déchargement sur des
-camions à ce port et la livraison à la destination finale. 
+dédouanement, les droits et taxes d'entrée, les surtaxes, les redevances
+d'amerrissage au port de l'importateur, le déchargement sur des camions à
+ce port et la livraison à la destination finale.
 
 ** Garantie 
 
 #+index: Garantie
 
-Toutes les commandes de XO sont livrées avec 1 % unités supplémentaires en
-lieu et place d'une garantie conventionnelle sur le matériel. Ces unités
-sont expédiés sans frais supplémentaires. De plus, OLPC fournit une
+Toutes les commandes de XO sont livrées avec 1 % d'unités supplémentaires
+en lieu et place d'une garantie conventionnelle sur le matériel. Ces unités
+sont expédiées sans frais supplémentaires. De plus, OLPC fournit une
 garantie limitée en cas de problème sur la série. Les détails sur cette
-garantie sont dans le contrat d'OLPC. 
+garantie sont dans le contrat d'OLPC.
 
 ** Frais de douane et taxes 
 
+#+index: Douane
 
-Les frais de douanes et les taxes associés au transport de XO varient
-suivant les règles de l'autorité des douanes locales. Les frais de douanes
-sont parfois très élevés, pouvant parfois atteindre 20 % de la valeur
-commercial. Afin d'éviter de tels taxes, OLPC recommande que l'équipe
-locale fasse des recherches pour obtenir une exonération fiscale lorsque
-possible. 
+Les frais de douanes et taxes associés au transport des XO varient selon
+les règles en vigueur des douanes locales. Les frais de douane sont parfois
+très élevés, allant jusqu'à atteindre 20% de la valeur commerciale. Afin
+d'éviter de telles taxes, OLPC recommande à l'équipe locale d'effectuer des
+recherches afin d'obtenir une exonération fiscale lorsque cela est
+possible.
+
+#+index: Exonération fiscale
 
 Obtenir une exonération fiscale sur les XO importés à des fins éducatives
-peut exiger l'autorisation d'un certain nombre de collectivités locales, ce
-qui peut demander une plus grande organisation. Les autorités douanières
-locales doivent être consultées sur ce procédé vous permettant également
-d'obtenir une idée de temps nécessaire afin de recevoir une reconnaissance
-de l'exemption. OLPC est en mesure de fournir toute la documentation
-nécessaire permettant de traiter une demande d'exemption auprès des
-autorités locales. 
-
+peut demander l'autorisation d'un certain nombre de collectivités locales,
+ce qui peut amène à une organisation plus importante. Les autorités
+douanières locales doivent être consultées sur ce procédé, ce qui permet
+également d'obtenir une idée du temps nécessaire pour l'obtention d'une
+reconnaissance d'exemption. OLPC fournit toute la documentation nécessaire
+pour une demande d'exemption auprès des autorités locales.
 
 ** Pièces de rechange
 
 #+index: XO!Pièces de rechange
 
 
-Des pièces de rechange pour les XO peuvent être achetés en même temps que
-la commande d'ordinateur initial, mais aussi par la suite. OLPC peut aider
-l'équipe en charge pour l'achat de pièces détachées avec le
-constructeur. Les pièces détachées sont disponibles pour une quantité
-minimales. Si les pièces de rechange sont achetées avec une commande
-initiale, OLPC peut recommander certaines pièces et les quantités. 
+Des pièces de rechange pour les XO peuvent être achetées en même temps que
+la commande initiale de XO et également par la suite. OLPC peut aider
+l'équipe en charge pour l'achat de pièces détachées au
+constructeur. Celles-ci sont disponibles pour des commandes en quantité
+minimale. Si les pièces de rechange sont achetées lors de la commande
+initiale, OLPC peut recommander certaines pièces en particulier ainsi que
+les quantités requises. 
 
-Le personnel de logistique OLPC basé à Miami, en Floride, suit chaque
-commande de la récéption de la lettre de crédit à la livraison de la
-commande au port de destination. Il est de la responsabilité des
-commanditaires locaux de faire passer la douane aux unités
-commandées. L'équipe locale est seule responsable de la suite, taxes, frais
-et autres coûts liés aux services de transport suivant. En outre, cette
-équipe est également responsable de tous les frais de transfert des
-ordinateurs du quai à l'entrepôt. 
-
+La logistique OLPC, basée à Miami en Floride, suit chaque commande depuis
+la réception de la lettre de crédit jusqu'à la livraison de la commande au
+port de destination. Il est de la responsabilité des commanditaires locaux
+de faire passer la douane aux unités commandées. L'équipe locale est seule
+responsable des transports suivants et des taxes, frais et autres coûts qui
+y seraient liés ainsi que de tous les frais de transfert des ordinateurs du
+quai à l'entrepôt.
 
 * Processus de commande de XO et délai de production
 
 #+index: XO!Commande
 #+index: XO!Délai de production
 
-Afin de minimiser le coût final, OLPC fabrique les ordinateurs portables à
-la commande afin de ne pas à avoir à maintenir un inventaire. Officialiser
-l'engagement d'acheter des ordinateurs portables XO permet à OLPC de
-travailler avec l'équipe centrale afin d'établir un calendrier de
-déploiement permettant un déploiement efficace. 
+Afin de minimiser le coût final, OLPC fabrique les XO lors de chaque
+commande afin de ne pas à avoir à maintenir un inventaire. Officialiser
+l'engagement d'achat de XO permet à OLPC de travailler avec l'équipe
+principale pour l'établissement d'un calendrier de déploiement permettant
+un déploiement efficace.
 
 Dès réception du paiement (paiement d'avance ou lettre de crédit), OLPC
-envoie un ordre d'achat au producteur, qui prend 1 à 2 semaines de
-traitement. Il faut normalement 12 à 16 semaines pour fabriquer les
-ordinateurs portables. La société a la capacité de produire 240.000
-ordinateurs portables par mois pour OLPC, bien que les commandes
-préexistante d'OLPC risque de réduire cette capacité. Cependant, peu de
-projets sont capables de traiter plus de 50.000 ordinateurs portables
-arrivant en un seul mois. OLPC prévoie normalement six semaines pour
-l'expédition maritime des XO. La livraison des portables par avion prend
-moins de temps, cependant, le fret aérien est plus coûteux et n'est pas
-recommandé. 
+envoie un ordre d'achat au producteur qui prend 1 à 2 semaines de
+traitement. Il faut normalement 12 à 16 semaines pour fabriquer les XO. Le
+fabriquant peut produire 240.000 XO par mois pour OLPC, bien que des
+commandes préexistante d'OLPC risquent de réduire cette capacité. Cependant
+peu de projets peuvent traiter l'arrivée de plus de 50.000 XO en un seul
+mois. OLPC prévoit normalement six semaines pour l'expédition maritime des
+XO. La livraison de ceux-ci par avion prend moins de temps mais en raison
+du coût de fret aérien, il n'est pas recommandé.
 
-Le temps de transit estimé pour la livraison de fret maritime est de 1 à 6
-semaines une fois que les XO sont disponibles chez le fabricant. Lors de la
-planification du déploiement, veuillez prévoir de 14 à 24 semaines entre le
-reçu du paiement et la date à laquelle vous pouvez estimer recevoir les XO
-dans le port désigné. OLPC travaillera avec votre équipe de déploiement
-afin d'établir un calendrier de livraison. Selon la quantité XO commandée,
-la livraison peut être effectuée en une ou plusieurs fois. Les questions à
-considérer lors de l'élaboration de votre calendrier de livraison des XO
-devraient comprendre : la date à laquelle les ordinateurs sont nécessaires
-pour la formation des enseignants, le temps requis pour faire l'inventaire
-des livraisons, le temps de transit de la livraison finale des XO à leur
-destination ou sur un site de distribution, etc. Ces informations aiderons
-OLPC au travers de l'équipe de base afin d'établir un calendrier de
-livraison complet et efficace des XO. 
+Le temps de transit estimé pour une livraison par fret maritime est de 1 à
+6 semaines une fois que les XO sont disponibles chez le fabricant. Lors de
+la planification du déploiement, veuillez prévoir de 14 à 24 semaines entre
+le reçu du paiement et la date à laquelle vous pouvez estimer recevoir les
+XO dans le port désigné. OLPC travaillera avec votre équipe de déploiement
+afin d'établir un calendrier de livraison. Selon la quantité de XO
+commandés, la livraison sera effectuée en une ou plusieurs fois. Les
+questions à prendre en compte lors de l'élaboration de votre calendrier de
+livraison des XO devraient comprendre : la date à laquelle les XO sont
+nécessaires pour la formation des enseignants, le temps requis pour faire
+l'inventaire des livraisons, le temps de transit de la livraison finale des
+XO à leur destination ou sur un site de distribution, etc. Ces informations
+aideront OLPC, via l'équipe principale, à établir un calendrier de
+livraison des XO complet et efficace.
 
 [[file:~/install/git/OLPC-Deployment--community--guide/images/10_xo_order_process_fr.jpg]]
 

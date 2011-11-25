@@ -34,7 +34,7 @@ que tous puissent partager des informations et voir les progrès des
 élèves. De nombreux projets prévoient également des concours intégrant les
 XO (ils peuvent être financés par des sponsors privés). D'autres idées
 permettant d'impliquer la communauté dans le projet sont disponibles sur
-les sites internet et les portails créés par d'autres projets OLPC dans le
+les sites Internet et les portails créés par d'autres projets OLPC dans le
 monde. 
 
 Chaque projet devrait avoir en parallèle un programme de relations
