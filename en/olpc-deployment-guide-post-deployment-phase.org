@@ -3,7 +3,11 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
-[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+- [[file:olpc-deployment-guide-deployment-phase.org][Deployment Phase]]
+- [[file:index.org][Table of contents]]
+- [[file:olpc-deployment-guide-summary-of-recommended-tasks.org][Summary of Recommended Tasks]]
+#+HTML: </div>
 
 There is a tremendous tendency to think that the work is done once the
 laptops reach the children, but the laptop arrival really marks the
@@ -156,4 +160,8 @@ dependency that is unnecessary.  If you feel the need to invest in support,
 we encourage you to make that investment locally, the local community can
 be trained by technical team to do this themselves.
 
-[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+- [[file:olpc-deployment-guide-deployment-phase.org][Deployment Phase]]
+- [[file:index.org][Table of contents]]
+- [[file:olpc-deployment-guide-summary-of-recommended-tasks.org][Summary of Recommended Tasks]]
+#+HTML: </div>

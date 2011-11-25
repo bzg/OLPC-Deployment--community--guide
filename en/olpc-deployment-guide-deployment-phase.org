@@ -3,7 +3,12 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
-[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+- [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org][Purchase Agreements and Ordering Process]]
+- [[file:index.org][Table of contents]]
+- [[file:olpc-deployment-guide-post-deployment-phase.org][Post Deployment Phase]]
+#+HTML: </div>
+
 
 The deployment phase includes all events that occur between laptop order
 placement with the manufacturer and final distribution of XOs to schools
@@ -534,4 +539,8 @@ The amount of power required for school servers depends on the
 specifications of machines used.  This needs to be taken into consideration
 during site preparation.
 
-[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+- [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org][Purchase Agreements and Ordering Process]]
+- [[file:index.org][Table of contents]]
+- [[file:olpc-deployment-guide-post-deployment-phase.org][Post Deployment Phase]]
+#+HTML: </div>

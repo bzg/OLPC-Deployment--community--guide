@@ -3,7 +3,11 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
-[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+- [[file:olpc-deployment-guide-introduction-to-deployment-guide.org][Introduction to Deployment Guide]]
+- [[file:index.org][Table of contents]]
+- [[file:olpc-deployment-guide-olpc-support-strategy.org][OLPC Support Strategy]]
+#+HTML: </div>
 
 An OLPC project has a direct impact on children and their learning
 outcomes.  Other actors that are equally impacted by the project are the
@@ -70,4 +74,8 @@ and required skills of the Core Team members:
 
 [[file:~/install/git/OLPC-Deployment--community--guide/images/6_core_team_skills_3.jpg]]
 
-[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+- [[file:olpc-deployment-guide-introduction-to-deployment-guide.org][Introduction to Deployment Guide]]
+- [[file:index.org][Table of contents]]
+- [[file:olpc-deployment-guide-olpc-support-strategy.org][OLPC Support Strategy]]
+#+HTML: </div>

@@ -3,7 +3,11 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
-[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+- [[file:olpc-deployment-guide-feasibility-study.org][Feasibility study]]
+- [[file:index.org][Table of contents]]
+- [[file:olpc-deployment-guide-deployment-phase.org][Deployment Phase]]
+#+HTML: </div>
 
 This section describes the customary process prior to ordering laptops
 which includes certain decisions about the technical features of the XO and
@@ -260,4 +264,8 @@ delivery schedule.
 
 [[file:~/install/git/OLPC-Deployment--community--guide/images/10_xo_order_process.jpg]]
 
-[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+- [[file:olpc-deployment-guide-feasibility-study.org][Feasibility study]]
+- [[file:index.org][Table of contents]]
+- [[file:olpc-deployment-guide-deployment-phase.org][Deployment Phase]]
+#+HTML: </div>

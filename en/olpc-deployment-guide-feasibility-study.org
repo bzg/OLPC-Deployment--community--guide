@@ -3,7 +3,12 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
-[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+- [[file:olpc-deployment-guide-planning-phase.org][Planning Phase]]
+- [[file:index.org][Table of contents]]
+- [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org][Purchase Agreements and Ordering Process]]
+#+HTML: </div>
+
 
 The feasibility study can provide data for enhanced decision-making and
 budgeting purposes.  It is recommended that project sponsors perform this
@@ -67,4 +72,8 @@ three hours if the laptop is turned off.  If the laptop is running, then
 full sun with the 10W panel will provide enough average power to run the
 laptop and slowly charge the battery (in about six hours).
 
-[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+- [[file:olpc-deployment-guide-planning-phase.org][Planning Phase]]
+- [[file:index.org][Table of contents]]
+- [[file:olpc-deployment-guide-purchase-agreements-and-ordering-process.org][Purchase Agreements and Ordering Process]]
+#+HTML: </div>

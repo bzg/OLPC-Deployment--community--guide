@@ -2,7 +2,11 @@
 #+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
 #+DATE: 2011-09-12
 
-[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+- [[file:olpc-deployment-guide-olpc-learning-strategy.org][OLPC Learning Strategy]]
+- [[file:index.org][Table of contents]]
+- [[file:olpc-deployment-guide-project-implementation.org][Project Implementation]]
+#+HTML: </div>
 
 This document provides guidelines for program directors (government
 officials, foundations, private funders, etc.)  conducting One Laptop per
@@ -29,4 +33,8 @@ an action timeline.
 
 [[file:~/install/git/OLPC-Deployment--community--guide/images/1_deploy_phases_overview.jpg]]
 
-[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+- [[file:olpc-deployment-guide-olpc-learning-strategy.org][OLPC Learning Strategy]]
+- [[file:index.org][Table of contents]]
+- [[file:olpc-deployment-guide-project-implementation.org][Project Implementation]]
+#+HTML: </div>

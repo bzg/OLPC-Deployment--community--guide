@@ -3,7 +3,11 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
-[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+- [[file:olpc-deployment-guide-post-deployment-phase.org][Post Deployment Phase]]
+- [[file:index.org][Table of contents]]
+- [[file:olpc-deployment-guide-related-websites.org][Related websites]]
+#+HTML: </div>
 
 * Planning Phase
 
@@ -38,3 +42,9 @@
 - Perform follow up teacher trainings.
 - Design and apply Evaluation studies (for students learning and project
   implementation).
+
+#+HTML: <div class="menu">
+- [[file:olpc-deployment-guide-post-deployment-phase.org][Post Deployment Phase]]
+- [[file:index.org][Table of contents]]
+- [[file:olpc-deployment-guide-related-websites.org][Related websites]]
+#+HTML: </div>

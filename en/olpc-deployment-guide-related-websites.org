@@ -3,7 +3,11 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
-[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+- [[file:olpc-deployment-guide-summary-of-recommended-tasks.org][Summary of Recommended Tasks]]
+- [[file:index.org][Table of contents]]
+- [[file:theindex.org][Index]]
+#+HTML: </div>
 
 - Official OLPC website: http://laptop.org
 
@@ -24,3 +28,9 @@
 
 The Sugar Labs Wiki, provider of the Sugar software environment and
 activities that run on the XO laptops.
+
+#+HTML: <div class="menu">
+- [[file:olpc-deployment-guide-summary-of-recommended-tasks.org][Summary of Recommended Tasks]]
+- [[file:index.org][Table of contents]]
+- [[file:theindex.org][Index]]
+#+HTML: </div>

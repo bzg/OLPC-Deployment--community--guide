@@ -3,7 +3,11 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
-[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+- [[file:olpc-deployment-guide-project-implementation.org][Project Implementation]]
+- [[file:index.org][Table of contents]]
+- [[file:olpc-deployment-guide-planning-phase.org][Planning Phase]]
+#+HTML: </div>
 
 #+index: Assistance
 #+index: Support!Strategy
@@ -77,4 +81,8 @@ countries.  The objective of the programs is for interns to work closely
 with the core team and to provide support in different areas of the
 projects depending on their backgrounds and areas of study.
 
-[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+- [[file:olpc-deployment-guide-project-implementation.org][Project Implementation]]
+- [[file:index.org][Table of contents]]
+- [[file:olpc-deployment-guide-planning-phase.org][Planning Phase]]
+#+HTML: </div>

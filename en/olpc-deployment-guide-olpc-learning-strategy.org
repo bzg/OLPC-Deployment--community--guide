@@ -3,7 +3,11 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
-[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+- [[file:olpc-deployment-guide-one-laptop-per-child.org][One Laptop per Child]]
+- [[file:index.org][Table of contents]] 
+- [[file:olpc-deployment-guide-introduction-to-deployment-guide.org][Introduction to Deployment Guide]]
+#+HTML: </div>
 
 “It’s an education project, not a laptop project”
 
@@ -68,4 +72,8 @@ different media and in computer programming skills.  Sugar promotes
 collaborative learning through Activities that encourage critical thinking,
 collaboration, and reflection.
 
-[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+- [[file:olpc-deployment-guide-one-laptop-per-child.org][One Laptop per Child]]
+- [[file:index.org][Table of contents]] 
+- [[file:olpc-deployment-guide-introduction-to-deployment-guide.org][Introduction to Deployment Guide]]
+#+HTML: </div>

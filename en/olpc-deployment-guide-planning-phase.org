@@ -3,7 +3,11 @@
 #+DATE: 2011-09-12
 #+OPTIONS: toc:nil
 
-[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+- [[file:olpc-deployment-guide-olpc-support-strategy.org][OLPC Support Strategy]]
+- [[file:index.org][Table of contents]]
+- [[file:olpc-deployment-guide-feasibility-study.org][Feasibility study]]
+#+HTML: </div>
 
 The planning phase initiates with the idea of starting a project with One
 Laptop Per Child and concludes once an order is placed with the
@@ -130,4 +134,8 @@ operating costs and salaries for employees.
 
 [[file:~/install/git/OLPC-Deployment--community--guide/images/8_financial_assumptions.jpg]]
 
-[[file:index.org][Table of contents]] -- [[file:theindex.org][Index]]
+#+HTML: <div class="menu">
+- [[file:olpc-deployment-guide-olpc-support-strategy.org][OLPC Support Strategy]]
+- [[file:index.org][Table of contents]]
+- [[file:olpc-deployment-guide-feasibility-study.org][Feasibility study]]
+#+HTML: </div>
