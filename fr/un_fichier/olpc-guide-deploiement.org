@@ -8,9 +8,9 @@
 #+LATEX_HEADER: \geometry{left=1.2in,right=1.2in,top=1.2in,bottom=1.2in}
 #+OPTIONS: toc:t num:t skip:nil
 
-\listoffigures
-\listoftables
-\pagebreak
+#+LaTeX: \listoffigures
+#+LaTeX: \listoftables
+#+LaTeX: \pagebreak
 
 * One Laptop Per Child
 
@@ -1500,7 +1500,7 @@ La quantité d'énergie nécessaire pour les serveurs d'école dépend des
 spécifications des machines utilisées.  Cela doit être pris en
 considération lors de la préparation sur place.
 
-\pagebreak
+#+LaTeX: \pagebreak
 
 * Phase de post-déploiement
 
@@ -1716,3 +1716,37 @@ place pouvant être formée aux réparations par notre équipe technique.
 - La Foire aux Questions : http://wiki.laptop.org/go/Support_FAQ
 - Le wiki de Sugar Labs, qui fournit l'environnement Sugar et les activités
   qui tournent sur les ordinateurs XO.
+- Le site d'OLPC France : http://olpc-france.org
+
+* Licence, versions et crédits
+
+** Licence
+
+Ce document est sous licence Creative Commons [[http://creativecommons.org/licenses/by/3.0/][CC BY 3.0]].  Il est permis à
+quiconque d'utiliser ce document et d'en produire des versions dérivées
+tant que la source et l'auteur original (One Laptop Per Child) sont cités.
+
+** Versions
+
+La version anglaise de ce document est disponible [[http://wiki.laptop.org/images/1/1c/OLPC_Deployment_Guide_2011.pdf][au format PDF]] et [[http://wiki.laptop.org/go/Deployment_Guide_2011][en
+version Wiki]] sur le site d'OLPC.
+
+Les sources pour la traduction sont disponibles via [[https://github.com/bzg/OLPC-Deployment--community--guide][ce dépôt git]], qui
+contient le fichier original (PDF), une version en [[http://fr.wikipedia.org/wiki/OpenDocument][Open Document Format]] et
+une version texte utilisant le format [[http://orgmode.org][Org-mode]].  Les conversions en =.odt=
+=HTML= et =PDF= ont été effectuées via org-mode.
+
+Le site d'OLPC France héberge [[http://olpc-france.org/guide-deploiement/olpc-guide-deploiement.pdf][une version PDF]] et une [[http://olpc-france.org/guide-deploiement/olpc-guide-deploiement.html][version HTML]].  Il
+existe aussi une [[http://olpc-france.org/guide-deploiement/index.html][version en ligne]] que nous vous engageons à /commenter/:
+posez-y toutes les questions que vous avez sur les déploiments OLPC ou 
+sur le guide lui-même, OLPC France essaiera d'y répondre.
+
+** Crédits
+
+La traduction française a été faite par OLPC France entre septembre et
+novembre 2011.  Merci aux membres d'OLPC France qui y ont contribué :
+
+- Cécile Wyler Roulet
+- Kévin Raymond
+- Pierre Varly
+- Bastien Guerry

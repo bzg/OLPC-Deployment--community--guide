@@ -15,4 +15,5 @@
 * [[file:olpc-deployment-guide-phase-post-deploiement.org][Phase de post-déploiement]]
 * [[file:olpc-deployment-guide-resume-taches.org][Résumé des tâches recommandées]]
 * [[file:olpc-deployment-guide-liens-utiles.org][Liens utiles]]
+* [[file:olpc-deployment-guide-licence-source-credits.org][Licence, source et crédits]]
 * [[file:theindex.org][Index]]
