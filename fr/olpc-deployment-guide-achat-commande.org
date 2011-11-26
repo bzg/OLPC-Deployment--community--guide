@@ -4,11 +4,9 @@
 #+OPTIONS: toc:nil
 
 #+HTML: <div class="menu">
-
 - [[file:olpc-deployment-etude-faisabilite.org][Étude de faisabilité]]
 - [[file:index.org][Table des matières]]
 - [[file:olpc-deployment-guide-phase-de-deploiement.org][Phase de déploiement]]
-
 #+HTML: </div>
 
 Ce chapitre décrit le processus habituel précédant la commande des
@@ -16,7 +14,7 @@ ordinateurs portables ; il indique les décisions à prendre en ce qui
 concerne les aspects techniques des XO et les accords contractuels en
 découlant.
 
-* Choix du XO 
+* Choix du XO
 
 #+index: XO
 
@@ -39,13 +37,13 @@ conçus pour s'adapter à différents claviers.
 
 Il existe deux types d'adaptateurs, l'un pour des prises murales et l'autre
 en bloc d'alimentation. L'adaptateur AC pour le XO dispose d'une entrée
-100-240 volts ; trois options sont disponibles : 
+100-240 volts ; trois options sont disponibles :
 
-- 2 broches plates (US) 
-- 2 broches rondes (EU) 
-- 3 broches plates (UK) 
+- 2 broches plates (US)
+- 2 broches rondes (EU)
+- 3 broches plates (UK)
 
-** Mémoire 
+** Mémoire
 
 #+index: XO!Mémoire
 
@@ -56,7 +54,7 @@ ses performances et réduire sa consommation d'énergie. Le type de mémoire
 par défaut est d'1 Gio de RAM et de 4 Gio de mémoire flash. En fonction du
 budget et des conditions d'utilisation, il est possible de sélectionner un
 SSD plus rapide ou plus important afin que le XO puisse améliorer ses
-performances et sa capacité de stockage. 
+performances et sa capacité de stockage.
 
 ** COMMENT Contenu et personnalisation de l'image d'installation
 
@@ -117,15 +115,15 @@ contenus plus adaptés à la culture locale, comme par exemple :
 - personnalisation des marques-pages dans le navigateur, selon
   l'enseignement spécifique au pays de déploiement ;
 
-- l'ajout de cartes ; 
+- l'ajout de cartes ;
 
 - la traduction de Sugar et des activités chargées sur le XO (afin que les
   messages provenant du système, des menus et des touches soient dans la
-  langue locale) ; 
+  langue locale) ;
 
 - la traduction du contenu des activités (afin que leur contenu soit
   indiqué dans la langue locale, comme les livres électroniques ou le nom
-  des lieux sur les cartes) ; 
+  des lieux sur les cartes) ;
 
 - le développement d'activités Sugar personnalisées afin de répondre à des
   besoins ou à une histoire spécifiques.
@@ -141,14 +139,14 @@ qu'elle a reçu un contrat signé ainsi qu'une lettre de crédit en sa faveur
 à raison de 100% de la valeur des XO. OLPC accepte également des
 transferts de paiement par télex en lieu et place de lettres de crédit.
 
-Le contrat d'achat comporte cinq sections importantes : 
+Le contrat d'achat comporte cinq sections importantes :
 
 1. les spécifications détaillées du XO, comprenant la configuration mémoire
    RAM et flash ;
 2. le nombre d'ordinateurs commandés ainsi que le prix CIF de chaque
    ordinateur ;
 3. la date de livraison ;
-4. les termes de guarantie et de conditions d'utilisation ; 
+4. les termes de guarantie et de conditions d'utilisation ;
 5. les chapitres légaux standards, tels que les lois gouvernementales et
    résolution de problèmes.
 
@@ -178,7 +176,7 @@ questions financières relatives à l'achat. L'Incoterm utilisé pour l'achat
 de grandes commandes de XO est le CIF (coût, assurance et fret, Incoterms
 2010). Le terme CIF signifie que le vendeur (OLPC) est responsable des
 coûts d'expédition et d'assurance du pays d'origine au port de
-destination. 
+destination.
 
 L'acheteur de la cargaison est responsable de tous les coûts associés au
 transport une fois que les marchandises sont livrées au port de
@@ -187,7 +185,7 @@ dédouanement, les droits et taxes d'entrée, les surtaxes, les redevances
 d'amerrissage au port de l'importateur, le déchargement sur des camions à
 ce port et la livraison à la destination finale.
 
-** Garantie 
+** Garantie
 
 #+index: Garantie
 
@@ -197,7 +195,7 @@ sont expédiées sans frais supplémentaires. De plus, OLPC fournit une
 garantie limitée en cas de problème sur la série. Les détails sur cette
 garantie sont dans le contrat d'OLPC.
 
-** Frais de douane et taxes 
+** Frais de douane et taxes
 
 #+index: Douane
 
@@ -229,7 +227,7 @@ l'équipe en charge pour l'achat de pièces détachées au
 constructeur. Celles-ci sont disponibles pour des commandes en quantité
 minimale. Si les pièces de rechange sont achetées lors de la commande
 initiale, OLPC peut recommander certaines pièces en particulier ainsi que
-les quantités requises. 
+les quantités requises.
 
 La logistique OLPC, basée à Miami en Floride, suit chaque commande depuis
 la réception de la lettre de crédit jusqu'à la livraison de la commande au
@@ -278,12 +276,7 @@ livraison des XO complet et efficace.
 [[file:~/install/git/OLPC-Deployment--community--guide/images/10_xo_order_process_fr.jpg]]
 
 #+HTML: <div class="menu">
-
 - [[file:olpc-deployment-etude-faisabilite.org][Étude de faisabilité]]
 - [[file:index.org][Table des matières]]
 - [[file:olpc-deployment-guide-phase-de-deploiement.org][Phase de déploiement]]
-
 #+HTML: </div>
-
-
-

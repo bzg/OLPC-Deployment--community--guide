@@ -24,7 +24,7 @@ chacun d'entre eux un XO robuste, bon marché et à basse consommation
 d'énergie ; et proposant de plus un contenu et des logiciels faits pour
 apprendre de manière indépendante, collaborative et ludique.
 
-* Les cinq principes fondamentaux 
+* Les cinq principes fondamentaux
 
 - Propriété de l'enfant :: L'accès permanent à l'information et aux
      activités proposées par le XO amène un environnement mobile et
@@ -57,8 +57,6 @@ apprendre de manière indépendante, collaborative et ludique.
 * Navigation
 
 #+HTML: <div class="menu">
-
 - [[file:index.org][Table des matières]]
 - [[file:olpc-deployment-guide-strategie-apprentissage.org][Stratégie d'apprentissage]]
-
-#+HTML: </div>  
+#+HTML: </div>

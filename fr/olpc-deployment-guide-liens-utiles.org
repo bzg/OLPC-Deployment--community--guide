@@ -4,11 +4,9 @@
 #+OPTIONS: toc:nil
 
 #+HTML: <div class="menu">
-
 - [[file:olpc-deployment-guide-resume-taches.org][Résumé des tâches recommandées]]
 - [[file:index.org][Table des matières]]
 - [[file:theindex.org][Index]]
-
 #+HTML: </div>
 
 * Liens utiles
@@ -24,9 +22,7 @@
   qui tournent sur les ordinateurs XO.
 
 #+HTML: <div class="menu">
-
 - [[file:olpc-deployment-guide-resume-taches.org][Résumé des tâches recommandées]]
 - [[file:index.org][Table des matières]]
 - [[file:theindex.org][Index]]
-
 #+HTML: </div>

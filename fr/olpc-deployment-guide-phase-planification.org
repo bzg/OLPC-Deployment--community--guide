@@ -4,11 +4,9 @@
 #+OPTIONS: toc:nil
 
 #+HTML: <div class="menu">
-
 - [[file:olpc-deployment-guide-strategie-support.org][Stratégie de support]]
 - [[file:index.org][Table des matières]]
 - [[file:olpc-deployment-etude-faisabilite.org][Étude de faisabilité]]
-
 #+HTML: </div>
 
 La phase de planification débute avec l'idée de commencer un projet avec
@@ -180,9 +178,7 @@ que les coût d'exploitation mensuels et le salaire des employés.
 #[[file:~/install/git/OLPC-Deployment--community--guide/images/8_financial_assumptions.jpg]]
 
 #+HTML: <div class="menu">
-
 - [[file:olpc-deployment-guide-strategie-support.org][Stratégie de support]]
 - [[file:index.org][Table des matières]]
 - [[file:olpc-deployment-etude-faisabilite.org][Étude de faisabilité]]
-
 #+HTML: </div>

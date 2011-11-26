@@ -4,11 +4,9 @@
 #+OPTIONS: toc:nil
 
 #+HTML: <div class="menu">
-
 - [[file:olpc-deployment-guide-phase-planification.org][Phase de planification]]
 - [[file:index.org][Table des matières]]
 - [[file:olpc-deployment-guide-achat-commande.org][Contrats d'achat et processus de commande]]
-
 #+HTML: </div>
 
 L'étude de faisabilité peut fournir des données pour les besoins des prises
@@ -79,9 +77,7 @@ puissance moyenne pour faire marcher le XO et charger lentement la batterie
 (en près de six heures).
 
 #+HTML: <div class="menu">
-
 - [[file:olpc-deployment-guide-phase-planification.org][Phase de planification]]
 - [[file:index.org][Table des matières]]
 - [[file:olpc-deployment-guide-achat-commande.org][Contrats d'achat et processus de commande]]
-
 #+HTML: </div>

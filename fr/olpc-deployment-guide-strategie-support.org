@@ -4,11 +4,9 @@
 #+OPTIONS: toc:nil
 
 #+HTML: <div class="menu">
-
 - [[file:olpc-deployment-guide-realisation-projet.org][Mise en oeuvre du projet]]
 - [[file:index.org][Table des matières]]
 - [[file:olpc-deployment-guide-phase-planification.org][Phase de planification]]
-
 #+HTML: </div>
 
 #+index: Assistance
@@ -16,7 +14,7 @@
 
 OLPC apporte un soutien durant les étapes du déploiement, tout
 particulièrement dans les domaines opérationnel, éducatif et technique (qui
-sont les plus importants). 
+sont les plus importants).
 
 Pour que la maîtrise du déploiement soit locale et que celui-ci soit
 autonome, nous aidons à créer et stimuler des compétences dans les domaines
@@ -32,7 +30,7 @@ semaine. Ceci est aussi valable pour de plus petits projets (5.000 unités
 et +) montrant un fort potentiel de croissance à court terme. Pour ceux de
 plus de 50.000 unités, la formation initiale peut être étendue à deux
 semaines et comporter deux sessions supplémentaires d'une semaine chacune
-sur une période d'un an. 
+sur une période d'un an.
 
 Des visites ponctuelles pour un suivi sur place peuvent être faites sur
 demande ; une formation éducative complémentaire à la formation initiale
@@ -50,7 +48,7 @@ Durant la phase de planification du déploiement et lorsque des décisions
 stratégiques sont à prendre (concernant le financement, les contrats et le
 processus de commande), nous apportons un support direct au chef de projet
 et aux sponsors ainsi qu'un support logistique à la chaîne
-d'approvisionnement. 
+d'approvisionnement.
 
 * Support éducatif
 
@@ -84,9 +82,7 @@ permettre de travailler main dans la main avec l'équipe principale selon
 leur formation et leur domaine d'étude.
 
 #+HTML: <div class="menu">
-
 - [[file:olpc-deployment-guide-realisation-projet.org][Mise en oeuvre du projet]]
 - [[file:index.org][Table des matières]]
 - [[file:olpc-deployment-guide-phase-planification.org][Phase de planification]]
-
 #+HTML: </div>
