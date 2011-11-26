@@ -1749,4 +1749,5 @@ novembre 2011.  Merci aux membres d'OLPC France qui y ont contribué :
 - Cécile Wyler Roulet
 - Kévin Raymond
 - Pierre Varly
+- Samy Boutayeb
 - Bastien Guerry
