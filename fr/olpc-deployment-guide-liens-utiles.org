@@ -1,6 +1,8 @@
 #+TITLE: Liens utiles
 #+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
 #+DATE: 2011-09-12
+#+DESCRIPTION: ONE LAPTOP PER CHILD GUIDE DE DEPLOIEMENT 2011
+#+KEYWORDS: ONE LAPTOP PER CHILD GUIDE DE DEPLOIEMENT 2011
 #+OPTIONS: toc:nil
 
 #+HTML: <div class="menu">
@@ -15,10 +17,11 @@
 - Le wiki d'OLPC : http://wiki.laptop.org
 - La version wiki de ce guide de déploiement (en anglais) :
   http://wiki.laptop.org/go/Deployment_Guide
-- Le manuel Sugar, en page web ou en pdf : http://en.flossmanuals.net/Sugar
+- Guide de l'ordinateur [[http://olpc-france.org/docs/OLPC%2520Guide%2520de%2520l'ordinateur.pdf][en français]]
+- Guide Sugar, en page web ou en pdf : http://en.flossmanuals.net/Sugar
 - Le forum officiel de la communauté de support d'OLPC
 - La Foire aux Questions : http://wiki.laptop.org/go/Support_FAQ
-- Le wiki de Sugar Labs, qui fournit l'environnement Sugar et les activités
+- Le [[http://wiki.sugarlabs.org/][wiki]] de [[http://sugarlabs.org/][Sugar Labs]], qui fournit l'environnement Sugar et les activités
   qui tournent sur les ordinateurs XO.
 
 #+HTML: <div class="menu">

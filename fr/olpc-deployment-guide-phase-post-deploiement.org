@@ -1,6 +1,8 @@
 #+TITLE: Phase de post-déploiement
 #+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
 #+DATE: 2011-09-12
+#+DESCRIPTION: ONE LAPTOP PER CHILD GUIDE DE DEPLOIEMENT 2011
+#+KEYWORDS: ONE LAPTOP PER CHILD GUIDE DE DEPLOIEMENT 2011
 #+OPTIONS: toc:nil
 
 #+HTML: <div class="menu">
@@ -76,15 +78,16 @@ compétences.
 
 Une fois la formation initiale des enseignants terminée, l'équipe éducative
 locale doit leur apporter des mécanismes de soutien complémentaires afin de
-faciliter l'intégration des XO dans la routine des cours; le support fait
-en classe ou l'aide apportée à élaborer un plan de cours sont, par exemple,
-des stratégies adaptées au domaine scolaire. Des rencontres régulières avec
-les enseignants apportent des feedback directs à l'équipe éducative : cela
-lui permet de préparer des ateliers complémentaires qui répondent aux
-besoins spécifiques des enseignants et étudiants. Ces rencontres sont aussi
-l'opportunité pour les enseignants de partager leurs expériences,
-d'apprendre de nouvelles stratégies, de préparer des projets
-interdisciplinaires et de favoriser des liens scolaires étroits.
+faciliter l'intégration des XO dans la routine des cours; ceux-ci sont, par
+exemple, le support en classe ou l'aide apportée à élaborer un plan de
+cours qui sont, par exemple, des stratégies adaptées au domaine scolaire en
+question. Des rencontres régulières avec les enseignants apportent des
+retours directs à l'équipe éducative : cela lui permet de préparer des
+ateliers complémentaires qui répondent aux besoins spécifiques des
+enseignants et étudiants. Ces rencontres sont aussi l'opportunité pour les
+enseignants de partager leurs expériences, d'apprendre de nouvelles
+stratégies, de préparer des projets interdisciplinaires et de favoriser des
+liens scolaires étroits.
 
 Le contenu est un autre domaine sur lequel l'équipe principale a
 constamment à travailler : il est en effet primordial que les enseignants

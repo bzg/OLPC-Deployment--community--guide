@@ -1,6 +1,8 @@
 #+TITLE: Phase de déploiement
 #+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
 #+DATE: 2011-09-12
+#+DESCRIPTION: ONE LAPTOP PER CHILD GUIDE DE DEPLOIEMENT 2011
+#+KEYWORDS: ONE LAPTOP PER CHILD GUIDE DE DEPLOIEMENT 2011
 #+OPTIONS: toc:nil
 
 #+HTML: <div class="menu">
@@ -79,8 +81,8 @@ important de prendre en compte la sécurité des installations de stockage,
 l'impact des conditions météorologiques sur les XO stockés, et la
 couverture d'assurance éventuellement requise.
 
-Le département en charge des opérations peut fournir des informations sur
-les dimensions d'emballage ou sur toute autre interrogation concernant
+Le département opérationnel peut fournir des informations sur les
+dimensions d'emballage ou sur toute autre interrogation concernant
 l’emballage.
 
 L’entreposage local permet de stocker les XO en vue de leur configuration
@@ -106,11 +108,11 @@ internet valide.
 
 L'expérience OLPC montre que le meilleur plan de distribution est celui qui
 débute avec les zones les plus faciles, sauf s'il faut tenir compte de
-considérations politiques. Débuter par les zones les plus simples permet
-d’identifier et de mettre en place tous les changements de dernière
-minute. Le personnel apprend ainsi aussi plus rapidement quand il peut se
-concentrer sur des installations plus simples ne nécessitant pas
-l'installation d'équipements solaires ou de relais satellites.
+considérations politiques. Débuter par ces zones permet d’identifier et de
+mettre en place tous les changements de dernière minute. Le personnel
+apprend ainsi aussi plus rapidement quand il peut se concentrer sur des
+installations plus simples ne nécessitant pas l'installation d'équipements
+solaires ou de relais satellites.
 
 ** Gestion des pièces détachées
 
@@ -135,7 +137,7 @@ commandes de pièces détachées sur des données réelles.
 
 Avant de commencer un déploiement, il est conseillé d'avoir les données
 nécessaires au scénario de mise en œuvre du projet. Le chef de projet et
-l'équipe principale peuvent collaborer avec des experts en évaluation ou
+son équipe principale peuvent collaborer avec des experts en évaluation ou
 des institutions académiques/de recherche pour concevoir un cadre
 d'évaluation capable de mesurer l'impact du projet selon ses objectifs. Le
 cadre d’évaluation mérite d'être aligné avec les mesures d'apprentissage
@@ -145,10 +147,10 @@ outils.
 L'information de base peut servir de point de départ utile pour mieux
 comprendre la communauté impliquée dans le projet, et peut même conduire à
 la formulation des objectifs que les intervenants souhaitent
-atteindre. Elle rend également possible la mesure l'impact d'un projet, car
-elle permet aux chercheurs d'analyser et de comparer statistiquement les
-données de base avec les données recueillies durant les années de mise en
-oeuvre d'un projet.
+atteindre. Elle rend également possible la mesure de l'impact d'un projet,
+car elle permet aux chercheurs d'analyser et de comparer statistiquement
+les données de base avec les données recueillies durant les années de mise
+en oeuvre d'un projet.
 
 Les objectifs et résultats attendus du programme devraient être les
 critères de sélection du type de données de base à collecter. Des données
@@ -185,21 +187,21 @@ soigneusement recruté et soutenu financièrement de manière pro-active
 durant toute la durée du programme. À ce point du déploiement, il est
 crucial d'avoir créé une équipe principale adéquate.
 
-La taille de cette équipe dépendra du nombre d'unités déployé. Bien que les
-apprentissages des équipes technique et pédagogique ont à se concentrer sur
-des composantes différentes, l'idéal reste un réel travail d'équipe se
-communiquant plans, défis et  mises à jour sur une base très régulière. Il
-est de la responsabilité du chef de projet de faciliter la mise en place de
-ce type de relations au sein de l’équipe. Avoir un leader pour chaque
-équipe est réellement souhaitable. Ces leaders ou managers ont à maintenir
-une communication constante avec les équipes technique et pédagogique
-d’OLPC.
+La taille de cette équipe dépendra du nombre d'unités déployées. Bien que
+les équipes technique et pédagogique doivent se concentrer sur des
+composants différents, l'idéal reste un vrai travail d'équipe en se
+communiquant les plans, défis et mises à jour sur une base très
+régulière. Il appartient au chef de projet de mettre en oeuvre ce type de
+collaboration au sein de son équipe. Avoir un directeur pour chacune des
+équipes est important. Chaque directeur d'équipe doit être en communication
+constante avec les équipes technique et pédagogique d’OLPC.
 
 OLPC facilitera l'organisation d'un atelier stratégique avec l'équipe
 principale pour :
 
-1. Renforcer les capacités dans la gestion des XO, dans ses activités et
-   utilisations comme outil d'apprentissage.
+1. Renforcer les compétences dans la gestion des XO, dans les Activités et
+   dans ses utilisations en tant qu'outil d'apprentissage.  utilisations
+   comme outil d'apprentissage.
 
 2. Renforcer les capacités à mettre en place l'infrastructure, la
    connectivité et les autres exigences techniques à l'école ou au niveau
@@ -216,24 +218,24 @@ principale pour :
    famille dans le projet.
 
 La durée de l'atelier peut varier de quelques jours à plusieurs
-semaines. Cela dépendra des caractéristiques du projet: la taille de
-déploiement (quantité d'ordinateurs portables, échelle et plan de
-distribution), l'équipe principale (background et taille), l'emplacement du
-projet, les objectifs du projet et de l'état des infrastructures. La durée
-dépendra aussi des accords conclus pendant la phase de planification entre
-OLPC, le chef de projet et des besoins spécifiques du projet. Le contenu et
-les activités de ce premier atelier va également s'adapter aux besoins et à
-l'expérience des participants. Toutefois, l'approche/méthodologie et
-certains contenus sont communs à tous les ateliers pour qu'ils s'articulent
-autour des mêmes principes que nous défendons: apprendre en faisant, en
-construisant, en collaborant et en réfléchissant.
+semaines. Cela dépend des caractéristiques du projet: de la taille de
+déploiement (noombre de XO, échelle et plan de distribution), de l'équipe
+principale (background et taille), de l'emplacement du projet, de ses
+objectifs et de l'état des infrastructures. La durée dépend aussi des
+accords conclus pendant la phase de planification entre OLPC, le chef de
+projet et les besoins spécifiques du projet. Le contenu et les activités de
+ce premier atelier  s'adapte aux besoins et à l'expérience des
+participants. Toutefois, l'approche/méthodologie et certains contenus sont
+communs à tous les ateliers pour qu'ils s'articulent autour des mêmes
+principes que nous défendons: apprendre en faisant, en construisant, en
+collaborant et en réfléchissant.
 
-Nous recommandons fortement aux managers techniques et pédagogiques de
+Nous recommandons fortement aux directeurs technique et pédagogique de
 l'équipe principale de commencer à discuter le contenu, la durée et le
 calendrier de cet atelier en consacrant du temps à des webinaires avec
 OLPC. Cela permettra à OLPC et aux équipes de déploiement de définir les
-détails de l'atelier et pour l'équipe principale pour avancer dans les
-préparatifs nécessaires avant la formation.
+détails de l'atelier et pour l'équipe principale d'avancer dans les
+préparatifs nécessaires à la formation.
 
 ** Description de la formation OLPC
 
@@ -255,36 +257,35 @@ Les objectifs de l'atelier d'apprentissage OLPC peuvent inclure:
 
 - Evaluer l'apprentissage au sein des environnements informatiques 1:1.
 
-Certains contenus techniques de l'atelier peuvent concerner simultanément
-les équipes pédagogiques et techniques, tandis que d'autres sujets avancés
-devraient être traités séparément avec l'équipe technique.
+Certains contenus techniques de l'atelier peuvent aussi concerner  léquipes
+pédagogique  alors que d'autres ne sont traités qu'avec l'équipe technique.
 
 Les objectifs de l'atelier technique de l'OLPC peuvent être:
 
 - Résolutions des problèmes logiciels ou matériels
-- Créer et utiliser un port USB Re-Flash Stick
+- Création et utilisation d'un port USB Re-Flash Stick
 - Connexion et inscription au serveur d'école
-- Configuration d'un point d'accès.
+- Configuration d'un point d'accès
 - Installation et configuration du serveur d'école
-- Définir une stratégie de support technique
-- Définir une stratégie d'entretien et de réparation à large échelle en
+- Définition d'une stratégie de support technique
+- Définition d'une stratégie d'entretien et de réparation à large échelle en
   milieu scolaire
 
-L'ordre du jour qui suit est un échantillon des sujets habituellement
-couverts lors d'un atelier d'une semaine avec l'équipe principale:
+L'ordre du jour suivant est un exemple des sujets habituellement traités
+lors d'un atelier d'une semaine avec l'équipe principale: 
 
-OLPC propose un suivi des ateliers qui peut être effectué plusieurs mois
-après le déploiement soit en marche ou une fois que l'équipe principale a
-acquis l'expérience de base, les connaissances et les compétences qui
-profitent à leur déploiement. Cette option peut être mise en oeuvre pendant
-une formation initiale avec OLPC, si les participants démontrent déjà un
-niveau avancé de compétences. Une autre option pour le suivi des formations
-consiste en des ateliers spécialisés qui mettent l'accent sur un sujet
-d'intérêt particulier pour l'équipe principale et qui visent à développer
-des compétences complémentaires et spécialisées. Enfin, OLPC propose des
-ateliers régionaux pour répondre aux besoins communs à une région
-spécifique. Pour cela, OLPC choisit un lieu stratégique qui permettra aux
-participants de multiples déploiements d'y assister.
+OLPC propose un suivi de l'atelier pouvant être effectué plusieurs mois
+après que le déploiement ait commencé ou une fois que l'équipe principale a
+acquis l'expérience, les connaissances et les compétences nécessaires à un
+bon déploiement. C'est cette option qui est choisie, pendant la formation
+initiale avec OLPC si les participants possèdent déjà un bon niveau de
+compétences. Une autre possibilité sur le suivi des formations consiste en
+des ateliers spécialisés portant sur un sujet d'intérêt particulier pour
+l'équipe principale et  dont le but est de développer des compétences
+complémentaires et spécialisées. Enfin, OLPC propose des ateliers régionaux
+pour répondre aux besoins communs d'une région spécifique. Pour cela, OLPC
+choisit un lieu stratégique qui permettra aux participants de multiples
+déploiements d'y assister.
 
 Les éléments suivants sont des exemples d'ateliers avancés pour l'équipe
 principale :
@@ -319,163 +320,163 @@ Nous recommandons la création d'une première bibliothèque ou portfolio de
 projets qui aidera les enseignants à intégrer l'ordinateur dans leur
 pratique pédagogique tout en les incitant à créer leurs propres projets, en
 se concentrant sur l'approche de formation décrite dans la section
-précédente. Il se peut que chaque enseignant utilise l'ordinateur dans leur
-classe individuelle, ou que les enseignants de différentes régions se
-réunissent pour concevoir des projets communs. De toute façon, cette
-approche permettra de rendre explicites les concepts que les projets
-intègrent et promeuvent, soulignant ce que l'on peut «manipuler» et
-comprendre en utilisant le portable, mais qui serait plus difficile, ou
-presque, impossible à réaliser avec le stylo et papier.
+précédente. Il se peut que chaque enseignant utilise les XO dans sa propre
+classe, ou que les enseignants de différentes régions se réunissent pour
+concevoir des projets communs. De toute façon, cette approche permettra de
+rendre explicites les concepts que les projets intègrent et promeuvent,
+soulignant ce que l'on peut «manipuler» et comprendre en utilisant le XO,
+et qui serait plus difficile, ou presque  impossible à réaliser avec un
+stylo et du papier.
 
-* Préparer les écoles et communautés
+* Préparation des écoles et communautés
 
 #+index: Ecoles
 #+index: Communautés
 
-Lorsque les ordinateurs portables sont prêts à être distribués, et en
-supposant que les infrastructures scolaires sont prêtes, il est temps de
-préparer les enseignants et autres membres des communautés pour cette
-expérience. La formation des enseignants et de sensibilisation de la
-communauté peuvent se produire simultanément, mais peut également se
-produire à différents moments. Des variables liées à la localisation, la
-taille et la préparation de chaque école ou communauté doivent être
-considérés au moment de décider l'ordre dans lequel mettre en oeuvre chaque
-événement.
+Lorsque les XO sont prêts à être distribués, et en supposant que les
+infrastructures scolaires soient prêtes, il est temps de préparer les
+enseignants et autres membres des communautés à cette expérience. La
+formation des enseignants et la sensibilisation de la communauté peuvent
+être menées  simultanément ou à différents moments. Des variables liées à
+la localisation, la taille et la préparation de chaque école ou communauté
+doivent être prises en compte au moment de décider l'ordre dans lequel sera
+mis en oeuvre chaque événement.
 
 ** Formation des enseignants
 
 #+index: Formation des enseignants
 
 La formation des enseignants est une composante essentielle d'un projet
-OLPC et devrait être un processus continu. Les enseignants devraient être
-les premiers membres de la communauté éducative à recevoir des informations
-et à s'impliquer dans des initiatives qui ont des effets directs sur leurs
-propres pratiques professionnelles. Il est recommandé de commencer la
-formation des enseignants et leur fournir des ordinateurs portables XO dès
-les premiers stades d'un projet; cette approche garantissant leur niveau de
-confiance et d'engagement dans l'initiative.
+OLPC et est donc un processus continu. Les enseignants doivent être les
+premiers membres de la communauté éducative à recevoir des informations et
+à s'impliquer dans des initiatives qui auront des effets directs sur
+leurpropre propres compétences éducatives. Il est donc nécessaire de
+commencer la formation des enseignants et de leur mettre à disposition des
+XO dès les premiers stades d'un projet : cette approche garantit leur
+niveau de confiance et d'engagement dans lle projet. 
 
-L'aspect le plus important de la préparation des enseignants est en ce qui
-concerne la manière dont les enfants apprennent. Les éducateurs ont reconnu
-depuis longtemps que les enfants apprennent mieux quand ils sont actifs ou
-quand ils poursuivent leurs propres intérêts, et quand ils évoluent dans
-une culture de la connaissance et de l'engagement.
+L'aspect le plus important de la préparation des enseignants porte sur la
+façon  dont les enfants apprennent. Les éducateurs savent depuis longtemps
+que les enfants apprennent mieux quand ils sont actifs ou quand ils
+poursuivent leurs propres intérêts, et quand ils évoluent dans une culture
+de la connaissance et de l'engagement. 
 
-Avec l'accès en mode 1-to-1 à des ordinateurs portables connectés, les
-enfants s'engagent activement dans la construction des connaissances et ne
-sont pas limités à la réception passive de l'information. Chaque enfant (et
-les enseignants eux-mêmes) peuvent poursuivre leur apprentissage dans des
-domaines d'intérêt personnel et la pratique en classe ne se limite pas à
-une approche prédéterminé et uniforme.
+Avec l'accès en mode 1-to-1 à des XO connectés, les enfants s'engagent
+activement dans la construction des connaissances et ne sont pas limités à
+la réception passive de l'information. Chaque enfant (et les enseignants
+eux-mêmes) peut poursuivre son apprentissage dans ses domaines d'intérêt
+personnel, ainsi la pratique en classe ne se limite pplus à une approche
+prédéterminée et uniforme. 
 
-Les enseignants en bénéficient aussi. Non seulement ils arrivent à utiliser
-les ordinateurs portables à la maison pour leur propre apprentissage, mais
-l'ordinateur portable connecté devient un moteur pour le développement
-professionnel personnalisé. Cela permet aux enseignants d'accéder à
-l'expertise et à échanger avec les collègues, en posant et répondant à des
-questions pratiques. Ils peuvent participer pleinement en tant que
-producteurs de connaissances et non pas seulement comme des consommateurs
-de matériel produit par d'autres.
+Les enseignants bénéficient aussi de ce mode 1-to-1 : Non seulement ils
+peuvent utiliser leur XO chez eux pour leur propre apprentissage, mais
+celui-ci (connecté) devient un moteur pour leur propre développement
+professionnel. Ce qui leur permet d'accéder à une expertise, à la partager
+avec leurs collègues (en posant et en répondant à des questions
+concrètes). Ils peuvent ainsi participer pleinement en tant que producteurs
+de connaissances et non pplus comme utilisateurs de produits créés par
+d'autres. 
 
-L'équipe principale devrait élaborer différentes stratégies pour développer
-la capacité de l'enseignant:
+Il est primordial que l'équipe principale élabore différentes stratégies
+dans le but de développer les compétences des enseignants ; comme par
+exemple : 
 
 #+index: Formation!Ateliers
 
-1. Des ateliers de formation: où les enseignants apprennent à utiliser
-   l'ordinateur, et, dans le même temps, à l'incorporer dans leur pratique
-   pédagogique.
 
-2. Les mécanismes de soutien: Bien que le contenu de l'initiative constitue
-   un mécanisme de soutien important à la pratique de l'enseignement,
-   d'autres mécanismes doivent être mis en oeuvre, y compris l'assistance en
-   classe, ce qui peut se faire grâce à des accords avec des universités,
-   des lignes téléphoniques d'aide qui peuvent être mis en place avec des
-   techniciens développeurs dans le pays, et blogs ou des forums en ligne
-   où les enseignants peuvent participer.
+1. Des ateliers de formation: Les enseignants y apprennent à utiliser le
+   XO, et à l'incorporer dans leur classe.
 
-3. Des clubs enseignants: des espaces de travail où les enseignants peuvent
-   se rencontrer régulièrement pour partager les réussites, les problèmes
-   et solutions.
+2. Des mécanismes de soutien: Bien que le contenu du projet constitue en
+   lui-même un mécanisme de soutien important à l'enseignement, d'autres
+   mécanismes méritent d'être mis en oeuvre, comme l'assistance en classe
+   (qui peut être faite par des accords avec des universités), des lignes
+   téléphoniques d'aide (qui peuvent être mises en place par des
+   techniciens développeurs locaux), et des blogs ou des forums en ligne
+   sur lesquels les enseignants peuvent se retrouver et échanger leurs
+   expériences.
+
+3. Des clubs d'enseignants: Espaces de travail où les enseignants peuvent
+   se rencontrer régulièrement pour partager leurs réussites, problèmes et
+   solutions.
 
 4. Guides et ressources.
 
-Lors des premières formations, les enseignants devraient apprendre les
-utilisations de base de l'ordinateur portable et comment l'intégrer dans
-leur pratique pédagogique. La formation devrait être guidée par la vision
-et l'objectif de l'initiative globale. Nous recommandons que l'approche
-appropriée soit celle de «learning by doing» et que le «faire» se concentre
-sur le développement de projets concrets au sein de la classe. L'équipe
-principale doit adapter le contenu et la durée de la formation initiale sur
-la base des compétences des enseignants.
+Lors des  formations initiales, les enseignants devraient apprendre les
+utilisations de base du XO et la façon de l'intégrer dans leur pratique
+pédagogique. Cette formation doit se faire en fonction de la vision et de
+l'objectif du projet dans sa globalité. Nous recommandons comme approche
+appropriée celle de «learning by doing» (« apprendre en faisant » et que le
+«faisant» se concentre sur le développement de projets concrets au sein de
+la classe. Il appartient à 'équipe principale d'adapter le contenu et la
+durée de cette formation initiale aux compétences des enseignants. 
 
 Il est recommandé que l'équipe technique effectue des sessions de formation
 avec l'équipe pédagogique pour préparer les enseignants au dépannage
 technique de base concernant les logiciels, le matériel et la
 connectivité. Au cours de ces premières sessions avec les enseignants,
-l'équipe principale peut rapidement identifier les participants qui font
-preuve de leadership et qui peuvent être des contacts clés pour soutenir le
-projet au niveau de l'école. Selon l'ampleur du projet, l'équipe principale
-peut décider de former les enseignants directement ou par le biais
-d'enseignants-formateurs qui seront ensuite amenés reproduire les
+l'équipe principale pourra rapidement identifier les participants qui font
+preuve de leadership et qui pourraient devenir des contacts clés pour
+soutenir le projet dans l'école. Selon l'ampleur du projet, l'équipe
+principale peut décider de former les enseignants directement ou par le
+biais d'enseignants-formateurs qui seront ensuite amenés à reproduire leurs
 formations pour d'autres enseignants. Certains projets décident d'effectuer
 des formations à grande échelle dans une démarche visant à cibler plusieurs
-écoles.
+écoles. 
 
-Les écoles peuvent choisir les membres clés de leur personnel à participer
-à cette formation, avec l'idée que ces stagiaires deviennent des leaders et
-démultiplient la formation dans leur propre école. Une autre approche
-consiste à attribuer à chaque membre de l'équipe principale une école
-spécifique dans lequel s'effectue la formation du personnel sur place. Peu
-importe l'approche qui est choisie, l'équipe principale a besoin de
-surveiller constamment les progrès de chaque école et de chaque
-enseignant.
+Les écoles peuvent choisir des membres influents de leur personnel éducatif
+pour participer à cette formation; ceci dans  l'idée que ces stagiaires
+deviendront des meneurs et démultiplieront la formation dans leur propre
+école. Une autre approche consiste à attribuer à chaque membre de l'équipe
+principale une école spécifique dans laquelle s'effectuera la formation du
+personnel local. Peu importe l'approche choisie : l'équipe principale se
+doit de surveiller constamment les progrès de chaque école et de chaque
+enseignant. 
 
-L'ordre du jour qui suit est un échantillon de sujets que l'équipe
-principale peut couvrir durant une session de formation initiale des
-enseignants :
+L'ordre du jour suivant est un exemple des sujets que l'équipe principale
+peut couvrir durant sa session de formation initiale des enseignants :
 
+| Jour | Sujet / Activité                                                                    |
+|------+-------------------------------------------------------------------------------------|
+|    1 | Bienvenue et introduction                                                           |
+|      | Vue d’ensemble OLPC : principe, mission et philosophie                              |
+|      | Modèle pédagogique OLPC : le constructionnisme                                      |
+|      | Lectures et réflexions : les enfants, l’apprentissage et les ordinateurs            |
+|      | Travaux pratiques : vue d’ensemble des outils disponibles sur les XO                |
+|      | Introduction au XO : Matériel et logiciels                                          |
+|------+-------------------------------------------------------------------------------------|
+|      | Introduction aux activités Sugar Logo et Turtle art                                 |
+|    2 | Création et utilisation un stick Reflash                                            |
+|      | Résolution de problèmes simples de matériel                                         |
+|      | Utilisation du XO comme outil d’apprentissage                                       |
+|------+-------------------------------------------------------------------------------------|
+|    3 | Programmation d’activités sur le XO : Scratch                                       |
+|      | Réseaux de collaboration et d’apprentissage                                         |
+|      | Résolutions de problèmes simples de logiciels                                       |
+|------+-------------------------------------------------------------------------------------|
+|    4 | Mise en oeuvre du projet : Construire les équipes nécessaires à son bon déploiement |
+|      | Préparation des écoles et communautés                                               |
+|      | Développement de la capacité locale : formation des enseignants                     |
+|      | Cursus, contenu et matériaux dans un environnement 1-1                              |
+|      | Expérimentation de projets d’apprentissage : élaborer des projets via les XO        |
+|------+-------------------------------------------------------------------------------------|
+|    5 | Présentation de projets                                                             |
+|      | Intégration des familles et autres membres de la (des) communauté(s)                |
+|      | Energie et connectivité                                                             |
+|      | Evaluation et métriques                                                             |
+|      | Questions et réponses                                                               |
 
+Le déploiement d'un XO pour chaque enfant dans toute une région ou un pays
+ne peut être géré par l'équipe principale seule. Il doit être mené par
+l'équipe principale, elle-même soutenue par des équipes
+régionales. L'équipe principale a à fixer les principes directeurs du
+programme tandis que les équipes régionales prennent en charge le
+déploiement dans leur région respective, en fonction des principes indiqués
+plus haut, tout en n'hésitant pas à partager avec l'équipe principale
+ccertaines inquiétudes  touten proposant des alternatives viables si
+nécessaire. Différentes fonctions ont à être déléguées aux équipes
+régionales selon les tâches existantes. 
 
-| Jour | Sujet / Activité                                                                   |
-|------+------------------------------------------------------------------------------------|
-|    1 | Bienvenue et introduction                                                          |
-|      | Vue d’ensemble OLPC : principe, mission et philosophie                             |
-|      | Modèle pédagogique d’OLPC : le constructionnisme                                   |
-|      | Lectures et réflexions : les enfants, l’apprentissage et les ordinateurs           |
-|      | Travaux pratiques : vue d’ensemble des outils disponibles sur les XO               |
-|      | Introduction au XO : Matériel et logiciels                                         |
-|------+------------------------------------------------------------------------------------|
-|      | Introduction aux activités Sugar Logo et Turtle art                                |
-|    2 | Créer et utiliser un stick Reflash                                                 |
-|      | Résolution de problèmes simples de matériel                                        |
-|      | Utilisation du XO comme outil d’apprentissage                                      |
-|------+------------------------------------------------------------------------------------|
-|    3 | Programmation d’activités sur le XO : Scratch                                      |
-|      | Réseaux de collaboration et d’apprentissage                                        |
-|      | Résolutions de problèmes simples de logiciels                                      |
-|------+------------------------------------------------------------------------------------|
-|      | Mise en oeuvre du projet : Construire les équipes nécessaires à un bon déploiement |
-|    4 | Préparation des écoles et des communautés                                          |
-|      | Développement de la capacité locale : formation des enseignants                    |
-|      | Cursus, contenu et matériaux dans un environnement 1-1                             |
-|      | Expérimentation de projets d’apprentissage : élaborer des projets via les XO       |
-|------+------------------------------------------------------------------------------------|
-|    5 | Présentation de projets                                                            |
-|      | Intégration des familles et autres membres de la (des) communauté(s)               |
-|      | Energie et connectivité                                                            |
-|      | Evaluation et métriques                                                            |
-|      | Questions et réponses                                                              |
-
-Le déploiement des ordinateurs portables pour chaque enfant dans toute une
-région ou un pays ne peut pas être géré par l'équipe principale seule. Il
-doit être mené par l'équipe principale, et soutenu par des équipes
-régionales. L'équipe principale devra fixer les principes directeurs du
-programme tandis que les équipes régionales seront chargées du déploiement
-dans leurs régions respectives en fonction de ces principes, tout en
-soulevant des inquiétudes et en proposant des alternatives viables si
-nécessaire. Différentes fonctions devraient être déléguées aux équipes
-régionales selon les pratiques existantes.
 
 ** Sensibilisation des communautés
 
@@ -483,11 +484,11 @@ régionales selon les pratiques existantes.
 
 Avant l'arrivée des ordinateurs portables dans une communauté, il est
 important de préparer les différents groupes de personnes qui seront
-touchées par le projet: parents, enseignants, directeurs d'école, les
-familles, et d'autres membres actifs d'une communauté. Le ministre de
-l'Education, les autorités et leaders et locaux devraient être impliquées
-dans les communications au sujet du programme, de ses objectifs, des
-caractéristiques, avantages et engagements à prendre.
+touchés par le projet: parents, enseignants, directeurs d'école, familles,
+et autres membres actifs de la communauté, tels que lese ministre de
+l'Education, autorités et responsables locaux qui doivent être impliqués
+dans les communiqués  concernant le programme, ses objectifs, ses
+caractéristiques, avantages et engagements à prendre. 
 
 Les coordonnateurs du projet doit planifier soigneusement les campagnes de
 sensibilisation, en sélectionnant les outils appropriés (impressions,
@@ -497,42 +498,36 @@ chaque communauté et à l'échelle de chaque projet. Le calendrier de la
 campagne devrait également être mûrement réfléchi afin de permettre aux
 communautés de se préparer à lancer un programme formel. Si des campagnes
 nationales sont créées pour informer les différents publics sur les
-projets, elles devraient être mises en place avant la distribution des
-unités ou après que des actions de sensibilisation communautaire plus
-formelles soient entreprises par l'équipe principale.
+projets, elles devraient être mises en place avant la distribution des XO
+ou après que des actions de sensibilisation communautaire plus formelles
+aient été entreprises par l'équipe principale. 
 
 La phase de préparation joue un rôle important dans la création des
 attentes positives, les attitudes, et l'implication de tous les
 membres. Lorsque les communautés comprennent les programmes et leurs
-avantages, il ya des impacts directs sur l'apprentissage et sur la façon
-dont les ordinateurs portables sont pris en charge. Au niveau national et
-local, les collectivités doivent savoir ce que signifie un ordinateur
-portable par enfant. Les enfants sont les meilleurs ambassadeurs, mais
-l'implication des parents et chefs des communautés est également
-influente. Encourager la sensibilisation est très important pour le succès
-des initiatives, à la fois parce qu'il permet aux familles et autres
-membres des communautés d'être impliqués dans le processus d'apprentissage
-des enfants, et parce qu'il leur permet d'être des participants actifs dans
-la création d'une nouvelle culture et de nouvelles expériences
-d'apprentissage au sein de leur communauté.
+avantages, il s'ensuit un  impact direct sur l'apprentissage et la façon
+dont les XO sont pris en charge. Au niveau national et local, les
+collectivités doivent comprendre la signification d'un XO par enfant. Les
+enfants en sont les meilleurs ambassadeurs mais l'implication des parents
+et chefs des communautés est également importante. Amener à une
+sensibilisation est très important pour le succès du déploiement, à la fois
+parce qu'il permet aux familles et autres membres des communautés d'être
+impliqués dans le processus d'apprentissage des enfants, mais – et
+surtout - parce qu'il leur permet de devenir participants actifs de la
+création d'une nouvelle culture et de nouvelles expériences d'apprentissage
+dans leur propre communauté. 
 
-Les réunions de parents peuvent être tenus dans des écoles ou des centres
-communautaires et devrait inclure, sans s'y limiter, les sujets suivants:
+Les réunions de parents peuvent se tenir dans les écoles ou  centres
+communautaires et devraient inclure, au minimum, les sujets suivants:
 
-- Une description des responsabilités et des rôles dans les différentes
-  phases du projet. Tâches à définir, organisées et réalisées par des
-  groupes d'action différents.
-
-- Établissement de normes pour le partage des ordinateurs portables parmi
-  les frères et soeurs et aux enfants plus âgés.
-
-- Sécurité des ordinateurs portables. Comment et pourquoi prendre soin des
-  machines ?
-
+- Description des responsabilités et des rôles dans les différentes phases
+  du projet. Tâches à définir, organiser et réaliser par différents groupes
+  d'action à définir.
+- Établissement de normes pour le partage des XO entre frères et soeurs et
+  aînés.
+- Sécurisation des XO: Comment et pourquoi en prendre soin  ?
 - Processus de recharge.
-
 - Accès Internet.
-
 - Signature de l'accord par les parents.
 
 D'autres acteurs peuvent être invités aux réunions afin qu'ils puissent
@@ -543,42 +538,43 @@ différents consultants et / ou des bénévoles du projet.
 
 #+index: Infrastructure
 
-Avant l'arrivée des ordinateurs portables, les techniciens de l'équipe
-principale devrait évaluer, configurer, tester, et être responsable du
-réseau et des infrastructures d'alimentation dans les écoles et / ou
-d'autres centres communautaires.
+Avant l'arrivée des XO, l'équipe technique de l'équipe principale devrait
+évaluer, configurer, tester, et avoir pris en charge le réseau et les
+infrastructures d'alimentation dans les écoles et / ou autres centres
+communautaires. 
 
-OLPC peut commencer à soutenir l'équipe principale avant la formation dans
-le pays grâce à des webinaires en ligne ou les chats. Au cours de la visite
-d'OLPC dans le pays la formation pratique a lieu, et l'équipe principale
-devrait être prête pour la mise en place de l'infrastructure locale. OLPC
-continuera à soutenir les équipes techniques en ligne après l'organisation
-de la formation dans le pays.
+OLPC peut commencer à soutenirl'équipe principale avant la formation
+initiale locale dans le pays, et ceci grâce aux webinaires en ligne ou aux
+chats. Au cours de la visite locale d'OLPC  se tient la formation initiale;
+à ce moment-là, l''équipe principale est prête à la mise en oeuvre de
+l'infrastructure locale. OLPC continuera à soutenir en ligne les équipes
+techniques après la tenue de la formation initiale dans le pays (région,
+etc.)
 
 ** Electricité
 
 #+index: Electricité!Déploiement
 
 L'infrastructure électrique de l'école doit être évaluée en fonction de la
-demande d'électricité générée par des ordinateurs portables XO, les
-serveurs et autres périphériques. Si l'infrastructure est insuffisante,
-elle doit être améliorée.
+demande d'électricité générée par les XO, serveurs et autres
+périphériques. Si l'infrastructure est insuffisante, elle doit être
+améliorée.
 
 ** Connectivité
 
 #+index: Connectivité!Infrastructure
 
+
 Bien que le système OLPC fournisse une auto-configuration de réseau local
 sans fil, la connectivité à l'Internet doit être mise en en place
 séparément. OLPC peut aider à la planification et l'intégration d'un réseau
-d'ordinateurs portables dans une infrastructure nationale. Le personnel
-d'OLPC a une expérience avec des VSAT, ADSL, etc qu'il est heureux de
-pouvoir partager. Beaucoup d'équipes dans les pays ont encore plus
-d'expérience, surtout en ce qui concerne le déploiement en milieu rural. Le
-partage des meilleures pratiques est dans l'intérêt de tous. Comme avec le
-déploiement d'ordinateurs portables, la connexion ne peut pas arrivée
-partout en même temps. Un effort progressif planifié d'avance sur le
-déploiement d'ordinateurs portables est idéal. Il convient de noter que le
+de XO dans une infrastructure nationale. Le personnel d'OLPC connaît VSAT,
+ADSL, etc. qu'il est heureux de partager. Plusieurs équipes locales pays
+ont encore plus d'expérience à partager qu'OLPC, surtout en ce qui concerne
+le déploiement en milieu rural. Ce partage de ces expériences est dans
+l'intérêt de tous. Et, comme avec le déploiement des XO,  la connexion ne
+peut pas arriver partout en même temps, un effort progressif et planifié
+d'avance sur le déploiement des XO est idéal. Il convient de noter que le
 réseau maillé sans fil offre une connexion locale "comme Ethernet" sans
 aucune infrastructure supplémentaire.
 
@@ -586,13 +582,12 @@ aucune infrastructure supplémentaire.
 
 #+index: Serveur école
 
-Une partie de notre modèle de déploiement est l'utilisation de serveurs
-d'école. Les serveurs d'école peuvent être des PCs de base qui tournent
-sous Fedora, une variante de Linux. Les serveurs d'école sont conçus pour
-offrir des passerelles vers l'Internet, être des référentiels de contenu
-local, une plateforme de sauvegarde des XO et des solutions de gestion des
-écoles, etc De grands réseaux nécessitent des serveurs conçus pour la
-taille du déploiement et destinés à être placés dans l'école.
+Une partie de notre modèle de déploiement est basée surl'utilisation des
+XS. Ce peut être des PC  qui tournent sous Fedora, variante de Linux. Les
+XS sont conçus pour offrir des passerelles vers l'Internet, être des
+référentiels de contenu local, une plateforme de sauvegarde des XO, des
+solutions de gestion des écoles, etc. De grands réseaux nécessitent des
+serveurs conçus pour la taille du déploiement étant placés dans l'école.
 
 #+index: Sauvegarde
 #+index: Bibliothèque numérique
@@ -611,7 +606,7 @@ Certains avantages clés des serveurs d'école sont:
                 XO sont sauvegardés sur des serveurs d'école et les
                 enseignants peuvent les consulter afin de mieux comprendre
                 comment les XO sont utilisés, ainsi que pour suivre les
-                progrès des élèves et de déterminer où ils peuvent avoir
+                progrès des élèves et déterminer là où ils peuvent avoir
                 besoin d'aide.
 
 - Bibliothèque numérique :: Une bibliothèque numérique permet aux élèves de
@@ -623,34 +618,32 @@ Certains avantages clés des serveurs d'école sont:
      disponibles)
 
 - Gestion et sécurité :: Les opérateurs ayant des niveaux élevés de
-     compétences techniques peuvent utiliser les serveurs d'école pour
-     gérer l'accès réseau, bloquer les ordinateurs portables qui sont volés
-     ou qui ne sont pas retournés à l'école, et de fournir des dépôts de
-     logiciels locaux pour les mises à jour, etc.
+     compétences techniques peuvent utiliser les XS pour gérer l'accès
+     réseau, bloquer les XO volés ou non retournés à l'école, et fournir
+     des dépôts de logiciels locaux pour les mises à jour, etc.
 
 - Serveur Proxy :: Un serveur OLPC peut agir comme un proxy réseau. Cela
-                   permet d'économiser la bande passante Internet, rend
-                   l'accès à Internet plus rapide et fournit un mécanisme
-                   pour le filtrage du contenu qui peut être utilisé pour
-                   bloquer les contenus inappropriés.
+                   permet d'économiser de la bande passante Internet,
+                   rendant l'accès à Internet plus rapide et fournissant un
+                   filtrage de contenu pouvant être utilisé pour bloquer
+                   des contenus inappropriés.
 
-- Développement continu :: Il ya des fonctions supplémentaires venant des
-     serveurs d'école, comme la vidéoconférence, le GPS et des
-     fonctionnalités SIG, Voix sur IP, messagerie instantanée, et les
-     services de News (blogs, forums, etc) Les serveurs sont construits sur
-     une plate-forme Open Source, afin qu'ils puissent être modifiés pour
-     répondre aux besoins particuliers des projets.
+- Développement continu :: Il offre des fonctions supplémentaires provenant
+     des XS, comme la vidéoconférence, le GPS, des fonctionnalités SIG,
+     Voix sur IP, messagerie instantanée, eservices de News (blogs, forums,
+     etc.), etc. Les serveurs sont construits sur une plate-forme Open
+     Source, afin de pouvoir être modifiés pour répondre aux besoins
+     spécifiques de chaque projet.
 
-Aussi important que sont l'ensemble des services mentionnés ci-dessus, le
-rôle principal des serveurs école est de faciliter le fonctionnement des
-réseaux locaux. Sans les serveurs, les ordinateurs portables XO utilisent
-la multidiffusion pour communiquer les uns avec les autres, ce qui met de
-lourdes charges sur les réseaux sans fil; la multidiffusion ne peut
-connecter que jusqu'à 20 ordinateurs portables simultanément. Les serveurs
-d'école éliminent le besoin d'une grande partie du trafic multidiffusion
+Aussi important que soit l'ensemble des services mentionnés ci-dessus, le
+rôle principal des XS est de faciliter le fonctionnement des réseaux
+locaux. Sans les serveurs, les XO utilisent la multidiffusion pour
+communiquer les uns avec les autres, ce qui entraîne une lourds charge sur
+les réseaux sans fil; il est important de savoir que la multidiffusion ne
+peut connecter que jusqu'à 20 XO simultanément. Les XS éliminent ce besoin
+de trafic multidiffusion.
 
-Les spécifications minimales recommandées pour un serveur d'école sont
-les suivantes :
+Les spécifications minimales recommandées pour un XS sont les suivantes :
 
 | < 20 XO                                                      | < 40 XO                          | < 80 XO                             | < 120 XO                             | > 120 XO                                                            |
 |--------------------------------------------------------------+----------------------------------+-------------------------------------+--------------------------------------+---------------------------------------------------------------------|
@@ -665,7 +658,7 @@ les suivantes :
 
 La quantité d'énergie nécessaire pour les serveurs d'école dépend des
 spécifications des machines utilisées.  Cela doit être pris en
-considération lors de la préparation sur place.
+considération lors de la préparation locale.
 
 #+HTML: <div class="menu">
 - [[file:olpc-deployment-guide-achat-commande.org][Contrats d'achat et processus de commande]]

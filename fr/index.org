@@ -1,6 +1,8 @@
 ﻿#+TITLE: ONE LAPTOP PER CHILD -- GUIDE DE DEPLOIEMENT 2011
 #+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
 #+DATE: 2011-09-12
+#+DESCRIPTION: ONE LAPTOP PER CHILD GUIDE DE DEPLOIEMENT 2011
+#+KEYWORDS: ONE LAPTOP PER CHILD GUIDE DE DEPLOIEMENT 2011
 #+OPTIONS: toc:nil
 
 * [[file:olpc-deployment-guide-one-laptop-per-child.org][One Laptop Per Child]]
@@ -16,4 +18,5 @@
 * [[file:olpc-deployment-guide-resume-taches.org][Résumé des tâches recommandées]]
 * [[file:olpc-deployment-guide-liens-utiles.org][Liens utiles]]
 * [[file:olpc-deployment-guide-licence-source-credits.org][Licence, source et crédits]]
+* [[file:olpc-deployment-guide-lexique.org][Lexique]]
 * [[file:theindex.org][Index]]

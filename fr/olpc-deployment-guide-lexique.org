@@ -1,0 +1,376 @@
+#+TITLE: ONE LAPTOP PER CHILD -- GUIDE DE DEPLOIEMENT 2011 -- Lexique
+#+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
+#+DATE: 2011-09-12
+#+DESCRIPTION: ONE LAPTOP PER CHILD GUIDE DE DEPLOIEMENT 2011
+#+KEYWORDS: ONE LAPTOP PER CHILD GUIDE DE DEPLOIEMENT 2011
+#+OPTIONS: toc:nil
+
+* A
+
+** Activité
+
+Application possédant une icône dans la barre de tâches, comme les
+Activités Ecrire, Enregistrer ou Naviguer ; elles permettent de prendre une
+photo, lire un livre, créer ou annoter une page, animer un dessin, créer
+des sons et de la musique, etc. Elles possèdent l'extension de fichier .xo
+; /voir aussi section 8.1.2./
+
+** Adaptateur secteur (ou électrique)
+
+Chaque XO est fourni avec un adaptateur permettant de le brancher sur une
+prise électrique ; /voir aussi section 8.1.2./
+
+** ADSL
+
+Internet à haut débit.
+
+** Apprentissage ; /voir section 2./
+
+Assistance : /voir Support./
+
+Ateliers : /voir Support./
+
+* B
+
+** Bibliothèque
+
+- numérique : Dès le moment où un déploiement a accès au Wifi - et donc à
+  Internet – il (et donc les élèves, les enseignants et la communauté dans
+  son entier) a accès à une bibliothèque virtuelle de X (Merci à quelqu'un
+  de compléter la quantité) ouvrages dans différentes langues et sur
+  différents thèmes ; /voir aussi section 9.4.3./
+
+- XO : Le contenu créé sur le XO est accessible via le Journal ; le contenu
+  téléchargé est stocké dans la Bibliothèque, et est accessible via
+  l'Activité Naviguer.
+
+** Blog
+
+« Journal sur Internet » ; défini souvent comme un site personnel, il
+s'agit d'un espace individuel d'expression, créé pour donner la parole à
+tous les internautes (particuliers, entreprises, artistes, hommes
+politiques, associations...)
+
+* C
+
+** Carte-mère
+
+Circuit imprimé principal se trouvant au centre de l'ordinateur. Tous les
+composants du XO sont connectés à la carte-mère ; elle contient les
+connexions pour le processeur, la mémoire, les cartes d'extension et les
+périphériques de stockage.
+
+** Centre d'appel ; /voir section 6.2./
+
+** Chat (ou Tchat ou messagerie instantanée)
+
+Permet l'échange instantané de messages textuels et de fichiers entre
+plusieurs ordinateurs connectés au même réseau informatique, et plus
+communément celui d'Internet. Contrairement au courrier électronique, ce
+moyen de communication est caractérisé par le fait que les messages
+s'affichent en quasi-temps-réel et permettent un dialogue interactif.
+
+** Clavier ; /voir section 8.1.1./
+
+** Collaboration (ou collaboratif)
+
+Etudes ou travaux interactifs faits à l'aide d'ordinateurs interconnectés.
+
+** Commande ; /voir section 8. et ss./
+
+** Communauté/s
+
+Ensemble des groupes scolaire, familial et culturel gravitant autour des
+élèves et pour lequel l'introduction d'un déploiement entraînera des
+conséquences.
+
+** Connectivité
+
+Capacité d'un système à se connecter à d'autres systèmes.
+
+** Constructionnisme ; /voir section 2./
+
+** Contenu (ou objets)
+
+Correspond à des livres, films, photographies, dessins, musiques et autres
+objets créés avec et dans le XO ou téléchargés sur celui-ci ; le contenu
+(ou les objets) est stocké dans des fichiers possédant l'extension .xo1. ;
+/voir aussi sections 9.2.2 et 10.1./
+
+* D
+
+** Déploiement
+
+Mise à disposition (après leur acquisition auprès d'OLPC) d'un certain
+nombre de XO à différents systèmes scolaires comprenant des élèves de 6 à
+12 ans, et dans tous les pays du monde ; /voir aussi section 1.2./
+
+* E
+
+** Equipe
+
+- principale (ou de déploiement) ; /voir sections 4.1. et 9.2./
+- OLPC ; /voir section 9.2.1./
+- éducative ; /voir section 9.2. et ss./
+- technique ; /voir section 9.2. et ss./
+- logistique ; /voir section 9.2. et ss./
+
+** Ethernet
+
+Protocole de réseau informatique local à commutation de paquets.
+
+** Etoys
+
+Environnement graphique de type micro-monde utilisé pour concevoir et
+programmer graphiquement des objets. Cet environnement permet de concevoir
+d'enrichissants scénarii pédagogiques ; c'est l'une des Activités du XO.
+
+* F
+
+** Fedora ; /voir GNU-Linux/
+
+** Formation et ateliers ; /voir Support/
+
+** Format
+
+Ce qui définit un fichier informatique : extension précédée d'un « . »
+Exemple avec comme nom de fichier « Déploiement 2011 » :
+
+- Déploiement 2011.doc (format Word pour PC)
+- Déploiement 2011.odt (format Open Source Document)
+- Déploiement 2011.pdf (Portable Document Format), etc.
+- .xo : correspond à une Activité sur le XO
+- .xol : correspond à un contenu (ou un objet) dans le XO
+
+** Forum
+
+Espace de discussion publique (ou du moins ouvert à plusieurs participants)
+sur Internet. Les discussions y sont archivées, ce qui permet une
+communication asynchrone.
+
+* G
+
+** Garantie ; /voir Incoterms/
+** GNU/Linux
+
+Alternative libre aux systèmes propriétaires tels que Microsoft Windows et
+Mac OS X qui permet le fonctionnement d'applications telles que les
+navigateurs web, les systèmes de gestion de base de données, les clients de
+messagerie, les environnements de bureau, les logiciels de retouche et de
+traitement d'images, les jeux, etc.  Le système avec toutes ces
+applications est ainsi distribué sous l'appellation « distribution
+GNU/Linux », parmi lesquelles Ubuntu, Red Hat, Debian, Slackware, qui sont
+destinées aux ordinateurs personnels comme aux serveurs informatiques.
+
+** Guide
+
+- « Guide de déploiement » : Apporte toutes les informations concernant un
+  déploiement OLPC et ses différentes phases.
+
+- « Guide de l'ordinateur » : Apporte toutes les informations concernant
+  l'utilisation du XO.
+
+- « Guide Sugar » : Pour tout savoir sur l'interface du XO.
+
+- « Le XO dans la salle de classe » : Destiné aux enseignants, il apporte
+  des exemples et des idées d'utilisation des Activités (origine :
+  déploiement OLPC Pérou)
+
+- « Plan Ceibal » : Informe sur le fonctionnement du Plan Ceibal (OLPC
+  Uruguay) de façon extrêmement précise et détaillée; /voir point 10./
+  (n'existe qu'en espagnol pour l'instant mais en principe disponible en
+  2013 en français.)
+
+* I
+  
+** Incoterms (ou Garantie) 
+
+Termes commerciaux, dont la règlementation est édictée et publiée par la
+Chambre de commerce internationale de Paris.  /Voir aussi sections
+8.2.1. et 8.2.2./
+
+* J
+
+** Journal (Journaux) 
+
+Activité du XO sur laquelle vous pouvez voir et reprendre des travaux
+précédents réalisés dans les Activités ; permet également à l'enseignant de
+vérifier les progrès de ses élèves, /voir aussi section 9.4.3./
+
+* L
+
+** Logistique ;  /voir sections 9.1 et ss./
+
+* M
+
+** Mémoire
+
+- NAND : Système de stockage interne du XO ; /voir aussi section 8.1.3./
+
+- RAM (Random Access Memory). Par opposition à la mémoire fixe (ROM), la
+  mémoire RAM (ou mémoire vive) peut être modifiée à l'infini dès qu'elle
+  est alimentée en électricité. Elle sert à stocker temporairement les
+  fichiers que l'ordinateur exécute. Il en existe de nombreux types. 
+
+** Messagerie instantanée (ou Chat ou Tchat) ; /voir Chat/
+
+** Multidiffusion (ou Multicast)
+
+Forme de diffusion d'un émetteur unique vers un groupe de récepteurs. Les
+termes « diffusion multipoint » ou « diffusion de groupe » sont également
+employés.
+
+* O
+
+** Objet ; /voir Contenu/
+
+** OLPC
+
+One Laptop Per Child ; /voir section 1.1./
+
+** Open Source
+
+Plateforme ou fichier dont la licence respecte les critères établis par
+l'Open Source Initiative : Libre redistribution ainsi qu'accès aux codes
+source et aux travaux dérivés.
+
+* P
+
+** Papert, Seymour ; /voir section 2./
+
+** Phase
+
+- de planification ; /voir section 6/
+- de déploiement ; /voir section 9/
+- de post-déploiement ; /voir section 10/
+
+** Piaget, Jean ; /voir section 2./
+
+** Pièces détachées (ou de rechange) ; /voir section 9.1.3./
+
+** Point d'accès (AP)
+
+Dispositif permettant à plusieurs XO de se connecter afin de former un
+réseau ; se connecte habituellement à un réseau câblé et relaie les données
+entre les XO sans fil et les XO câblés ; plusieurs AP peuvent se relier
+afin de former un réseau plus grand.
+
+** Portail
+
+Site web qui offre une porte d'entrée unique sur un large éventail de
+ressources et de services (courrier électronique, forum de discussion,
+espaces de publication, moteur de recherche) centrés sur un domaine ou une
+communauté particulière. Les utilisateurs ont la plupart du temps la
+possibilité de s'y enregistrer pour s'y connecter ultérieurement et y
+utiliser l'ensemble des services proposés.
+
+** Principes clés ; /voir sections 1.2. et 6.2.2/
+
+** Proxy (ou serveur Proxy)
+
+Ordinateur ou module qui sert d'intermédiaire entre un navigateur Web et
+Internet. Le proxy participe à la sécurité du réseau.
+
+** Python
+
+Langage de programmation libre ; langage multi-paradigme, il n'impose pas
+aux développeurs un type de programmation précis mais leur laisse adopter
+celui de leur choix. Il permet ainsi la programmation orientée objet,
+impérative structurée ou encore fonctionnelle.
+
+* R
+
+** Re-flash stick (ou reflasher)
+
+Processus par lequel on réinitialise le système du XO ; le « reflashage »
+écrase (annule) tous les fichiers, même ceux du Journal ou du
+répertoire/home/olpc : demande donc à être utilisé avec précaution !
+
+** Réseau (ou mode) maillé
+
+Réseau dont tous les hôtes sont connectés de proche en proche sans
+hiérarchie centrale, formant ainsi une structure en forme de filet. Cela
+permet d'éviter des points sensibles qui, en cas de panne, couperaient la
+connexion d'une partie du réseau : si un hôte est hors service, ses voisins
+emprunteront automatiquement une autre voie.
+
+Réseaux maillés OLPC :
+
+- simple : fonctionne entre différents XO sans recours à un serveur d'école.
+- avec serveur d'école : est relayé par un serveur d'école.
+- portail : sert de portail pour un réseau extérieur au maillage
+
+* S
+
+** Serveur
+
+- d'école (ou XS) : Augmente la quantité de données disponibles pour les
+  enfants ; sert aussi de bibliothèque locale et de portail (ou réseau ou
+  mode) pour l'accès Internet ; /voir aussi section 9.4.3./
+
+- Proxy (ou Proxy réseau) ; /voir P/
+
+** Stagiaires (ou volontaires) ; /voir section. 5.4./
+
+** Sugar
+
+Interface du XO constituée de quatre Vues, du Cadre et du Journal ; /voir
+aussi section 2./
+
+** Support (ou assistance ou formation) ; /voir section 5./
+
+- opérationnel ; /voir section 5.1./
+- éducatif / des enseignants ; /voir section 5.2./
+- technique ; /voir section 5.3./
+- par des volontaires ou stagiaires ; /voir section 5.4./
+- initial ; /voir sections 6.2. et  9.3.1./
+- continu ; /voir sections 6.2. et 10.1./
+
+* T
+
+** Tchat (/voir Chat)/
+
+* V
+
+** Vidéoconférence
+
+Téléconférence permettant la transmission de la parole, de documents
+graphiques et des images animées de participants à distance.
+
+** Voix sur IP
+
+Technique qui permet de communiquer par la voix sur des réseaux compatibles
+IP.
+
+** Volontaires (ou stagiaires) ; /voir section 5.4./
+
+* W
+
+** Webinaire
+
+Séminaire de formation ou d'information qui se déroule en direct sur
+Internet.
+
+** Wifi
+
+Ensemble de protocoles de communication sans fil. Un réseau WiFi permet de
+relier sans fil plusieurs appareils informatiques (ordinateur, routeur,
+décodeur Internet, etc.) au sein d'un réseau informatique afin de permettre
+la transmission de données entre eux.
+
+** Wiki 
+
+Site web collaboratif permettant les contributions et mises à jour de la
+communauté concernée ; par exemple : http://wiki.laptop.org,
+http://wiki.sugarlabs.org ou http://olpc-france.org/wiki/
+
+* X
+
+** XO
+
+Ordinateur portable, robuste, puissant et à bas coût conçu par OLPC pour
+dynamiser l'éducation dans les pays en voie de développement ; ses
+spécificités sont le support de réseau maillé ainsi qu'un écran double mode
+à faible consommation d'énergie et lisible en plein soleil ; /voir aussi
+points 1 et 8./
+

@@ -1,6 +1,8 @@
 #+TITLE: Introduction au Guide de Déploiement
 #+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
 #+DATE: 2011-09-12
+#+DESCRIPTION: ONE LAPTOP PER CHILD GUIDE DE DEPLOIEMENT 2011
+#+KEYWORDS: ONE LAPTOP PER CHILD GUIDE DE DEPLOIEMENT 2011
 #+OPTIONS: toc:nil
 
 #+HTML: <div class="menu">
@@ -11,9 +13,10 @@
 
 * Licence
 
-Ce document est sous licence Creative Commons [[http://creativecommons.org/licenses/by/3.0/][CC BY 3.0]].  Il est permis à
-quiconque d'utiliser ce document et d'en produire des versions dérivées
-tant que la source et l'auteur original (One Laptop Per Child) sont cités.
+Ce document est sous licence Creative Commons Creative Commons [[http://creativecommons.org/licenses/by/3.0/][CC BY
+3.0]].  Quiconque est autorisé à utiliser ce document et à en produire des
+versions dérivées tant que la source et l'auteur originels (One Laptop Per
+Child) sont cités.
 
 * Versions
 

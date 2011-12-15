@@ -1,6 +1,8 @@
 #+TITLE: Résumé des tâches recommandées
 #+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
 #+DATE: 2011-09-12
+#+DESCRIPTION: ONE LAPTOP PER CHILD GUIDE DE DEPLOIEMENT 2011
+#+KEYWORDS: ONE LAPTOP PER CHILD GUIDE DE DEPLOIEMENT 2011
 #+OPTIONS: toc:nil
 
 #+HTML: <div class="menu">
@@ -13,31 +15,33 @@
 
 - Définir un budget pour : l'achat, l'infrastructure, la connectivité, le
   personnel.
-- Embaucher un responsable de projet et des responsables pour l'équipe
+- Embaucher un responsable de projet et des directeurs pour l'équipe
   principale.
-- Choisir les communautés ciblées (écoles, centres).
+- Cibler les communautés ciblées (écoles, centres, etc.)
 - Définir les spécifications du XO.
 
 * Phase de déploiement
 
-- Embaucher du personnel pour l'équipe principale.
+- Indispensable que le chef de projet et ses directeurs (éducatif et
+  technique) fassent déjà partie de l'équipe principale.
+
 - Mettre en place une formation pour l'équipe principale avec OLPC.
-- Développer le plan de distribution des ordinateurs.
-- Définir et rassembler des données pour une étude préliminaire.
+- Développer le plan de distribution des XO.
+- Définir et rassembler les données pour une étude préliminaire.
 - Préparer l'infrastructure et la connectivité (au niveau des écoles et des
   communautés).
 - Organiser et faire des formations pour les enseignants.
-- Distribuer les ordinateurs.
+- Distribuer les XO.
 
-* Phase postdéploiement
+* Phase de postdéploiement
 
 - Définir et mettre en oeuvre une stratégie de support technique pour la
-  maintenance et la réparation des ordinateurs.
+  maintenance et la réparation des XO.
 - Définir et superviser des environnements d'apprentissage pour le XO :
   formels (à l'école, dans la classe), non-formels (activités
   extra-scolaires) et informels (maison, famille.)
-- Faire le suivi des formations pour les enseignants.
-- Définir et mettre en oeuvre des études d'évaluation (pour l'apprentissage
+- Suivre la formation des les enseignants.
+- Définir et mettre en oeuvre les études d'évaluation (pour l'apprentissage
   des élèves et l'implémentation du projet.)
 
 #+HTML: <div class="menu">

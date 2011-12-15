@@ -1,6 +1,8 @@
 #+TITLE: Contrats d'achat et processus de commande
 #+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
 #+DATE: 2011-09-12
+#+DESCRIPTION: ONE LAPTOP PER CHILD GUIDE DE DEPLOIEMENT 2011
+#+KEYWORDS: ONE LAPTOP PER CHILD GUIDE DE DEPLOIEMENT 2011
 #+OPTIONS: toc:nil
 
 #+HTML: <div class="menu">
@@ -19,8 +21,8 @@ poursuivre. Le processus de sélection mené par l'école (ou le centre
 éducatif) devrait s'appuyer sur les objectifs du programme tels que la
 saturation basée sur les niveaux d'apprentissage, la saturation basée sur
 la région ou la circonscription ou encore celle basée sur des programmes
-spécialisés. Impliquer les écoles au départ permet  d'encourager les chefs
-d'établissement à apporter une réponse positive au programme et de
+spécialisés. Impliquer les écoles au départ permet d'encourager les chefs
+d'établissement à apporter une réponse positive au programme et à
 faciliter l'appropriation du projet au niveau de l'école. Une étude de
 faisabilité devrait donc prendre en compte :
 
@@ -69,12 +71,12 @@ de stockage adéquate, en supposant une efficacité de 80%.
 
 Si le déploiement se situe dans un lieu distant et isolé n'ayant pas accès
 à l'électricité, les panneaux solaires peuvent être une solution
-alternative, pour autant que les panneaux solaires fonctionnent sur 10 et
-15 watts. Le panneau de 10 W en sortie à 100 % pourra recharger une
-batterie en moins de trois heures si le XO est éteint. S'il est allumé, le
-panneau solaire de 10 W exposé en plein soleil fournira suffisamment de
-puissance moyenne pour faire marcher le XO et charger lentement la batterie
-(en près de six heures).
+alternative, pour autant que ceux-ci fonctionnent sur 10 et 15 watts. Le
+panneau de 10 W en sortie à 100 % pourra recharger une batterie en moins de
+trois heures si le XO est éteint. S'il est allumé, le panneau solaire de 10
+W exposé en plein soleil fournira suffisamment de puissance moyenne pour
+faire marcher le XO et charger lentement la batterie (en près de six
+heures).
 
 #+HTML: <div class="menu">
 - [[file:olpc-deployment-guide-phase-planification.org][Phase de planification]]

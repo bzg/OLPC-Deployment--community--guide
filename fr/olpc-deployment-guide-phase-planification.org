@@ -1,6 +1,8 @@
 #+TITLE: Phase de planification
 #+AUTHOR: OLPC Foundation (c) 2011 One Laptop Per Child Association, Inc.
 #+DATE: 2011-09-12
+#+DESCRIPTION: ONE LAPTOP PER CHILD GUIDE DE DEPLOIEMENT 2011
+#+KEYWORDS: ONE LAPTOP PER CHILD GUIDE DE DEPLOIEMENT 2011
 #+OPTIONS: toc:nil
 
 #+HTML: <div class="menu">
@@ -70,11 +72,11 @@ peut-être traduit en budget et en nombre d'ordinateurs à déployer.
 * Principes clés
 
 Il est important pour l'équipe chargée du déploiement de comprendre
-certains point clés concernant les coûts impliqués dans la réalisation du
+certains principes clés concernant les coûts impliqués dans la réalisation du
 projet :
 
-- Nous recommandons que l'équipe dispose de personnes à temps plein et sans
-  autres responsabilités pour gérer le déploiement,. Idéalement, une
+- Nous recommandons à l'équipe de disposer de personnes à temps plein et
+  sans autres responsabilités pour gérer le déploiement. Idéalement, une
   nouvelle société, association ou agence gouvernementale doit être formée
   pour assumer cette responsabilité. Bien qu'une telle approche puisse
   paraître plus coûteuse, OLPC estime que ce coût est plus que compensé par
@@ -171,7 +173,7 @@ que les coût d'exploitation mensuels et le salaire des employés.
 | Générateur au diesel/gasoline             | Coût en carburant par litre                |
 |-------------------------------------------+--------------------------------------------|
 | *Coûts de connectivité*                   | *Coûts de connectivité*                    |
-| Modem Dsl                                 | Coût mensuel du modem Dsl                  |
+| Modem DSL                                 | Coût mensuel du modem DSL                  |
 | Terminal Satellite                        | Coût mensuel du terminal satellite         |
 | Modem GSM                                 | Coût mensuel du modem GSM                  |
 
